@@ -1,0 +1,736 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="it" xml:lang="it"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.9.36">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="ExTemporanea">
+<meta name="keywords" content="biopolitica, Deleuze, immaginario, matematica, valutazione del rischio">
+
+<title>Matematiche del contagio, pratiche d’attenzione – Scienceground</title>
+<style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../uploads/2020/08/cropped-upload_18a5a7a63b4434f192c0281f9c183ef7.png" rel="icon" type="image/png">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-158031087360bce0ff56dc785ce39e06.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "Nessun risultato",
+    "search-matching-documents-text": "documenti trovati",
+    "search-copy-link-title": "Copiare il link nella ricerca",
+    "search-hide-matches-text": "Nascondere i risultati aggiuntivi",
+    "search-more-match-text": "ci sono altri risultati in questo documento",
+    "search-more-matches-text": "ulteriori risultati in questo documento",
+    "search-clear-button-title": "Pulire",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancellare",
+    "search-submit-button-title": "Inviare",
+    "search-label": "Ricerca"
+  }
+}</script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="../styles.css">
+</head>
+
+<body class="nav-fixed fullcontent quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../uploads/2020/08/cropped-upload_18a5a7a63b4434f192c0281f9c183ef7.png" alt="" class="navbar-logo light-content">
+    <img src="../uploads/2020/08/cropped-upload_18a5a7a63b4434f192c0281f9c183ef7.png" alt="" class="navbar-logo dark-content">
+    </a>
+    <a class="navbar-brand" href="../index.html">
+    <span class="navbar-title">Scienceground</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Ricerca"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Attiva/disattiva la navigazione" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../a-proposito.html"> 
+<span class="menu-text">A proposito</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../fanzina.html"> 
+<span class="menu-text">Fanzine</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../extemporanea.html"> 
+<span class="menu-text">Newslettera</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../laboratori.html"> 
+<span class="menu-text">Laboratori</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-rusco-linguacciuto" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Rusco linguacciuto</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-rusco-linguacciuto">    
+        <li>
+    <a class="dropdown-item" href="../rusco-linguacciuto.html">
+ <span class="dropdown-text">Rusco linguacciuto</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../rusco-linguacciuto-2021.html">
+ <span class="dropdown-text">Rusco linguacciuto 2021</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="https://www.spreaker.com/show/4529392"> 
+<span class="menu-text">Podcast</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../index.html#category=Libere Letture"> 
+<span class="menu-text">Libere Letture</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../index.html#category=Bibliografie"> 
+<span class="menu-text">Bibliografie</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../eventi.html"> 
+<span class="menu-text">Eventi</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../en/index.html"> 
+<span class="menu-text">English</span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://t.me/extemporanea"> <i class="bi bi-telegram" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="../index.xml"> <i class="bi bi-rss" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Matematiche del contagio, pratiche d’attenzione</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">DiarioDalBordo</div>
+  </div>
+  </div>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Autore/Autrice</div>
+    <div class="quarto-title-meta-contents">
+             <p>ExTemporanea </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Data di Pubblicazione</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">6 maggio 2020</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+<div>
+  <div class="keywords">
+    <div class="block-title">Parole chiave</div>
+    <p>biopolitica, Deleuze, immaginario, matematica, valutazione del rischio</p>
+  </div>
+</div>
+
+</header>
+
+
+<p><img src="../uploads/2020/05/8.jpg" class="featured-image img-fluid"></p>
+<p><em>[Mattia Galeotti per scienceground.it]</em></p>
+<section id="vocabolario" class="level2">
+<h2 class="anchored" data-anchor-id="vocabolario">Vocabolario</h2>
+<p>Cominciamo introducendo tre termini che hanno riempito i dibattiti televisivi, i dialoghi nei talk show, i post sui social network: paziente zero, crescita esponenziale, picco epidemico.</p>
+<section id="il-paziente-zero" class="level3">
+<h3 class="anchored" data-anchor-id="il-paziente-zero">Il paziente zero</h3>
+<p>La ricerca del paziente zero, già raccontata <a href="https://tomate.wordpress.com/2020/03/02/una-storia-inventata/">qui</a>, è un esempio di ragionamento <em>autoriferito</em>. Non ha infatti l’obiettivo (né, spesso, la possibilità) di individuare questo “paziente originario”. Qual è quindi la sua funzione?</p>
+<p>All’inizio del contagio il virus si espande ad albero: ad ogni individuo infetto è possibile associare una radice (colui che gli ha passato il virus) e vari germogli (le persone infettate). Seguire questa discendenza a ritroso si rivela più complicato mano a mano che l’epidemia cresce. Interromperla in un qualche punto è infine un’operazione arbitraria, perché è quasi impossibile dimostrare che un certo individuo sia stato proprio il primo a portare il virus in Italia. La ricerca dettagliata delle origini, per quanto fondata su un modello solido, comincia quindi a formulare cartografie sempre più vaghe e insicure, senza aggiungere reali contenuti. Perché lo fa? Perché siamo sicuri che ogni infetto italiano ha ricevuto il virus da un altro essere umano, e quindi la domanda “da chi?” può essere posta. Ma se la risposta a questa domanda è non-verificabile, la domanda stessa si riferisce solo a se stessa. Quando la pronunciamo stiamo solo ribadendo il modello dell’infezione come filiazione.</p>
+<p>Una speculazione autoriferita e senza contenuto, assolve comunque una funzione: far percepire un controllo sul fenomeno. Nel panorama politico mediatico, la ricerca del paziente zero significa che l’albero del virus è ben definito; la possibilità di indicare le (presunte) radici del virus, significa che i decisori politici conoscono e sono in grado di gestire l’infezione.</p>
+<hr>
+</section>
+<section id="esponenziale" class="level3">
+<h3 class="anchored" data-anchor-id="esponenziale">Esponenziale</h3>
+<p>La crescita esponenziale è stata il secondo topos ad aver conquistato il campo mediatico. Una crescita esponenziale è molto rapida ed è caratterizzata dal suo tempo di raddoppio <span class="math inline">\(t\)</span>: se a un certo istante <span class="math inline">\(t_0\)</span> il numero di infetti è <span class="math inline">\(N\)</span>, all’istante <span class="math inline">\(t_0+t\)</span> sarà di <span class="math inline">\(2N\)</span>.</p>
+<p>I processi epidemici nella loro fase iniziale seguono un andamento esponenziale, spieghiamo il perché: consideriamo un individuo infetto e supponiamo che questo abbia la capacità in condizioni normali di infettare R persone; ognuna di queste persone infetterà a sua volta altre R persone, portando il totale di infetti dopo due generazioni a <span class="math inline">\(R \cdot R=R^2\)</span> (stiamo supponendo per semplicità che nel tempo di due generazioni i primi malati guariscano o muoiano). Dopo la terza generazione avremo <span class="math inline">\(R^3\)</span> infetti, dopo la quarta <span class="math inline">\(R^4\)</span> e così via… Ovviamente man mano che l’infezione avanza avremo due limiti ovvi (e molti altri meno ovvi) a questa modellizzazione semplificata:</p>
+<p>i. esistono persone con molte meno interazioni di altre, sacche di “solitari” o “sedentari” con bassa capacità infettiva;<br>
+ii. le conoscenze potenzialmente infettate di due persone possono sovrapporsi (amicizie comuni), e questo diventa tanto più impattante sul modello quanto più aumenta il numero di infetti.</p>
+<p>Passiamo al tampone. I metodi per la rivelazione dei malati non sono fatti con controlli casuali: si comincia dalle persone infette e si cerca nella loro cerchia di contatti; essere entrati in contatto con un individuo positivo è una condizione necessaria a ricevere il tampone. Questo metodo è efficace in situazioni d’emergenza, permette di identificare più malati con meno sforzo.</p>
+<p>In conseguenza la crescita del numero dei tamponi segue anch’essa un andamento esponenziale: supponiamo che in una data zona la frazione di popolazione con il virus sia <span class="math inline">\(v\)</span>, partiamo da un individuo positivo che è entrato in contatto con <span class="math inline">\(Q\)</span> persone; a questeQ persone viene fatto il tampone e <span class="math inline">\(v Q=R_1\)</span>&nbsp;risultano positive. Saranno pertanto necessari <span class="math inline">\(Q\)</span> tamponi per ognuna di queste, cioè <span class="math inline">\(v Q \cdot Q = v Q^2\)</span>, e di questi ancora <span class="math inline">\(v \cdot v Q^2=v^2 \cdot Q^2 = R_1^2\)</span>&nbsp;saranno positivi. E così via <span class="math inline">\(R_1^3\)</span> dopo tre generazioni, <span class="math inline">\(R_1^4\)</span> dopo quattro, ecc.</p>
+<p>Nell’ipotesi in cui il virus è, almeno in certe zone, già diffuso, il protocollo d’emergenza del SSN rileverà <em>inevitabilmente</em> un esponenziale. In che momento la rilevazione diventerà una buona descrizione del livello di diffusione del virus? Non è facile dirlo, i fattori sono molti (diffusione del virus, estensione della zona epidemica, condizioni di isolamento di certi territori,…). Un recente <a href="https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-Europe-estimates-and-NPI-impact-30-03-2020.pdf">articolo</a> dell’<em>Imperial College COVID-19 Response Team</em> fornisce una stima degli infetti con modelli di questo tipo: il risultato ha un’incertezza doppia rispetto al dato stimato (3%-26% con una stima del 9.8% di popolazione infetta); alcune ipotesi utilizzate nel paper sono inoltre di difficile verifica, come il trattamento di ogni paese in maniera isolata dagli altri (sull’isolamento di popolazioni più o meno omogenee torneremo nel paragrafo successivo).</p>
+<p>La rilevazione (tramite test di positività al virus) di un andamento esponenziale, non permette di dire da quando è cominciata l’epidemia, e non ci permette nemmeno di asserire che quello rilevato sia il vero tasso di crescita dell’infezione.</p>
+<hr>
+</section>
+<section id="il-picco" class="level3">
+<h3 class="anchored" data-anchor-id="il-picco">Il picco</h3>
+<p>Il grafico mostra un’infezione in crescita vertiginosa, il dato raggiunge un massimo, e poi scende per avvicinarsi con lentezza ad un tasso di contagio nullo. Accanto a questa curva, ce n’è un’altra più smussata, come una collinetta larga accanto a una vetta montuosa alpina. «smussare la curva. rinviare il picco», questo il principio guida che ha segnato la prima fase dell’epidemia.</p>
+<p>Il grafico appena descritto è la raffigurazione del processo di sviluppo delle malattie infettive: l’epidemia si propaga fino a saturare la popolazione, a un certo punto il tasso di crescita scende perché i guariti sono immuni dal virus, l’epidemia non può più espandersi e comincia a regredire fino a scomparire. Con misure di contenimento più o meno marcate, il tasso di crescita è fin dall’inizio più basso, quindi la saturazione della popolazione avviene più lentamente e il numero di persone presenti in ospedale nello stesso tempo, diminuisce.</p>
+<p>L’ipotesi implicita è che tutta la popolazione sia interessata dal processo. Se però un fattore esterno interviene prima della saturazione della popolazione, la descrizione deve cambiare. È il caso dell’epidemia di spagnola del 1918-19: il sopraggiungere della stagione calda (e altri fattori) fece calare il tasso di contagiosità del virus fin quasi a debellarlo, ma con il ritorno dell’autunno un secondo picco colpì violentemente tutta Europa, perché il bacino di potenziali infetti era rimasto in parte separato dalla dinamica infettiva.</p>
+<p>Cosa accade se le misure di quarantena separano segmenti di popolazione? Quando una popolazione molto colpita e una scarsamente colpita entrano di nuovo in contatto, il virus può ricominciare a espandersi. Il primo grafico descrive una situazione in cui il virus si muove in maniera omogenea, se invece alcuni focolai vengono isolati, bisognerà immaginare un secondo picco quando le barriere scompaiono, e magari anche altri picchi successivi.</p>
+<p>La delimitazione di popolazioni potrebbe non essere solo geografica, ma riguardare segmenti di popolazione più o meno ricchi (chi è ricco può proteggersi meglio, non è costretto ad andare al lavoro, ecc.). Le questioni si moltiplicano: nell’ambiente della prigione, quando il virus entra ha una grande capacità di diffusione; tra città e campagna c’è una grande differenza di contagiosità; ecc.</p>
+<p>Se la circolazione non rispetta le condizioni di omogeneità ipotizzate, la descrizione con un picco ben identificabile non è predittiva (se due popolazioni confinanti raggiungono il picco con una sfasatura temporale, potrebbero esserci effetti di “ritorno” che peggiorano la situazione). Insomma, il grafico del picco descrive una situazione con circolazione omogenea, ma questa condizione è modificata dalle stesse misure di quarantena che cercano di rinviare il picco.</p>
+<hr>
+<ul>
+<li>Nel caso del paziente zero, la descrizione è sicuramente vera, ma impossibile da ricostruire empiricamente.</li>
+<li>Nel caso dell’esponenziale, il formalismo dell’esponenziale è sicuramente verificato perché strutturale (nei primi giorni) al metodo di misura</li>
+<li>Infine nel caso del picco, il grafico descrive bene l’andamento se viene rispettata un’ipotesi di omogeneità, ma questa ipotesi può essere verificata solo in maniera circolare (autoriferita): quando il grafico è quello indicato -cioè senza rimbalzi nel tasso di contagiosità- allora l’ipotesi è rispettata.</li>
+</ul>
+<hr>
+</section>
+</section>
+<section id="regime-del-significante" class="level2">
+<h2 class="anchored" data-anchor-id="regime-del-significante">Regime del significante</h2>
+<p>Questo meccanismo di segni che rinviano ad altri segni in maniera circolare, senza bisogno di ancorarsi ad un contenuto originale, rientra in quello che Deleuze e Guattari denominamo <em>regime del significante</em> in Millepiani. La descrizione, in questo regime linguistico, non è legata a una capacità predittiva del fenomeno.<br>
+Non stiamo dicendo che gli strumenti matematici sopra citati sono inutili, né per la descrizione emergenziale né sul lungo periodo. Ci soffermiamo però sul fatto che il loro utilizzo oggi, la loro frettolosa applicazione all’emergenza Covid, è in larga parte slegato dalla capacità predittiva.</p>
+<p>La constatazione che “non stiamo (pre)dicendo nulla” però non basta, perché la sovrapproduzione di discorso ha una funzione sociale-linguistica: un certo paradigma semantico continua ad autoriprodursi nel momento della crisi, quando l’organizzazione sanitaria non è in grado di arginare l’epidemia. Non si tratta solo di errori di valutazione: in un mondo ad alta connettività il paradigma della cura-ospedaliera centralizzata, non sembra in grado di reggere le epidemie che quest’idea di globalità porta con sé. La sovrapproduzione discorsiva sembra voler “tenere insieme” un tessuto (quello che va dalla ricerca medica, al discorso sulla scienza, alla politica, all’organizzazione degli Stati) che si è rivelato inadeguato.<br>
+La catastrofe coronavirus non è di breve durata, ma si prolunga su settimane, quindi catastrofe e costruzione dell’emergenza (cioè di discorso sulla catastrofe) convivono.</p>
+<p>Il discorso matematico autoriferito sembra volerci dire «ehi tranquilli, il nostro modo di pensare il mondo è ancora in grado di gestire la situazione: andrà tutto bene!». Ma questa profezia autoavverante non soddisfa: il problema è <em>come</em> ce la faremo, in quanti moriremo, a quale costo emotivo e psicologico, con quali conseguenze politiche ed etiche.<br>
+Sarebbe forse più potente per tutti constatare che la descrizione scientifica della situazione non produce senso. C’è uno spazio dell’attesa e in questo spazio va prodotto nuovo senso senza rinvii e senza affidarsi a un centro significante autoriferito.<br>
+In questo momento non esiste un governo dell’evento epidemico, ma solo un governo della popolazione durante l’epidemia.</p>
+</section>
+<section id="cittadini-responsabiliti-o-sguardi-dattenzione" class="level2">
+<h2 class="anchored" data-anchor-id="cittadini-responsabiliti-o-sguardi-dattenzione">Cittadini responsabiliti o sguardi d’attenzione?</h2>
+<p>Tra i luoghi più adatti a diffondere il virus troviamo ospedali, scuole e prigioni, siti che contengono nella loro stessa architettura un potere infettante.</p>
+<p>I paradossi che nascono da una situazione del genere sono trasparenti. L’organizzazione della vita collettiva sembra ritorcersi contro se stessa: le stanze degli ospedali che diventano vettori del virus. E poi, i senza-casa o senza-permesso-di-soggiorno che violano gli ordini di confinamento, dovrebbero essere portati dalla polizia in galere più pericolose di qualsiasi riparo di fortuna? Quelle galere dove per ora è apparsa la più forte risposta contro la vita segregata della quarantena? Se qualcuno non ha soldi per mangiare, e in assembramento raggiunge un supermercato, gli sbirri dovrebbero staccare delle multe?</p>
+<p>L’infettività degli ospedali viene dalla loro <a href="https://ilgiornaledellarchitettura.com/web/2020/03/04/il-vaso-di-pandora-il-coronavirus-e-gli-ospedali-fabbriche-della-salute/">organizzazione ideologica</a>: luoghi dove la cura si centralizza, dove si concentrano i referenti del sapere medico. Le persone -che per l’ospedale sono individui/pazienti separati gli uni dagli altri- vi convergono con le loro corporeità, entrano in contatto reciproco e per questo si ammalano. La cura pensata come processo industriale, diventa iatrogenetica in sé (la iatrogenesi è lo sviluppo di patologie causate da trattamenti medici).<br>
+Questo fatto assume il valore di metafora: la Società oggi è il referente universale che organizza tanti io separati, responsabili e produttivi; produttivi perché responsabili e separati. Il virus manda in contraddizione questa binarietà (io-Società): i governanti chiedono responsabilità, ma per far sopravvivere la totalità condivisa devono continuamente organizzare alcuni fattori di rischio, come la distribuzione del cibo o l’attività manufatturiera.</p>
+<p>Nei primi giorni di pericolo e paura, questa contraddizione è stata poco evidente. Con la “fase 2” diventerà più lampante che le attività necessarie alla sopravvivenza dell’economia (ma ci diranno «di tutti noi») convivono con una continua responsabilizzazione individuale: andate al lavoro, ma con la mascherina! Andate nei supermercati a comprarvi il cibo, ma poi non fate aperitivo nei parchi! Certo potete raggiungere i “congiunti”, ma solo se imparentati! Andate in ospedale se state male, ma non chiamate nessuno al vostro capezzale! Queste contraddizioni si aggiungeranno alle regole diseguali regione per regione, alle zone vaghe del diritto su cui differenti autorità rivendicheranno delle decisioni.</p>
+<p>In questa confusione il terreno a cui saremo quotidianamente confrontati sarà quello dell’attenzione, un concetto ben diverso da responsabilità: l’attenzione è contingente, capace di confrontare fattori sanitari con fattori psicologi e desideri specifici. L’attenzione parte dalle relazioni specifiche, un incontro, una spesa al supermercato, una situazione di possibile malattia,… e ridefinisce continuamente i propri principi guida a partire dal contesto in cui è calata. La responsabilità al contrario rimanda a un principio regolatore, un protocollo cui affidarsi. In questi giorni ci rendiamo conto che un protocollo unico non solo è inesistente, ma anche impensabile: ogni pretesa di afferrare il fenomeno-coronavirus – che sia dal punto di vista scientifico sanitario o legislativo – si rivela uno stratagemma narrativo funzionale al governo della popolazione e della produzione.</p>
+<p>Come tradurre in azione collettiva questa centralità dell’attenzione, rispetto all’ossessione per la responsabilità?<br>
+Protocolli decentralizzati, da poter fare casa per casa; impegno nella ricerca di soluzioni non ospedaliere, potenziamento dei ruoli intermedi tra medico e paziente e di tutte le professioni sanitarie; quotidiane decisioni comunitarie, sul tipo di attività da riprendere e su quelle da fermare, sugli svaghi da tutelare. Lo scarto tra individuo e Società è pieno, è lo spazio dove realmente avviene la vita: questo spazio va riempito, e va fatto adesso, nel momento in cui la produzione prova a ripartire senza rimettere in discussione i suoi fondamenti infetti.<br>
+Bisogna portare attenzione a ciò che c’è di infetto nei comportamenti normali, alle maniere organizzate in cui lo Stato diffonde il virus; dobbiamo impegnarci perché l’ossessione verso i gesti individuali passi in secondo piano rispetto alla ri-organizzazione di abitudini collettive.</p>
+<p>La peculiarità di una <em>politica dell’attenzione</em> è quella di trasferire a strutture territoriali i saperi scientifici, l’organizzazione della cura, la scelta su ciò che è urgente e desiderabile.</p>
+<p>In molti casi la differenza tra attenzione e responsabilità sembra un sofismo. Il terreno che porterà allo scoperto la biforcazione dei due significati sarà quello del monitoraggio. L’esigenza di centralizzare una presa di dati sul virus appartiene infatti al calcolo economico. La possibilità di approfondire il proprio stato di salute non va confusa con il controllo pervasivo. Sappiamo che dovremo convivere col virus e con un’idea di infezione latente nell’organizzazione del mondo: in questo scenario, cura significa attenzione ai gesti, strategie di controllo personali e interpersonali. Le soluzioni finali governative avranno sempre uno stretto legame con la presa di dati, per ristabilire un piano di significazione, e dunque di valorizzazione: distinguere il controllo centralizzante dai gesti di cura, e dalla loro organizzazione locale, sarà tra le sfide politiche centrali dei prossimi anni.</p>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copiato!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copiato!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp("https:\/\/fturci\.github\.io\/extemporanea-quarto\/");
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>© Scienceground · eXtemporanea</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+<p>Contenuti trasferiti dal sito WordPress extemporanea.eu / scienceground.it</p>
+</div>
+  </div>
+</footer>
+
+
+
+
+</body></html>

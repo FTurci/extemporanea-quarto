@@ -1,0 +1,682 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="it" xml:lang="it"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.9.36">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="ExTemporanea">
+<meta name="keywords" content="Algoritmo Umano">
+
+<title>Questo articolo è stato generato da un algoritmo umano – Scienceground</title>
+<style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../uploads/2020/08/cropped-upload_18a5a7a63b4434f192c0281f9c183ef7.png" rel="icon" type="image/png">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-158031087360bce0ff56dc785ce39e06.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "Nessun risultato",
+    "search-matching-documents-text": "documenti trovati",
+    "search-copy-link-title": "Copiare il link nella ricerca",
+    "search-hide-matches-text": "Nascondere i risultati aggiuntivi",
+    "search-more-match-text": "ci sono altri risultati in questo documento",
+    "search-more-matches-text": "ulteriori risultati in questo documento",
+    "search-clear-button-title": "Pulire",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancellare",
+    "search-submit-button-title": "Inviare",
+    "search-label": "Ricerca"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="../styles.css">
+</head>
+
+<body class="nav-fixed fullcontent quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../uploads/2020/08/cropped-upload_18a5a7a63b4434f192c0281f9c183ef7.png" alt="" class="navbar-logo light-content">
+    <img src="../uploads/2020/08/cropped-upload_18a5a7a63b4434f192c0281f9c183ef7.png" alt="" class="navbar-logo dark-content">
+    </a>
+    <a class="navbar-brand" href="../index.html">
+    <span class="navbar-title">Scienceground</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Ricerca"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Attiva/disattiva la navigazione" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../a-proposito.html"> 
+<span class="menu-text">A proposito</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../fanzina.html"> 
+<span class="menu-text">Fanzine</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../extemporanea.html"> 
+<span class="menu-text">Newslettera</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../laboratori.html"> 
+<span class="menu-text">Laboratori</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-rusco-linguacciuto" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Rusco linguacciuto</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-rusco-linguacciuto">    
+        <li>
+    <a class="dropdown-item" href="../rusco-linguacciuto.html">
+ <span class="dropdown-text">Rusco linguacciuto</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../rusco-linguacciuto-2021.html">
+ <span class="dropdown-text">Rusco linguacciuto 2021</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="https://www.spreaker.com/show/4529392"> 
+<span class="menu-text">Podcast</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../index.html#category=Libere Letture"> 
+<span class="menu-text">Libere Letture</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../index.html#category=Bibliografie"> 
+<span class="menu-text">Bibliografie</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../eventi.html"> 
+<span class="menu-text">Eventi</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../en/index.html"> 
+<span class="menu-text">English</span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://t.me/extemporanea"> <i class="bi bi-telegram" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="../index.xml"> <i class="bi bi-rss" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Questo articolo è stato generato da un algoritmo umano</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">AlgoritmoUmano</div>
+  </div>
+  </div>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Autore/Autrice</div>
+    <div class="quarto-title-meta-contents">
+             <p>ExTemporanea </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Data di Pubblicazione</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">11 gennaio 2020</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+<div>
+  <div class="keywords">
+    <div class="block-title">Parole chiave</div>
+    <p>Algoritmo Umano</p>
+  </div>
+</div>
+
+</header>
+
+
+<p><img src="../uploads/2020/01/PNansen_red.jpeg" class="featured-image img-fluid"></p>
+<p><em>La rivista letteraria <a href="https://www.passaportonansen.it/">Passaporto Nansen</a> ci ha chiesto un contributo al loro ultimo numero, coraggiosamente dedicato ad una valutazione dei primi vent’anni di vita culturale nel XXIesimo secolo. Abbiamo deciso di produrre l’articolo seguendo questo algoritmo: 1) Entro lunedì sera appuntate una frase, un paragrafo, un capoverso, che secondo voi potrebbe inserirsi all’interno di un discorso complessivo; 2) Entro lunedì sera chi vuole si candida a diventare editore-autore-curatore dell’articolo; 3) Entro mercoledì sera i curatori-editori-autori avranno letto il materiale e cominceranno il lavoro di organizzazione del materiale; 4) Entro venerdì sera la bozza di articolo viene inoltrata a tutto il resto del gruppo; dopodiché ognuno potrà metterci mano come meglio crede; 5) Entro domenica mattina facciamo l’ultima revisione; 6) Entro Lunedì mattina, 30 Settembre, l’articolo viene mandato, così com’è, a Passaporto Nansen.</em> <em>Ecco cosa ne è venuto fuori.</em></p>
+<p>Una sera a cena ci [1] venne annunciato a bruciapelo che a Settembre avremmo dovuto dare una mano per una roba letteraria che si organizzava tra amici. Impossibile spiegare cosa è stata quella prima esperienza, e quelle a venire.</p>
+<p>Ventitré anni dopo abbiamo tra le mani il <em>pamphlet</em> doloroso e necessario di Goffredo Fofi, <em>L’oppio dei popoli</em> [2]. Scrive Fofi:</p>
+<blockquote class="blockquote">
+<p>«Il tempo in cui i festival cinematografici e letterari e i loro affini e collaterali avevano un significato attivo e propositivo è finito da tempo […] Hanno certo svolto una loro funzione, facendo incontrare lettori e scrittori, spettatori e registi, ma questa funzione, man mano che la società dello spettacolo li investiva e cooptava, l’hanno perduta scegliendo la grancassa e il mercato, la supinità alle mode, l’intreccio tra la produzione più recente e il turismo. E sempre di più il modello dominante è il più estremo: Mantova o Cannes.»</p>
+</blockquote>
+<p>Imputato proprio il nostro Festivaletteratura, di cui siamo stati, come scienziati di formazione o in formazione (ma non solo), volontari e consulenti alla programmazione scientifica. Con molta passione.</p>
+<p>Spiace leggere queste parole. Eppure da tempo nutriamo pensieri simili. Così ci siamo espressi in una recente lettera al comitato organizzatore:</p>
+<blockquote class="blockquote">
+<p>«Forse negli anni ’90 poteva avere senso creare una narrazione comune, universale, illuminata (e, diciamolo, un po’ di classe). Ma oggi? Oggi c’è il dissesto, siamo di fronte a problemi globali tremendi e le persone non si fidano più delle istituzioni (e della scienza stessa). Se il festival ha una vocazione sociale, bisogna aiutare le persone a creare strumenti critici di analisi, e sicuramente la narrativa è tra questi strumenti. Ma deve cambiare il modo di approcciare questi strumenti: rendere il festival la casa di comunità di persone che li usano attivamente, e non che ricevono passivamente delle narrazioni, sentendosi appagati di aver sentito le parole dei giusti.»</p>
+</blockquote>
+<p>Festivaletteratura è stato capostipite dell’ondata festivaliera che ha investito l’Italia negli ultimi vent’anni. È forse tempo allora di discutere cos’è stata questa epopea, nel bene e nel male. Tante domande ci arrovellano. Se la festa è il momento finale di un percorso lungo e faticoso (come la sagra stava al raccolto), qual è il percorso di cui i festival sono il momento finale? Esiste un’intercapedine in cui i festival possono agire da mediatori sociali tra i cittadini e le altre istituzioni (scuola, università, editoria, assessorati, etc.), tutte altrettanto coinvolte nella stessa identica crisi? Quali aspetti spirituali/comunitari sono tutelati dai festival?</p>
+<p>Serve una grande inchiesta collettiva. A partire dalla domanda più semplice: chi frequenta i festival? Nel caso di Festivaletteratura, alla luce dell’analisi di Noemi Ponzoni [3] possiamo già fare un’ipotesi, prendendo a prestito una “generalizzazione eroica” di Paul Ginsborg: il ceto medio riflessivo [4], [5]. Una categoria sociale trasversale composta di persone mediamente colte, agiate, e critiche della modernità e di certe sue derive. In questa classe Ginsborg vede il potenziale civico che può “salvare l’Italia” grazie alla sua naturale tendenza al <em>bridging</em>, creare ponti verso altri. Evidentemente però questo non sta funzionando: il ceto medio riflessivo riflette se stesso. Da luoghi di <em>bridging</em> i festival sono diventati roccaforti di <em>bonding</em>: stanze in cui guardarsi compiaciuti allo specchio e rafforzare i legami con chi la pensa alla stessa maniera.</p>
+<p>Come recuperare allora il potenziale perduto? Abbiamo una proposta: coltivando microbi.</p>
+<hr>
+<p>All’interno di Festivaletteratura ha luogo <em>Scienceground</em>, uno spazio di sperimentazione di nuove forme di conversazione sulla scienza, curato dalla giovane comunità <em>ExTemporanea</em>. L’ultima (nonché seconda) edizione era dedicata ai microbi e ai loro ecosistemi. Tra i partecipanti, la filosofa <em>nella</em> biologia Lynn Chiu ha invitato a essere meno manichei nei confronti di queste bestioline, illustrando come anche il virus dell’herpes può essere utile per allenare il sistema immunitario ad affrontare minacce più gravi. L’antropologo César Giraldo Herrera ha spiegato che l’approccio sciamanico alla malattia prevede proprio di scenderci a patti [6]. Con le parole di Donna Haraway: “staying with the trouble”.</p>
+<p>L’omonima pubblicazione [7] di quest’ultima autrice e pensatrice proteiforme parte proprio dalla premessa problematica dell’inefficacia delle due principali risposte ai più importanti e urgenti scandali del XXI secolo: sperare o mollare. Ci confrontiamo con le conseguenze nefaste del cambiamento climatico per tutti gli esseri viventi. Con il danneggiamento e la distruzione degli ecosistemi conosciuti, sia vegetali che animali e umani. Con le disuguaglianze socioeconomiche e lo sfruttamento di risorse e popolazioni. Con conflitti interni e guerre esterne. Un serpente che si morde la coda, che si autogenera e si autodivora. Esiste un altro modo per districare questo oruboros che non sia aspettare il salvifico intervento di un Dio – simbolico o materiale che sia (le religioni, la tecnologia, il capitale…) – oppure l’Apocalisse (nucleare, naturale…)?</p>
+<p>Alla ricerca di questa terza via possiamo prendere a prestito dalla microbiologia, notando che “cultura” e “coltura batterica” in inglese si scrivono allo stesso modo. Si tratta pur sempre di coltivare qualcosa. Crescere i microbi che vivono sulle nostre mani su piastre di Petri: coltura o cultura? Esistono vari approcci diversi all’esperimento scientifico, ognuno dei quali incarna lo spirito del proprio tempo: diversa la prospettiva di chi dispone delle tecniche avanzate di sequenziamento del DNA, e di chi si confrontava con le prime ipotesi epidemiologiche sull’esistenza dei germi. Possiamo allora tentare di contestualizzare e imparare da entrambi usando un ventaglio di strumenti.</p>
+<p>In una società post-ideologica come quella degli anni Duemila anche il principio di autorità della scienza è rigettato. Una sua narrazione coerente deve allora farsi locale, situata ed infine antropologica. Accantonando l’idea rassicurante di una fantomatica “verità scientifica”, la sfida è portare al centro del discorso pubblico i processi (regole, convenzioni, miti…) dell’incedere scientifico. La conversazione scientifica va <em>riterritorializzata</em> e <em>ripoliticizzata</em> [8], ed è fondamentale instaurare spazi d’innesco di tali conversazioni, innestandole proprio tra un nodo e l’altro delle maglie del sistema, «dove l’aperto si fa mondo», e dove possono formarsi nuove insperate connessioni.</p>
+<p>Forse per questo è utile che la scienza entri in un festival letterario: non per risolvere i problemi, ma per imparare insieme a ripensarli, forse addirittura a conviverci, costruendo ponti tra quelle isole di saperi che la marea dell’industrializzazione ha separato.</p>
+<hr>
+<p>A corollario della riunione pubblica conclusiva di Scienceground è stato osservato come, cercando il generale nel particolare, si può fare un parallelismo tra i processi di apprendimento automatico e l’approccio di ExTemporanea al difficile problema del rapporto tra scienza e società: muovendo passi piccoli in molte direzioni, non casuali ma abbastanza ampi da poter “uscire dal seminato”. Confrontando la comunità in modo attivo con chi partecipa agli eventi si sistema il cammino secondo le caratteristiche del progetto.</p>
+<p>L’entusiasmo è tanto e la cautela è saggia, e i passi per ampliare (e se ampliare) il progetto sono altrettanto delicati. Un pensiero sorge all’incrocio tra l’entusiasmo e l’angoscia: se l’aumento è la dimensione dell’industrializzazione, come far crescere il percorso?</p>
+<p>Proprio la specificità della rassegna mantovana ha qualche lezione da insegnare. Certo Festivaletteratura è soggetto alle (e attore delle) pressioni di vari mercati. Eppure, forte com’è di un’articolata coesione sociale, non ne è in balìa. E come spesso succede con gli esseri ibridi, se i difetti sono ben visibili, i pregi sono nascosti. La fabbrica della cultura ha obiettivi definiti e quantificabili; i processi comunitari invece lavorano nel sottobosco, hanno finalità eterogenee, non hanno un’immagine coordinata, e anzi la rifuggono. La loro vera misura è la qualità della narrazione interna.</p>
+<p>Forse allora Fofi (non ce ne voglia se lo prendiamo come <em>escamotage</em> polemico) cade nello stesso tranello che il potere che denuncia (senza però riuscire a delinearlo) tende al pubblico-gregge che addita (idem): il convincimento che non ci sia altro, perché lo spazio mediatico è già stato accaparrato. Eppure, negli anfratti di questo sistema che compulsivamente consuma tutto ciò che ha forma definita, stabilendo al contempo il campo e le regole del gioco, la strategia delle minoranze è creare spazi, riti, linguaggi sempre nuovi. Una specie di guerriglia: al contempo comunicare, rimanendo invisibili. Questa modalità d’azione si scontra con il sogno positivista di un progresso lineare verso un futuro migliore e uguale per tutti. Siamo abituati e delegare verticalmente da secoli, ed è difficile pensare a qualcosa d’altro. L’orizzontalità invece genera modelli simili agli ecosistemi, grazie alla qualità delle relazioni che nascono nel gruppo. L’obiettivo di ogni membro di un ecosistema, nella sua specificità, è quello di tutelare l’ecosistema stesso, con i suoi contrasti interni. Mai del tutto risolvibili, ma condivisibili e convivibili.</p>
+<p>I più-giovani-di-noi oggi vivono in un mondo in cui non sembra esserci un solo angolo non già occupato da mercati che sfruttano e rendono sterile l’immaginario che le generazioni precedenti non hanno saputo proteggere. I nuovi adolescenti dovranno muoversi tra le rovine, generando codici interni per creare comunità estemporanee che escludano i responsabili del dissesto, e che creino spazi nuovi (spesso virtuali) dove spazio non ce n’è più. Caro Goffredo, saremo giustamente accantonati: i tatuaggi, l’”internet”, etc. non sono solo mode di massa. Sono vasti mondi in cui ci si aggrega in tanti modi per costruire narrazioni diverse e cangianti, e su cui un’industria sempre più disperata si avventa, in cerca della nuova formula vincente (come per il tuo amato documentario d’inchiesta).</p>
+<p>È qui che può nascere ciò di cui abbiamo bisogno: nuove rappresentazioni, nuovi schemi di pensiero, per tentativi (non soluzioni!). Quello che la Haraway chiama <em>pensiero tentacolare</em> riferendosi alla fitta rete della quale è intessuto il nostro mondo, un’interconnessione oggi più che mai sviluppata in molteplici e diversi livelli, della quale ci sentiamo sempre più consapevoli. Eppure è con difficoltà che cerchiamo di tracciare momentanee linee tra questo e quello, tra bene e male, tra Noi e Altro – linee magari poco utili, o addirittura disastrose. Impariamo allora a “star(ci) insieme”. E in quest’ottica proviamo a ripensare le modalità dei nostri momenti di associazione locali, che non si limitino a <em>riflettere</em>, ma che sappiano <em>rispondere</em> attivamente e degnamente alle esigenze delle persone che ci sono attorno. Come dice la Haraway:</p>
+<blockquote class="blockquote">
+<p>«È nostro compito essere problematici, incitare risposte forti a eventi devastanti, ma anche calmare acque agitate e ricostruire spazi tranquilli. […] Convivere coi problemi comporta imparare ad essere realmente presenti, non come un evanescente punto di svolta tra terribili/idilliaci passati e apocalittici/salvifici futuri, ma come mortali creature intrecciate in miriadi di configurazioni incompiute di luoghi, tempi, sostanze, significati.»</p>
+</blockquote>
+<p>Le nuove comunità però si scontrano contro il tempo: l’estemporaneità è un problema reale, come lo è il precariato. Come certi parchi naturali, certe comunità dovrebbero essere tutelate. Una comunità nel tempo diventa saggia, si radica, convivendo nel contesto e nell’ambiente in cui si collocano le sue azioni. Diventa endemica. Anche — perché no? — all’interno di un festival letterario.</p>
+<p>[1]: Qui e oltre: ad intendere “ad uno degli autori”.<br>
+[2]: Goffredo Fofi, <em>L’oppio dei popoli</em> (eléuthera, 2019).<br>
+[3]: Noemi Ponzoni, <em>“Fully booked”: Audience analysis and engagement at Festivaletteratura</em>. Master Thesis, School of economics, management and statistics, University of Bologna (2016).<br>
+[4]: Da <em>Berlusconismo</em>, a cura di Paul Ginsborg e Enrica Asquer (Laterza Editori, 2012)<br>
+[5]: Paul Ginsborg, <em>Salviamo l’Italia</em> (Giulio Einaudi Editore, 2010).<br>
+[6]: César Giraldo Herrera, <em>Microbes and other shamanic beings</em> (Palgrave, 2018)<br>
+[7]: Donna Haraway, <em>Staying with the Trouble</em> (Duke University Press, 2016).<br>
+[8]: Mattia Galeotti, <em>Ripoliticizzare le scienze</em>, Jacobin Italia, 17 Maggio 2019 <a href="https://jacobinitalia.it/ripoliticizzare-le-scienze/" class="uri">https://jacobinitalia.it/ripoliticizzare-le-scienze/</a></p>
+
+
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copiato!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copiato!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp("https:\/\/fturci\.github\.io\/extemporanea-quarto\/");
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>© Scienceground · eXtemporanea</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+<p>Contenuti trasferiti dal sito WordPress extemporanea.eu / scienceground.it</p>
+</div>
+  </div>
+</footer>
+
+
+
+
+</body></html>

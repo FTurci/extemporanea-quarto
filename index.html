@@ -1,0 +1,4228 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="it" xml:lang="it"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.9.36">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Scienceground</title>
+<style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./uploads/2020/08/cropped-upload_18a5a7a63b4434f192c0281f9c183ef7.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-158031087360bce0ff56dc785ce39e06.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "Nessun risultato",
+    "search-matching-documents-text": "documenti trovati",
+    "search-copy-link-title": "Copiare il link nella ricerca",
+    "search-hide-matches-text": "Nascondere i risultati aggiuntivi",
+    "search-more-match-text": "ci sono altri risultati in questo documento",
+    "search-more-matches-text": "ulteriori risultati in questo documento",
+    "search-clear-button-title": "Pulire",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancellare",
+    "search-submit-button-title": "Inviare",
+    "search-label": "Ricerca"
+  }
+}</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-date','listing-title','listing-author','listing-categories','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      page: 15,
+    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="styles.css">
+<link rel="alternate" type="application/rss+xml" title="Scienceground" href="index.xml" data-external="1"></head>
+
+<body class="nav-fixed quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./uploads/2020/08/cropped-upload_18a5a7a63b4434f192c0281f9c183ef7.png" alt="" class="navbar-logo light-content">
+    <img src="./uploads/2020/08/cropped-upload_18a5a7a63b4434f192c0281f9c183ef7.png" alt="" class="navbar-logo dark-content">
+    </a>
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">Scienceground</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Ricerca"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Attiva/disattiva la navigazione" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./a-proposito.html"> 
+<span class="menu-text">A proposito</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./fanzina.html"> 
+<span class="menu-text">Fanzine</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./extemporanea.html"> 
+<span class="menu-text">Newslettera</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./laboratori.html"> 
+<span class="menu-text">Laboratori</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-rusco-linguacciuto" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Rusco linguacciuto</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-rusco-linguacciuto">    
+        <li>
+    <a class="dropdown-item" href="./rusco-linguacciuto.html">
+ <span class="dropdown-text">Rusco linguacciuto</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./rusco-linguacciuto-2021.html">
+ <span class="dropdown-text">Rusco linguacciuto 2021</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="https://www.spreaker.com/show/4529392"> 
+<span class="menu-text">Podcast</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html#category=Libere Letture"> 
+<span class="menu-text">Libere Letture</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html#category=Bibliografie"> 
+<span class="menu-text">Bibliografie</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./eventi.html"> 
+<span class="menu-text">Eventi</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./en/index.html"> 
+<span class="menu-text">English</span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://t.me/extemporanea"> <i class="bi bi-telegram" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="./index.xml"> <i class="bi bi-rss" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-page-left">
+      <h1 class="title">Scienceground</h1>
+            <p class="subtitle lead">Conversazioni su scienza e società</p>
+                      </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta column-page-left">
+
+      
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <h5 class="quarto-listing-category-title">Categorie</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Tutti <span class="quarto-category-count">(115)</span></div><div class="category" data-category="JTQwRmVzdGl2YWxldHRlcmF0dXJh">@Festivaletteratura <span class="quarto-category-count">(20)</span></div><div class="category" data-category="QWxnb3JpdG1vVW1hbm8=">AlgoritmoUmano <span class="quarto-category-count">(3)</span></div><div class="category" data-category="QmlibGlvZ3JhZmll">Bibliografie <span class="quarto-category-count">(4)</span></div><div class="category" data-category="RGlhcmlvRGFsQm9yZG8=">DiarioDalBordo <span class="quarto-category-count">(8)</span></div><div class="category" data-category="RmFuemluYQ==">Fanzina <span class="quarto-category-count">(5)</span></div><div class="category" data-category="TGFib3JhdG9yaQ==">Laboratori <span class="quarto-category-count">(5)</span></div><div class="category" data-category="TGliZXJlJTIwTGV0dHVyZQ==">Libere Letture <span class="quarto-category-count">(8)</span></div><div class="category" data-category="TmV3c2xldHRlcmE=">Newslettera <span class="quarto-category-count">(27)</span></div><div class="category" data-category="UnVzY28lMjBsaW5ndWFjY2l1dG8=">Rusco linguacciuto <span class="quarto-category-count">(17)</span></div><div class="category" data-category="VmFyaWUlMjZldmVudHVhbGk=">Varie&amp;eventuali <span class="quarto-category-count">(25)</span></div></div></div>
+<!-- main -->
+<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+
+
+
+
+
+
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+    <select id="listing-listing-sort" class="form-select" aria-label="Ordinare per" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+      <option value="" disabled="" selected="" hidden="">Ordinare per</option>
+      <option value="index" data-direction="asc">Predefinito</option>
+      <option value="listing-title" data-direction="asc">
+        Titolo
+      </option>
+      <option value="listing-date-sort" data-direction="asc">
+        Data - Meno recente
+      </option>
+      <option value="listing-date-sort" data-direction="desc">
+        Data - Più recente
+      </option>
+      <option value="listing-author" data-direction="asc">
+        Autore/Autrice
+      </option>
+    </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filtro">
+    </div>
+</div>
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="VmFyaWUlMjZldmVudHVhbGk=" data-listing-date-sort="1677456000000" data-listing-file-modified-sort="1793031771048" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="139">
+<div class="thumbnail"><a href="./posts/questioni-di-metodo.html" class="no-external">
+
+<img loading="lazy" src="./uploads/2023/02/9a6f3d30-26f1-4044-a51d-16ff1669e8de-1200x1200.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/questioni-di-metodo.html" class="no-external">Questioni di metodo</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('VmFyaWUlMjZldmVudHVhbGk='); return false;">Varie&amp;eventuali</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/questioni-di-metodo.html" class="no-external">
+&nbsp;
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/questioni-di-metodo.html" class="no-external">
+<div class="listing-date">
+27 feb 2023
+</div>
+<div class="listing-author">
+Tomate
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="JTQwRmVzdGl2YWxldHRlcmF0dXJh" data-listing-date-sort="1673395200000" data-listing-file-modified-sort="1793031771022" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="480">
+<div class="thumbnail"><a href="./posts/28-scienceground-1-625-metamorfosi.html" class="no-external">
+
+<img loading="lazy" src="./uploads/2022/08/sg16.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/28-scienceground-1-625-metamorfosi.html" class="no-external">{#28} Scienceground 1.625 – Metamorfosi</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('JTQwRmVzdGl2YWxldHRlcmF0dXJh'); return false;">@Festivaletteratura</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/28-scienceground-1-625-metamorfosi.html" class="no-external">
+In questo numero: - Scienceground 1.625 a Festivaletteratura - Ospitalità a Mantova, 7-11 settembre - Bibliografia metamorfica - Dal rusco linuacciuto: incolto (friche)
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/28-scienceground-1-625-metamorfosi.html" class="no-external">
+<div class="listing-date">
+11 gen 2023
+</div>
+<div class="listing-author">
+Tomate
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="JTQwRmVzdGl2YWxldHRlcmF0dXJh" data-listing-date-sort="1662418800000" data-listing-file-modified-sort="1793031771032" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1357">
+<div class="thumbnail"><a href="./posts/didattica-o-divulgazione-quale-scienza-insegnare-nella-scuola-secondaria.html" class="no-external">
+
+<img loading="lazy" src="./uploads/2022/09/didattica.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/didattica-o-divulgazione-quale-scienza-insegnare-nella-scuola-secondaria.html" class="no-external">Didattica o divulgazione: quale scienza insegnare nella scuola secondaria?</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('JTQwRmVzdGl2YWxldHRlcmF0dXJh'); return false;">@Festivaletteratura</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/didattica-o-divulgazione-quale-scienza-insegnare-nella-scuola-secondaria.html" class="no-external">
+<em>Proponiamo una discussione aperta, stimolata da una breve presentazione, rivolta prevalentemente a insegnanti, a studenti e studentesse, e a ricercatrici e ricercatori. Il…</em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/didattica-o-divulgazione-quale-scienza-insegnare-nella-scuola-secondaria.html" class="no-external">
+<div class="listing-date">
+6 set 2022
+</div>
+<div class="listing-author">
+Tomate
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-categories="UnVzY28lMjBsaW5ndWFjY2l1dG8=" data-listing-date-sort="1660518000000" data-listing-file-modified-sort="1793031771051" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="275">
+<div class="thumbnail"><a href="./posts/rho2-coltivazione-di-dati-data-mining.html" class="no-external">
+
+<img loading="lazy" src="./uploads/2022/08/rl4-1200x389.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/rho2-coltivazione-di-dati-data-mining.html" class="no-external">{ϱ2} Coltivazione di dati (data mining)</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('UnVzY28lMjBsaW5ndWFjY2l1dG8='); return false;">Rusco linguacciuto</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/rho2-coltivazione-di-dati-data-mining.html" class="no-external">
+Proposta di traduzione di <em>data-mining</em>.
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/rho2-coltivazione-di-dati-data-mining.html" class="no-external">
+<div class="listing-date">
+15 ago 2022
+</div>
+<div class="listing-author">
+Tomate
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="4" data-categories="UnVzY28lMjBsaW5ndWFjY2l1dG8=" data-listing-date-sort="1660518000000" data-listing-file-modified-sort="1793031771052" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="306">
+<div class="thumbnail"><a href="./posts/rho2-ecoabluzione-ecoabluzionismo-greenwashing.html" class="no-external">
+
+<img loading="lazy" src="./uploads/2022/08/rl3-1200x317.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/rho2-ecoabluzione-ecoabluzionismo-greenwashing.html" class="no-external">{ϱ2} Ecoabluzione/ecoabluzionismo (greenwashing)</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('UnVzY28lMjBsaW5ndWFjY2l1dG8='); return false;">Rusco linguacciuto</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/rho2-ecoabluzione-ecoabluzionismo-greenwashing.html" class="no-external">
+Proposte di traduzione di <em>greenwashing</em>.
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/rho2-ecoabluzione-ecoabluzionismo-greenwashing.html" class="no-external">
+<div class="listing-date">
+15 ago 2022
+</div>
+<div class="listing-author">
+Tomate
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="5" data-categories="UnVzY28lMjBsaW5ndWFjY2l1dG8=" data-listing-date-sort="1660518000000" data-listing-file-modified-sort="1793031771053" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="224">
+<div class="thumbnail"><a href="./posts/rho3-dato-alchimia-data-mining.html" class="no-external">
+
+<img loading="lazy" src="./uploads/2022/08/rl4-1200x389.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/rho3-dato-alchimia-data-mining.html" class="no-external">{ϱ3} Dato-alchimia (data mining)</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('UnVzY28lMjBsaW5ndWFjY2l1dG8='); return false;">Rusco linguacciuto</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/rho3-dato-alchimia-data-mining.html" class="no-external">
+Proposta di traduzione di <em>data-mining</em>.
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/rho3-dato-alchimia-data-mining.html" class="no-external">
+<div class="listing-date">
+15 ago 2022
+</div>
+<div class="listing-author">
+Tomate
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="6" data-categories="UnVzY28lMjBsaW5ndWFjY2l1dG8=" data-listing-date-sort="1660518000000" data-listing-file-modified-sort="1793031771053" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="222">
+<div class="thumbnail"><a href="./posts/rho4-ecocrisia-greenwashing.html" class="no-external">
+
+<img loading="lazy" src="./uploads/2022/08/rl3-1200x317.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/rho4-ecocrisia-greenwashing.html" class="no-external">{ϱ4} Ecocrisia (greenwashing)</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('UnVzY28lMjBsaW5ndWFjY2l1dG8='); return false;">Rusco linguacciuto</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/rho4-ecocrisia-greenwashing.html" class="no-external">
+Proposta di traduzione di <em>greenwashing</em>.
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/rho4-ecocrisia-greenwashing.html" class="no-external">
+<div class="listing-date">
+15 ago 2022
+</div>
+<div class="listing-author">
+Tomate
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="7" data-categories="UnVzY28lMjBsaW5ndWFjY2l1dG8=" data-listing-date-sort="1660518000000" data-listing-file-modified-sort="1793031771054" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="161">
+<div class="thumbnail"><a href="./posts/rho4-territorianza-landship.html" class="no-external">
+
+<img loading="lazy" src="./uploads/2022/08/rl2-1200x331.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/rho4-territorianza-landship.html" class="no-external">{ϱ4} Territorianza (Landship)</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('UnVzY28lMjBsaW5ndWFjY2l1dG8='); return false;">Rusco linguacciuto</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/rho4-territorianza-landship.html" class="no-external">
+Proposta di traduzione di <em>landship</em>.
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/rho4-territorianza-landship.html" class="no-external">
+<div class="listing-date">
+15 ago 2022
+</div>
+<div class="listing-author">
+Tomate
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="8" data-categories="UnVzY28lMjBsaW5ndWFjY2l1dG8=" data-listing-date-sort="1660518000000" data-listing-file-modified-sort="1793031771056" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="158">
+<div class="thumbnail"><a href="./posts/rho7-incolto-friche.html" class="no-external">
+
+<img loading="lazy" src="./uploads/2022/08/rl6-1200x379.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/rho7-incolto-friche.html" class="no-external">{ϱ7} Incolto (Friche)</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('UnVzY28lMjBsaW5ndWFjY2l1dG8='); return false;">Rusco linguacciuto</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/rho7-incolto-friche.html" class="no-external">
+Proposta di traduzione di <em>friche</em>.
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/rho7-incolto-friche.html" class="no-external">
+<div class="listing-date">
+15 ago 2022
+</div>
+<div class="listing-author">
+Tomate
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="9" data-categories="UnVzY28lMjBsaW5ndWFjY2l1dG8=" data-listing-date-sort="1660258800000" data-listing-file-modified-sort="1793031771053" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="183">
+<div class="thumbnail"><a href="./posts/rho4-ecumenita-landship.html" class="no-external">
+
+<img loading="lazy" src="./uploads/2022/08/rl5-1200x385.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/rho4-ecumenita-landship.html" class="no-external">{ϱ4} Ecumenità (Landship)</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('UnVzY28lMjBsaW5ndWFjY2l1dG8='); return false;">Rusco linguacciuto</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/rho4-ecumenita-landship.html" class="no-external">
+Proposta di traduzione della parola&nbsp;inglese <em>landship.</em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/rho4-ecumenita-landship.html" class="no-external">
+<div class="listing-date">
+12 ago 2022
+</div>
+<div class="listing-author">
+Tomate
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="10" data-categories="QmlibGlvZ3JhZmll" data-listing-date-sort="1660086000000" data-listing-file-modified-sort="1793031771029" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="929">
+<div class="thumbnail"><a href="./posts/beta6-metamorfosi.html" class="no-external">
+
+<img loading="lazy" src="./uploads/2022/08/sg16.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/beta6-metamorfosi.html" class="no-external">{β6} Metamorfosi</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('QmlibGlvZ3JhZmll'); return false;">Bibliografie</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/beta6-metamorfosi.html" class="no-external">
+Selezione bibliografica a cura di Alessandro Sarti per la biblioteca d’Area del CNR di Bologna.
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/beta6-metamorfosi.html" class="no-external">
+<div class="listing-date">
+10 ago 2022
+</div>
+<div class="listing-author">
+Tomate
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="11" data-categories="JTQwRmVzdGl2YWxldHRlcmF0dXJh" data-listing-date-sort="1660086000000" data-listing-file-modified-sort="1793031771039" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="213">
+<div class="thumbnail"><a href="./posts/incontri-scienceground-1-625.html" class="no-external">
+
+<img loading="lazy" src="./uploads/2022/08/sg14.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/incontri-scienceground-1-625.html" class="no-external">Incontri @ Scienceground 1.625</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('JTQwRmVzdGl2YWxldHRlcmF0dXJh'); return false;">@Festivaletteratura</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/incontri-scienceground-1-625.html" class="no-external">
+Il settore alimentare è centrale per il nostro Paese, ma è anche tra le principali <em>vittime</em> del cambiamento climatico. Dalle filiere corte al <em>vertical farming</em>, quale modello…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/incontri-scienceground-1-625.html" class="no-external">
+<div class="listing-date">
+10 ago 2022
+</div>
+<div class="listing-author">
+Tomate
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="12" data-categories="JTQwRmVzdGl2YWxldHRlcmF0dXJh" data-listing-date-sort="1660086000000" data-listing-file-modified-sort="1793031771043" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="762">
+<div class="thumbnail"><a href="./posts/laboratori-scienceground-1-625.html" class="no-external">
+
+<img loading="lazy" src="./uploads/2022/08/sg13.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/laboratori-scienceground-1-625.html" class="no-external">Laboratori @ Scienceground 1.625</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('JTQwRmVzdGl2YWxldHRlcmF0dXJh'); return false;">@Festivaletteratura</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/laboratori-scienceground-1-625.html" class="no-external">
+In questo laboratorio su due giorni, si ragionerà sui cambiamenti a livello fisico e chimico che avvengono comunemente in un habitat terrestre, per costruire gli strumenti…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/laboratori-scienceground-1-625.html" class="no-external">
+<div class="listing-date">
+10 ago 2022
+</div>
+<div class="listing-author">
+Tomate
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="13" data-categories="JTQwRmVzdGl2YWxldHRlcmF0dXJh" data-listing-date-sort="1660086000000" data-listing-file-modified-sort="1793031771045" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="235">
+<div class="thumbnail"><a href="./posts/lavagne-scienceground-1-625.html" class="no-external">
+
+<img loading="lazy" src="./uploads/2022/08/sg15.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/lavagne-scienceground-1-625.html" class="no-external">Lavagne @ Scienceground 1.625</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('JTQwRmVzdGl2YWxldHRlcmF0dXJh'); return false;">@Festivaletteratura</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/lavagne-scienceground-1-625.html" class="no-external">
+<em>Conchiglie, pinguini e staminali</em> è un’antologia critica di saggi eco/cyborg/trans*femministi che interrogano i posizionamenti umani nelle reti ecologiche di cui siamo parte.…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/lavagne-scienceground-1-625.html" class="no-external">
+<div class="listing-date">
+10 ago 2022
+</div>
+<div class="listing-author">
+Tomate
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="14" data-categories="JTQwRmVzdGl2YWxldHRlcmF0dXJhJTJDTGliZXJlJTIwTGV0dHVyZQ==" data-listing-date-sort="1660086000000" data-listing-file-modified-sort="1793031771045" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="333">
+<div class="thumbnail"><a href="./posts/libere-letture-scienceground-1-625.html" class="no-external">
+
+<img loading="lazy" src="./uploads/2022/08/sg10.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/libere-letture-scienceground-1-625.html" class="no-external">Libere letture @ Scienceground 1.625</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('JTQwRmVzdGl2YWxldHRlcmF0dXJh'); return false;">@Festivaletteratura</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('TGliZXJlJTIwTGV0dHVyZQ=='); return false;">Libere Letture</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/libere-letture-scienceground-1-625.html" class="no-external">
+Che cos’è davvero il “metodo scientifico”? Nella pratica quotidiana della ricerca, esso funziona esattamente come scienziate ed epistemologi lo raccontano? Non è che le idee…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/libere-letture-scienceground-1-625.html" class="no-external">
+<div class="listing-date">
+10 ago 2022
+</div>
+<div class="listing-author">
+Tomate
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="15" data-categories="JTQwRmVzdGl2YWxldHRlcmF0dXJh" data-listing-date-sort="1660086000000" data-listing-file-modified-sort="1793031771056" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="95">
+<div class="thumbnail"><a href="./posts/rusco-linguacciuto-scienceground-1-625.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2022/08/sg15-1.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/rusco-linguacciuto-scienceground-1-625.html" class="no-external">Rusco linguacciuto @ Scienceground 1.625</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('JTQwRmVzdGl2YWxldHRlcmF0dXJh'); return false;">@Festivaletteratura</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/rusco-linguacciuto-scienceground-1-625.html" class="no-external">
+Per essere sentita, devi parlare la lingua di chi vuoi che ti ascolti.
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/rusco-linguacciuto-scienceground-1-625.html" class="no-external">
+<div class="listing-date">
+10 ago 2022
+</div>
+<div class="listing-author">
+Tomate
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="16" data-categories="JTQwRmVzdGl2YWxldHRlcmF0dXJh" data-listing-date-sort="1660086000000" data-listing-file-modified-sort="1793031771058" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="252">
+<div class="thumbnail"><a href="./posts/scienceground-1-625-metamorfosi.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2022/08/sg0.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/scienceground-1-625-metamorfosi.html" class="no-external">Scienceground 1.625 – Metamorfosi</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('JTQwRmVzdGl2YWxldHRlcmF0dXJh'); return false;">@Festivaletteratura</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/scienceground-1-625-metamorfosi.html" class="no-external">
+&nbsp;
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/scienceground-1-625-metamorfosi.html" class="no-external">
+<div class="listing-date">
+10 ago 2022
+</div>
+<div class="listing-author">
+Tomate
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="17" data-categories="JTQwRmVzdGl2YWxldHRlcmF0dXJh" data-listing-date-sort="1660086000000" data-listing-file-modified-sort="1793031771062" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="368">
+<div class="thumbnail"><a href="./posts/spazi-e-attivita-permanenti-scienceground-1-625.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2022/08/sg10.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/spazi-e-attivita-permanenti-scienceground-1-625.html" class="no-external">Spazi e attività permanenti @ Scienceground 1.625</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('JTQwRmVzdGl2YWxldHRlcmF0dXJh'); return false;">@Festivaletteratura</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/spazi-e-attivita-permanenti-scienceground-1-625.html" class="no-external">
+Come ormai siamo abituati a Scienceground, anche quest’anno, i nostri spazi rimarranno aperti e disponibili per il pubblico per tutta la durata del Festival.<br>
+
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/spazi-e-attivita-permanenti-scienceground-1-625.html" class="no-external">
+<div class="listing-date">
+10 ago 2022
+</div>
+<div class="listing-author">
+Tomate
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="18" data-categories="TGFib3JhdG9yaQ==" data-listing-date-sort="1657753200000" data-listing-file-modified-sort="1793031771040" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1173">
+<div class="thumbnail"><a href="./posts/intelligenze-artificiali-tra-miti-e-algoritmi.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2022/07/AI2-4.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/intelligenze-artificiali-tra-miti-e-algoritmi.html" class="no-external">Intelligenze artificiali tra miti e algoritmi</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('TGFib3JhdG9yaQ=='); return false;">Laboratori</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/intelligenze-artificiali-tra-miti-e-algoritmi.html" class="no-external">
+  
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/intelligenze-artificiali-tra-miti-e-algoritmi.html" class="no-external">
+<div class="listing-date">
+14 lug 2022
+</div>
+<div class="listing-author">
+Tomate
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="19" data-categories="TmV3c2xldHRlcmE=" data-listing-date-sort="1654988400000" data-listing-file-modified-sort="1793031771021" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="716">
+<div class="thumbnail"><a href="./posts/27-vari-e-varie.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2022/06/27_1.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/27-vari-e-varie.html" class="no-external">{#27} Vari e varie</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('TmV3c2xldHRlcmE='); return false;">Newslettera</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/27-vari-e-varie.html" class="no-external">
+«Il suo scopo, come è tipico di molti specialisti, sembra quello di circoscrivere accuratamente l’oggetto dei suoi studi, rendendolo per così dire neutrale e alla fine, a…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/27-vari-e-varie.html" class="no-external">
+<div class="listing-date">
+12 giu 2022
+</div>
+<div class="listing-author">
+Tomate
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="20" data-categories="UnVzY28lMjBsaW5ndWFjY2l1dG8=" data-listing-date-sort="1649631600000" data-listing-file-modified-sort="1793031771051" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="283">
+<div class="thumbnail"><a href="./posts/rho2-ambientalismo-di-convenienza.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2022/02/rl9-1200x236.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/rho2-ambientalismo-di-convenienza.html" class="no-external">{ϱ2} Ambientalismo di convenienza</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('UnVzY28lMjBsaW5ndWFjY2l1dG8='); return false;">Rusco linguacciuto</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/rho2-ambientalismo-di-convenienza.html" class="no-external">
+Proposta di traduzione della parola inglese Greenwashing.
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/rho2-ambientalismo-di-convenienza.html" class="no-external">
+<div class="listing-date">
+11 apr 2022
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="21" data-categories="TmV3c2xldHRlcmE=" data-listing-date-sort="1649199600000" data-listing-file-modified-sort="1793031771021" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="647">
+<div class="thumbnail"><a href="./posts/26-adulte-e-vaccinate.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2022/02/vax1-1200x966.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/26-adulte-e-vaccinate.html" class="no-external">{#26} Adulte e vaccinate?</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('TmV3c2xldHRlcmE='); return false;">Newslettera</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/26-adulte-e-vaccinate.html" class="no-external">
+«Non mi curo e non mi sono mai curato, anche se la medicina e i dottori io li rispetto. (Per di più sono anche superstizioso al massimo grado o per lo meno quanto basta per…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/26-adulte-e-vaccinate.html" class="no-external">
+<div class="listing-date">
+6 apr 2022
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="22" data-categories="QmlibGlvZ3JhZmll" data-listing-date-sort="1646956800000" data-listing-file-modified-sort="1793031771031" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="42">
+<div class="thumbnail"><a href="./posts/bibliografie.html" class="no-external">
+
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/bibliografie.html" class="no-external">Bibliografie</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('QmlibGlvZ3JhZmll'); return false;">Bibliografie</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/bibliografie.html" class="no-external">
+I libri sono parte fondamentale del nostro metabolismo. Li raccogliamo in bibliografie ragionate. Alcune di queste bibliografie sono consultabili presso la Biblioteca d’Area…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/bibliografie.html" class="no-external">
+<div class="listing-date">
+11 mar 2022
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="23" data-categories="TGliZXJlJTIwTGV0dHVyZQ==" data-listing-date-sort="1646956800000" data-listing-file-modified-sort="1793031771046" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="40">
+<div class="thumbnail"><a href="./posts/libere-letture.html" class="no-external">
+
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/libere-letture.html" class="no-external">Libere Letture</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('TGliZXJlJTIwTGV0dHVyZQ=='); return false;">Libere Letture</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/libere-letture.html" class="no-external">
+Ogni anno eXtemporanea seleziona alcuni libri (romanzi, saggi, pubblicazioni scientifiche) che ben si prestano ad una discussione sul ruolo sociale della scienza. Partendo…<em></em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/libere-letture.html" class="no-external">
+<div class="listing-date">
+11 mar 2022
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="24" data-categories="RGlhcmlvRGFsQm9yZG8=" data-listing-date-sort="1646956800000" data-listing-file-modified-sort="1793031771047" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="191">
+<div class="thumbnail"><a href="./posts/lopposizione-ai-vaccini-al-tempo-di-covid-19.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2022/02/vax3-1200x885.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/lopposizione-ai-vaccini-al-tempo-di-covid-19.html" class="no-external">L’opposizione ai vaccini al tempo di CoViD-19</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('RGlhcmlvRGFsQm9yZG8='); return false;">DiarioDalBordo</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/lopposizione-ai-vaccini-al-tempo-di-covid-19.html" class="no-external">
+«Non mi curo e non mi sono mai curato anche se la medicina e i dottori io li rispetto. (Per di più sono anche superstizioso al massimo grado o per lo meno quanto basta per…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/lopposizione-ai-vaccini-al-tempo-di-covid-19.html" class="no-external">
+<div class="listing-date">
+11 mar 2022
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="25" data-categories="UnVzY28lMjBsaW5ndWFjY2l1dG8=" data-listing-date-sort="1646956800000" data-listing-file-modified-sort="1793031771050" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="251">
+<div class="thumbnail"><a href="./posts/rho1-territorio-residuale-drosscape.html" class="no-external">
+
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/rho1-territorio-residuale-drosscape.html" class="no-external">{ϱ1} Territorio residuale (drosscape)</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('UnVzY28lMjBsaW5ndWFjY2l1dG8='); return false;">Rusco linguacciuto</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/rho1-territorio-residuale-drosscape.html" class="no-external">
+Proposta di traduzione della parola&nbsp;inglese <em>drosscape.</em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/rho1-territorio-residuale-drosscape.html" class="no-external">
+<div class="listing-date">
+11 mar 2022
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="26" data-categories="QmlibGlvZ3JhZmll" data-listing-date-sort="1646352000000" data-listing-file-modified-sort="1793031771029" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="373">
+<div class="thumbnail"><a href="./posts/beta5-microbi.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2022/03/20220225_164835-011-1200x1202.jpeg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/beta5-microbi.html" class="no-external">{β5} Microbi</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('QmlibGlvZ3JhZmll'); return false;">Bibliografie</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/beta5-microbi.html" class="no-external">
+<em>Selezione bibliografica per la biblioteca d’Area del CNR di Bologna</em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/beta5-microbi.html" class="no-external">
+<div class="listing-date">
+4 mar 2022
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="27" data-categories="TmV3c2xldHRlcmE=" data-listing-date-sort="1646006400000" data-listing-file-modified-sort="1793031771020" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="869">
+<div class="thumbnail"><a href="./posts/25-la-newsletter-che-verra.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2022/02/25_1-1200x804.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/25-la-newsletter-che-verra.html" class="no-external">{#25} La newsletter che verrà</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('TmV3c2xldHRlcmE='); return false;">Newslettera</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/25-la-newsletter-che-verra.html" class="no-external">
+«Vedi caro amico cosa si deve inventare<br>
+Per poter riderci sopra»
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/25-la-newsletter-che-verra.html" class="no-external">
+<div class="listing-date">
+28 feb 2022
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="28" data-categories="TGliZXJlJTIwTGV0dHVyZQ==" data-listing-date-sort="1644883200000" data-listing-file-modified-sort="1793031771046" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="305">
+<div class="thumbnail"><a href="./posts/linguistica-per-tutte.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2022/02/linguaggi-1200x851.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/linguistica-per-tutte.html" class="no-external">Linguistica per tutte</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('TGliZXJlJTIwTGV0dHVyZQ=='); return false;">Libere Letture</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/linguistica-per-tutte.html" class="no-external">
+Anche a voi è arrivata l’eco mediatica sul <em>linguaggio inclusivo</em>?<br>
+Siete rimaste insoddisfatte da un dibattito dai toni sempre più esagerati, ma non vi accontentate nemmeno di…<br><em></em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/linguistica-per-tutte.html" class="no-external">
+<div class="listing-date">
+15 feb 2022
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="29" data-categories="UnVzY28lMjBsaW5ndWFjY2l1dG8=" data-listing-date-sort="1644883200000" data-listing-file-modified-sort="1793031771050" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="586">
+<div class="thumbnail"><a href="./posts/rho1-paesaggio-relitto-drosscape.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2022/02/rl1-1200x395.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/rho1-paesaggio-relitto-drosscape.html" class="no-external">{ϱ1} Paesaggio relitto (drosscape)</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('UnVzY28lMjBsaW5ndWFjY2l1dG8='); return false;">Rusco linguacciuto</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/rho1-paesaggio-relitto-drosscape.html" class="no-external">
+Proposta di traduzione della parola&nbsp;inglese <em>drosscape.</em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/rho1-paesaggio-relitto-drosscape.html" class="no-external">
+<div class="listing-date">
+15 feb 2022
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="30" data-categories="UnVzY28lMjBsaW5ndWFjY2l1dG8=" data-listing-date-sort="1643760000000" data-listing-file-modified-sort="1793031771049" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="316">
+<div class="thumbnail"><a href="./posts/rho1-drosscape.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2022/02/rl1-1200x395.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/rho1-drosscape.html" class="no-external">{ϱ1} Drosscape</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('UnVzY28lMjBsaW5ndWFjY2l1dG8='); return false;">Rusco linguacciuto</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/rho1-drosscape.html" class="no-external">
+<em>[Il Rusco linguacciuto è un gioco proposto da eXtemporanea]</em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/rho1-drosscape.html" class="no-external">
+<div class="listing-date">
+2 feb 2022
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="31" data-categories="UnVzY28lMjBsaW5ndWFjY2l1dG8=" data-listing-date-sort="1643760000000" data-listing-file-modified-sort="1793031771052" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="211">
+<div class="thumbnail"><a href="./posts/rho2-greenwashing.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2022/02/rl2-1200x331.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/rho2-greenwashing.html" class="no-external">{ϱ2} Greenwashing</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('UnVzY28lMjBsaW5ndWFjY2l1dG8='); return false;">Rusco linguacciuto</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/rho2-greenwashing.html" class="no-external">
+Si parla di <em>greenwashing</em> per indicare le pratiche adottate da quelle aziende od organizzazioni interessate ad acquisire una reputazione «verde», ossia ecologica, senza che…<br><em></em><br><br>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/rho2-greenwashing.html" class="no-external">
+<div class="listing-date">
+2 feb 2022
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="32" data-categories="UnVzY28lMjBsaW5ndWFjY2l1dG8=" data-listing-date-sort="1643760000000" data-listing-file-modified-sort="1793031771052" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="149">
+<div class="thumbnail"><a href="./posts/rho3-data-mining.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2022/02/rl3-1200x317.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/rho3-data-mining.html" class="no-external">{ϱ3} Data mining</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('UnVzY28lMjBsaW5ndWFjY2l1dG8='); return false;">Rusco linguacciuto</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/rho3-data-mining.html" class="no-external">
+Il <em>data mining</em> è un processo di estrazione e scoperta di schemi in grandi insiemi di dati, che coinvolge metodi che utilizzano intelligenza artificiale, statistica e sistemi…<em></em><br><em></em><em></em><em></em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/rho3-data-mining.html" class="no-external">
+<div class="listing-date">
+2 feb 2022
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="33" data-categories="UnVzY28lMjBsaW5ndWFjY2l1dG8=" data-listing-date-sort="1643760000000" data-listing-file-modified-sort="1793031771054" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="363">
+<div class="thumbnail"><a href="./posts/rho4-landship.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2022/02/rl4-1200x389.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/rho4-landship.html" class="no-external">{ϱ4} Landship</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('UnVzY28lMjBsaW5ndWFjY2l1dG8='); return false;">Rusco linguacciuto</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/rho4-landship.html" class="no-external">
+“C’è un’affinità tra i suffissi [inglesi] <em>-scape</em> e <em>-ship</em>, e possiamo quindi pensare al paesaggio (<em>landscape</em>) sia come qualcosa che è incorniciato, delimitato e scenografico…<em></em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/rho4-landship.html" class="no-external">
+<div class="listing-date">
+2 feb 2022
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="34" data-categories="UnVzY28lMjBsaW5ndWFjY2l1dG8=" data-listing-date-sort="1643760000000" data-listing-file-modified-sort="1793031771055" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="151">
+<div class="thumbnail"><a href="./posts/rho5-scienceground.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2022/02/rl5-1200x385.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/rho5-scienceground.html" class="no-external">{ϱ5} Scienceground</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('UnVzY28lMjBsaW5ndWFjY2l1dG8='); return false;">Rusco linguacciuto</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/rho5-scienceground.html" class="no-external">
+Ebbene sì, l’inglese ha ipnotizzato anche noi di eXtemporanea quando abbiamo scelto il nome da dare al progetto scientifico da sviluppare a Festivaletteratura. Volevamo…<em></em><em></em><em></em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/rho5-scienceground.html" class="no-external">
+<div class="listing-date">
+2 feb 2022
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="35" data-categories="UnVzY28lMjBsaW5ndWFjY2l1dG8=" data-listing-date-sort="1643760000000" data-listing-file-modified-sort="1793031771056" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="249">
+<div class="thumbnail"><a href="./posts/rho6-puhpowee.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2022/02/rl6-1200x379.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/rho6-puhpowee.html" class="no-external">{ϱ6} Puhpowee</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('UnVzY28lMjBsaW5ndWFjY2l1dG8='); return false;">Rusco linguacciuto</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/rho6-puhpowee.html" class="no-external">
+Il mio primo assaggio della lingua mancante è stata la parola <em>Puhpowee</em>. Mi ci sono imbattuta in un libro dell’etnobotanico Anishinaabe Keewaydinoquay, in un trattato sugli…<em></em><br><br><em></em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/rho6-puhpowee.html" class="no-external">
+<div class="listing-date">
+2 feb 2022
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="36" data-categories="UnVzY28lMjBsaW5ndWFjY2l1dG8=" data-listing-date-sort="1643760000000" data-listing-file-modified-sort="1793031771056" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="196">
+<div class="thumbnail"><a href="./posts/rho7-friche.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2022/02/rl7-1200x250.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/rho7-friche.html" class="no-external">{ϱ7} Friche</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('UnVzY28lMjBsaW5ndWFjY2l1dG8='); return false;">Rusco linguacciuto</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/rho7-friche.html" class="no-external">
+Friche, <em>termine connotato negativamente.<br>
+Si dice: “tomber en friche” (cadere in abbandono)<br>
+Contraddizione: luogo di vita estrema.<br>
+Via di accesso al climax.</em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/rho7-friche.html" class="no-external">
+<div class="listing-date">
+2 feb 2022
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="37" data-categories="TGFib3JhdG9yaQ==" data-listing-date-sort="1643673600000" data-listing-file-modified-sort="1793031771044" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10" data-listing-word-count-sort="1894">
+<div class="thumbnail"><a href="./posts/lambda4-come-allenare-un-algoritmo-umano-di-intelligenza-artificiale.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2022/02/1-1200x255.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/lambda4-come-allenare-un-algoritmo-umano-di-intelligenza-artificiale.html" class="no-external">{λ4} Come allenare un algoritmo umano</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('TGFib3JhdG9yaQ=='); return false;">Laboratori</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/lambda4-come-allenare-un-algoritmo-umano-di-intelligenza-artificiale.html" class="no-external">
+<em>Mentre una fantomatica “Intelligenza Artificiale” prende piede nell’immaginario collettivo, alcuni algoritmi di apprendimento automatico si fanno largo in varie faccende…</em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/lambda4-come-allenare-un-algoritmo-umano-di-intelligenza-artificiale.html" class="no-external">
+<div class="listing-date">
+1 feb 2022
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="38" data-categories="TGFib3JhdG9yaQ==" data-listing-date-sort="1643587200000" data-listing-file-modified-sort="1793031771043" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="835">
+<div class="thumbnail"><a href="./posts/lambda1-come-costruire-porte-logiche-con-il-domino.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2022/01/1-1200x288.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/lambda1-come-costruire-porte-logiche-con-il-domino.html" class="no-external">{λ1} Come costruire porte logiche con il domino</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('TGFib3JhdG9yaQ=='); return false;">Laboratori</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/lambda1-come-costruire-porte-logiche-con-il-domino.html" class="no-external">
+<em>Quando scriviamo un messaggio su WhatsApp, o scattiamo una foto con lo smartphone, trasmettiamo informazioni secondo una successione di ragionamenti. Com’è possibile, però…</em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/lambda1-come-costruire-porte-logiche-con-il-domino.html" class="no-external">
+<div class="listing-date">
+31 gen 2022
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="39" data-categories="TGFib3JhdG9yaQ==" data-listing-date-sort="1643587200000" data-listing-file-modified-sort="1793031771044" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="513">
+<div class="thumbnail"><a href="./posts/lambda2-come-costruire-un-calcolatore-con-lego-e-biglie.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2022/01/1-1-1200x306.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/lambda2-come-costruire-un-calcolatore-con-lego-e-biglie.html" class="no-external">{λ2} Come costruire un calcolatore con LEGO e biglie</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('TGFib3JhdG9yaQ=='); return false;">Laboratori</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/lambda2-come-costruire-un-calcolatore-con-lego-e-biglie.html" class="no-external">
+<em>Il bit è il più piccolo pezzo di informazione. Quando scriviamo un messaggio su WhatsApp, o scattiamo una foto con lo smartphone, non stiamo facendo altro che modificare un…</em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/lambda2-come-costruire-un-calcolatore-con-lego-e-biglie.html" class="no-external">
+<div class="listing-date">
+31 gen 2022
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="40" data-categories="TGFib3JhdG9yaQ==" data-listing-date-sort="1643587200000" data-listing-file-modified-sort="1793031771044" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="698">
+<div class="thumbnail"><a href="./posts/lambda3-come-insegnare-a-delle-scatole-a-giocare.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2022/01/1-2-1200x353.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/lambda3-come-insegnare-a-delle-scatole-a-giocare.html" class="no-external">{λ3} Come insegnare a delle scatole a giocare</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('TGFib3JhdG9yaQ=='); return false;">Laboratori</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/lambda3-come-insegnare-a-delle-scatole-a-giocare.html" class="no-external">
+<em>Da una ventina d’anni la più forte “entità” che gioca a scacchi era un algoritmo a cui venivano insegnate le strategie del gioco e che con una grande potenza di calcolo…</em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/lambda3-come-insegnare-a-delle-scatole-a-giocare.html" class="no-external">
+<div class="listing-date">
+31 gen 2022
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="41" data-categories="QmlibGlvZ3JhZmll" data-listing-date-sort="1642464000000" data-listing-file-modified-sort="1793031771062" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="730">
+<div class="thumbnail"><a href="./posts/un-bastimento-carico-di.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2022/01/cf07017085644abeba9f4568c-1200x901.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/un-bastimento-carico-di.html" class="no-external">Un bastimento carico di…</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('QmlibGlvZ3JhZmll'); return false;">Bibliografie</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/un-bastimento-carico-di.html" class="no-external">
+«A Ersilia, per stabilire i rapporti che reggono la vita della città, gli abitanti tendono dei fili tra gli spigoli delle case, bianchi o neri o grigi o bianco-e-neri a…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/un-bastimento-carico-di.html" class="no-external">
+<div class="listing-date">
+18 gen 2022
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="42" data-categories="TmV3c2xldHRlcmE=" data-listing-date-sort="1641340800000" data-listing-file-modified-sort="1793031771020" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="457">
+<div class="thumbnail"><a href="./posts/24-sciencemare-after-xmas-2021.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2022/01/24_1-1200x866.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/24-sciencemare-after-xmas-2021.html" class="no-external">{#24} Sciencemare after Xmas 2021</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('TmV3c2xldHRlcmE='); return false;">Newslettera</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/24-sciencemare-after-xmas-2021.html" class="no-external">
+<em>Stai leggendo la newsletter sporadica di eXtemporanea, una comunità ibrida che discute dello scientifico nella società, del sociale nelle scienze, e di tant’altro. Se non…<strong></strong><strong></strong></em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/24-sciencemare-after-xmas-2021.html" class="no-external">
+<div class="listing-date">
+5 gen 2022
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="43" data-categories="TmV3c2xldHRlcmE=" data-listing-date-sort="1639180800000" data-listing-file-modified-sort="1793031771020" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="898">
+<div class="thumbnail"><a href="./posts/23-farsi-dei-film.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2021/12/23_1-1200x841.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/23-farsi-dei-film.html" class="no-external">{#23} Farsi dei film</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('TmV3c2xldHRlcmE='); return false;">Newslettera</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/23-farsi-dei-film.html" class="no-external">
+hurry hurry hurry
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/23-farsi-dei-film.html" class="no-external">
+<div class="listing-date">
+11 dic 2021
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="44" data-categories="RGlhcmlvRGFsQm9yZG8=" data-listing-date-sort="1633474800000" data-listing-file-modified-sort="1793031771028" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="12" data-listing-word-count-sort="2330">
+<div class="thumbnail"><a href="./posts/archeologie-di-guerra.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2021/10/IMG_9569-1200x900.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/archeologie-di-guerra.html" class="no-external">Archeologie di guerra</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('RGlhcmlvRGFsQm9yZG8='); return false;">DiarioDalBordo</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/archeologie-di-guerra.html" class="no-external">
+<em>A compendio del podcast Cronache dalla Terra di Sotto&nbsp; pubblichiamo un contributo audio (Feed RSS) e uno scritto di Leone Contini, artista. Musiche di colette et izis.<br>
+</em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/archeologie-di-guerra.html" class="no-external">
+<div class="listing-date">
+6 ott 2021
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="45" data-categories="JTQwRmVzdGl2YWxldHRlcmF0dXJhJTJDVmFyaWUlMjZldmVudHVhbGk=" data-listing-date-sort="1633302000000" data-listing-file-modified-sort="1793031771061" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="17" data-listing-word-count-sort="3360">
+<div class="thumbnail"><a href="./posts/sostenibilita-e-comunicazione-scientifica.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2021/10/20210623144036179_0048-1200x785.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/sostenibilita-e-comunicazione-scientifica.html" class="no-external">Sostenibilità e Comunicazione Scientifica</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('JTQwRmVzdGl2YWxldHRlcmF0dXJh'); return false;">@Festivaletteratura</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('VmFyaWUlMjZldmVudHVhbGk='); return false;">Varie&amp;eventuali</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/sostenibilita-e-comunicazione-scientifica.html" class="no-external">
+<em>[Pubblichiamo una trascrizione, parzialmente riedita, di un’intervista a Nicola Armaroli avvenuta Giovedì 9 Settembre 2021 a Mantova nell’occasione di Scienceground 8/5 a…</em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/sostenibilita-e-comunicazione-scientifica.html" class="no-external">
+<div class="listing-date">
+4 ott 2021
+</div>
+<div class="listing-author">
+Gianni Petrella
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="46" data-categories="TmV3c2xldHRlcmE=" data-listing-date-sort="1631574000000" data-listing-file-modified-sort="1793031771019" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="646">
+<div class="thumbnail"><a href="./posts/21-scienceground-8-5-scarti.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2021/09/22_1-1200x824.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/21-scienceground-8-5-scarti.html" class="no-external">{#21} Scienceground 8/5 – SCARTI</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('TmV3c2xldHRlcmE='); return false;">Newslettera</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/21-scienceground-8-5-scarti.html" class="no-external">
+<em>«No single organism can recycle its own waste»</em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/21-scienceground-8-5-scarti.html" class="no-external">
+<div class="listing-date">
+14 set 2021
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="47" data-categories="TmV3c2xldHRlcmE=" data-listing-date-sort="1631574000000" data-listing-file-modified-sort="1793031771019" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1703">
+<div class="thumbnail"><a href="./posts/22-unaltra-idea-di-antropocene.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2021/09/22_5-1200x1032.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/22-unaltra-idea-di-antropocene.html" class="no-external">{#22} Un’altra “idea di Antropocene”</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('TmV3c2xldHRlcmE='); return false;">Newslettera</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/22-unaltra-idea-di-antropocene.html" class="no-external">
+Cari gamberi della Louisiana, cari rospi smeraldini,
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/22-unaltra-idea-di-antropocene.html" class="no-external">
+<div class="listing-date">
+14 set 2021
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="48" data-categories="JTQwRmVzdGl2YWxldHRlcmF0dXJhJTJDTGliZXJlJTIwTGV0dHVyZQ==" data-listing-date-sort="1631314800000" data-listing-file-modified-sort="1793031771046" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="517">
+<div class="thumbnail"><a href="./posts/libere-letture-scienceground-8-5.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2022/03/mela.6c302823e12b.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/libere-letture-scienceground-8-5.html" class="no-external">Libere letture @ Scienceground 8/5</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('JTQwRmVzdGl2YWxldHRlcmF0dXJh'); return false;">@Festivaletteratura</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('TGliZXJlJTIwTGV0dHVyZQ=='); return false;">Libere Letture</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/libere-letture-scienceground-8-5.html" class="no-external">
+Quest’anno ci addentreremo nel mondo-di-sotto raccontato da Robert MacFarlane in <em>Underland: un viaggio nel tempo profondo</em> (Einaudi, 2020) alla scoperta degli <em>scarti</em> che da…<em></em><em></em><em></em><em></em><em></em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/libere-letture-scienceground-8-5.html" class="no-external">
+<div class="listing-date">
+11 set 2021
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="49" data-categories="JTQwRmVzdGl2YWxldHRlcmF0dXJh" data-listing-date-sort="1628031600000" data-listing-file-modified-sort="1793031771038" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="413">
+<div class="thumbnail"><a href="./posts/incollare-i-cocci-della-scienza.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2020/08/cropped-upload_18a5a7a63b4434f192c0281f9c183ef7.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/incollare-i-cocci-della-scienza.html" class="no-external">Incollare i cocci della scienza</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('JTQwRmVzdGl2YWxldHRlcmF0dXJh'); return false;">@Festivaletteratura</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/incollare-i-cocci-della-scienza.html" class="no-external">
+perché se in pezzi vivono le cose<br>
+solo agli attrezzi devono le pose<br>
+che tu disprezzi e dici scivolose
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/incollare-i-cocci-della-scienza.html" class="no-external">
+<div class="listing-date">
+4 ago 2021
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="50" data-categories="JTQwRmVzdGl2YWxldHRlcmF0dXJh" data-listing-date-sort="1628031600000" data-listing-file-modified-sort="1793031771057" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="668">
+<div class="thumbnail"><a href="./posts/scarti-radioattivi-sulle-frequenze-ottoquinti.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2021/08/radio_1-1200x905.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/scarti-radioattivi-sulle-frequenze-ottoquinti.html" class="no-external">Scarti radioattivi</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('JTQwRmVzdGl2YWxldHRlcmF0dXJh'); return false;">@Festivaletteratura</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/scarti-radioattivi-sulle-frequenze-ottoquinti.html" class="no-external">
+Nonostante le prime trasmissioni sulla frequenza UnoPuntoSeiPeriodico, siamo ancora naufraghe di un diluvio a lungo atteso – ma a cui eravamo impreparate. La nostra zattera…<em></em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/scarti-radioattivi-sulle-frequenze-ottoquinti.html" class="no-external">
+<div class="listing-date">
+4 ago 2021
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="51" data-categories="JTQwRmVzdGl2YWxldHRlcmF0dXJh" data-listing-date-sort="1627945200000" data-listing-file-modified-sort="1793031771059" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="15" data-listing-word-count-sort="2829">
+<div class="thumbnail"><a href="./posts/scienceground-8-5-scarti.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2021/08/science_1-1200x824.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/scienceground-8-5-scarti.html" class="no-external">Scienceground 8/5 – SCARTI</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('JTQwRmVzdGl2YWxldHRlcmF0dXJh'); return false;">@Festivaletteratura</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/scienceground-8-5-scarti.html" class="no-external">
+<em>«No single organism can cycle its own waste»</em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/scienceground-8-5-scarti.html" class="no-external">
+<div class="listing-date">
+3 ago 2021
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="52" data-categories="TmV3c2xldHRlcmE=" data-listing-date-sort="1626217200000" data-listing-file-modified-sort="1793031771018" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1421">
+<div class="thumbnail"><a href="./posts/20-di-che-sogni-e-fatta-la-materia.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2021/07/20_3-1200x861.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/20-di-che-sogni-e-fatta-la-materia.html" class="no-external">{#20} Di che sogni è fatta la materia</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('TmV3c2xldHRlcmE='); return false;">Newslettera</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/20-di-che-sogni-e-fatta-la-materia.html" class="no-external">
+«Da tempo sapevamo che stavamo per liberare un gigante; eppure, quando ci rendemmo conto di averlo fatto davvero non riuscimmo a sottrarci a uno stato d’animo irreale. Ci…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/20-di-che-sogni-e-fatta-la-materia.html" class="no-external">
+<div class="listing-date">
+14 lug 2021
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="53" data-categories="JTQwRmVzdGl2YWxldHRlcmF0dXJhJTJDTGliZXJlJTIwTGV0dHVyZQ==" data-listing-date-sort="1624143600000" data-listing-file-modified-sort="1793031771031" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10" data-listing-word-count-sort="1926">
+<div class="thumbnail"><a href="./posts/di-che-materiale-sono-fatti-i-sogni.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2021/06/Paric_LavenderFields_scaled-1200x810.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/di-che-materiale-sono-fatti-i-sogni.html" class="no-external">Di che materiale sono fatti i sogni (e gli altri pensieri)</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('JTQwRmVzdGl2YWxldHRlcmF0dXJh'); return false;">@Festivaletteratura</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('TGliZXJlJTIwTGV0dHVyZQ=='); return false;">Libere Letture</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/di-che-materiale-sono-fatti-i-sogni.html" class="no-external">
+Se la mente del ragno si estende nelle profondità della struttura microscopica delle fibre della sua seta, cosa sogna il ragno-cyborg che dorme nella sua tela bionica…<br><em></em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/di-che-materiale-sono-fatti-i-sogni.html" class="no-external">
+<div class="listing-date">
+20 giu 2021
+</div>
+<div class="listing-author">
+danilo
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="54" data-categories="TmV3c2xldHRlcmE=" data-listing-date-sort="1617836400000" data-listing-file-modified-sort="1793031771017" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1299">
+<div class="thumbnail"><a href="./posts/17-scienza-guerra-e-societa.html" class="no-external">
+
+<p class="card-img-top"><img loading='lazy' data-src="uploads/2021/04/1-300x300.jpg"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/17-scienza-guerra-e-societa.html" class="no-external">{#17} Scienza Guerra e Società</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('TmV3c2xldHRlcmE='); return false;">Newslettera</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/17-scienza-guerra-e-societa.html" class="no-external">
+«We don’t know what science is cooking up, 25 year-olds in the laboratories, and at the same time often scientists are not exposed to the bigger questions of ethics, history…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/17-scienza-guerra-e-societa.html" class="no-external">
+<div class="listing-date">
+8 apr 2021
+</div>
+<div class="listing-author">
+Michela Marton
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="55" data-categories="TmV3c2xldHRlcmE=" data-listing-date-sort="1617836400000" data-listing-file-modified-sort="1793031771017" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1465">
+<div class="thumbnail"><a href="./posts/18-ecosistemi-sonici-18-bis-lanello-mancante.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2021/04/upload_6456f357e631102b6fff1d543ad1423b-1200x936.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/18-ecosistemi-sonici-18-bis-lanello-mancante.html" class="no-external">{#18} Ecosistemi sonici – {#18 bis} L’anello mancante</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('TmV3c2xldHRlcmE='); return false;">Newslettera</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/18-ecosistemi-sonici-18-bis-lanello-mancante.html" class="no-external">
+«Now I will do nothing but listen, / To accrue what I hear into this song, to let sounds contribute toward it. / I hear bravuras of birds, bustle of growing wheat, gossip of…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/18-ecosistemi-sonici-18-bis-lanello-mancante.html" class="no-external">
+<div class="listing-date">
+8 apr 2021
+</div>
+<div class="listing-author">
+Michela Marton
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="56" data-categories="TmV3c2xldHRlcmE=" data-listing-date-sort="1613260800000" data-listing-file-modified-sort="1793031771060" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="461">
+<div class="thumbnail"><a href="./posts/scienza-guerra-societa-bibliografia.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2020/08/upload_21409aa719aeabbfa8fdf0138e99b1b0-1200x1072.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/scienza-guerra-societa-bibliografia.html" class="no-external">Scienza, Guerra, Società: bibliografia</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('TmV3c2xldHRlcmE='); return false;">Newslettera</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/scienza-guerra-societa-bibliografia.html" class="no-external">
+
+
+<ul>
+<li>Manuel de Landa, <em>War in the age of intelligent machines</em>, Zone Books (1991)</li>
+<li>Grégoire Chamayou, <em>Drone theory</em>, Penguin UK (2015)</li>
+<li>Alessandro Dal Lago e Salvatore Palidda (a…<em></em></li><li><em></em></li><li><em></em></li><li><em></em></li><li><em></em></li><li><em></em></li><li><em></em></li><li><em></em></li><li><em></em></li><li><em></em></li></ul>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/scienza-guerra-societa-bibliografia.html" class="no-external">
+<div class="listing-date">
+14 feb 2021
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="57" data-categories="TmV3c2xldHRlcmE=" data-listing-date-sort="1611532800000" data-listing-file-modified-sort="1793031771017" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1200">
+<div class="thumbnail"><a href="./posts/16-gli-ecosistemi-sono-di-chi-li-abita.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2021/01/Imm-1.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/16-gli-ecosistemi-sono-di-chi-li-abita.html" class="no-external">{#16} Gli ecosistemi sono di chi li abita</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('TmV3c2xldHRlcmE='); return false;">Newslettera</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/16-gli-ecosistemi-sono-di-chi-li-abita.html" class="no-external">
+«Vorrei spendere una parola in favore della Natura, dell’assoluta libertà e dello stato selvaggio, contrapposti a una libertà e a una cultura puramente civili; vorrei…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/16-gli-ecosistemi-sono-di-chi-li-abita.html" class="no-external">
+<div class="listing-date">
+25 gen 2021
+</div>
+<div class="listing-author">
+Michela Marton
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="58" data-categories="VmFyaWUlMjZldmVudHVhbGk=" data-listing-date-sort="1606262400000" data-listing-file-modified-sort="1793031771062" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="325">
+<div class="thumbnail"><a href="./posts/un-pianeta-in-non-equilibrio.html" class="no-external">
+
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/un-pianeta-in-non-equilibrio.html" class="no-external">Un pianeta in (non) equilibrio</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('VmFyaWUlMjZldmVudHVhbGk='); return false;">Varie&amp;eventuali</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/un-pianeta-in-non-equilibrio.html" class="no-external">
+Durante Festivaletteratura abbiamo esplorato da vicino la&nbsp; complessità che si nasconde negli ecosistemi che si sviluppano intorno a una città industriale come Mantova.…<strong></strong>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/un-pianeta-in-non-equilibrio.html" class="no-external">
+<div class="listing-date">
+25 nov 2020
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="59" data-categories="TmV3c2xldHRlcmE=" data-listing-date-sort="1603756800000" data-listing-file-modified-sort="1793031771016" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1364">
+<div class="thumbnail"><a href="./posts/15-voci.html" class="no-external">
+
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/15-voci.html" class="no-external">{#15} Voci</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('TmV3c2xldHRlcmE='); return false;">Newslettera</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/15-voci.html" class="no-external">
+«The world is being broken down to be built up again, and eventually the sense of the new worlds will come out of the laboratory and penetrate into the smallest living…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/15-voci.html" class="no-external">
+<div class="listing-date">
+27 ott 2020
+</div>
+<div class="listing-author">
+Michela Marton
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="60" data-categories="TmV3c2xldHRlcmE=" data-listing-date-sort="1599778800000" data-listing-file-modified-sort="1793031771014" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="586">
+<div class="thumbnail"><a href="./posts/14-e-mezzo-in-medias-res.html" class="no-external">
+
+<p class="card-img-top"><img loading='lazy' data-src="uploads/2020/09/upload_f5d3573ac4cf5f1c4b4c51bba61dd110-300x155.png"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/14-e-mezzo-in-medias-res.html" class="no-external">{#14 e mezzo} In medias res</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('TmV3c2xldHRlcmE='); return false;">Newslettera</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/14-e-mezzo-in-medias-res.html" class="no-external">
+Gentili abitanti del vostro specifico ecosistema,<br>
+questa newsletter, ancora più estemporanea (eXtemporanea) del solito, ha due scopi dichiarati.
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/14-e-mezzo-in-medias-res.html" class="no-external">
+<div class="listing-date">
+11 set 2020
+</div>
+<div class="listing-author">
+Michela Marton
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="61" data-categories="JTQwRmVzdGl2YWxldHRlcmF0dXJhJTJDTGliZXJlJTIwTGV0dHVyZQ==" data-listing-date-sort="1599778800000" data-listing-file-modified-sort="1793031771046" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="946">
+<div class="thumbnail"><a href="./posts/libere-letture-scienceground-1-666666.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2022/03/scienceground-logo.2652e2630c2c.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/libere-letture-scienceground-1-666666.html" class="no-external">Libere letture @ Scienceground 1.666666…</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('JTQwRmVzdGl2YWxldHRlcmF0dXJh'); return false;">@Festivaletteratura</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('TGliZXJlJTIwTGV0dHVyZQ=='); return false;">Libere Letture</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/libere-letture-scienceground-1-666666.html" class="no-external">
+I percorsi di avvicinamento a Scienceground 1.6666… prevedono – <em>ça va sans dire</em> – la lettura: romanzi, monografie, articoli scientifici e di divulgazione a tema ecosistemi.…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/libere-letture-scienceground-1-666666.html" class="no-external">
+<div class="listing-date">
+11 set 2020
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="62" data-categories="VmFyaWUlMjZldmVudHVhbGk=" data-listing-date-sort="1599433200000" data-listing-file-modified-sort="1793031771034" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="12" data-listing-word-count-sort="2237">
+<div class="thumbnail"><a href="./posts/fantascienza-e-futuri-non-scritti.html" class="no-external">
+
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/fantascienza-e-futuri-non-scritti.html" class="no-external">Fantascienza e futuri (non) scritti</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('VmFyaWUlMjZldmVudHVhbGk='); return false;">Varie&amp;eventuali</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/fantascienza-e-futuri-non-scritti.html" class="no-external">
+«Qual è la differenza tra un ottimista e un pessimista?»<br>
+«Un pessimista è un ottimista ben informato, un ottimista è un pessimista ben sorvegliato.»
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/fantascienza-e-futuri-non-scritti.html" class="no-external">
+<div class="listing-date">
+7 set 2020
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="63" data-categories="JTQwRmVzdGl2YWxldHRlcmF0dXJhJTJDTmV3c2xldHRlcmE=" data-listing-date-sort="1598569200000" data-listing-file-modified-sort="1793031771059" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="19" data-listing-word-count-sort="3726">
+<div class="thumbnail"><a href="./posts/scienceground-1-6666.html" class="no-external">
+
+<p class="card-img-top"><img loading='lazy' data-src="uploads/2020/08/upload_5c6d0ae0696bf13feadfda59157bac4b-300x207.png"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/scienceground-1-6666.html" class="no-external">Scienceground 1.6666…</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('JTQwRmVzdGl2YWxldHRlcmF0dXJh'); return false;">@Festivaletteratura</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('TmV3c2xldHRlcmE='); return false;">Newslettera</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/scienceground-1-6666.html" class="no-external">
+«Gli esseri umani eccellono nella costruzione di nicchie ecologiche. Ci piace cambiare l’ambiente in modo che possa essere su misura per noi. Perciò togliamo dall’ambiente…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/scienceground-1-6666.html" class="no-external">
+<div class="listing-date">
+28 ago 2020
+</div>
+<div class="listing-author">
+Michela Marton
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="64" data-categories="VmFyaWUlMjZldmVudHVhbGk=" data-listing-date-sort="1596841200000" data-listing-file-modified-sort="1793031771016" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="844">
+<div class="thumbnail"><a href="./posts/15-un-quadrato-squadrato.html" class="no-external">
+
+<p class="card-img-top"><img loading='lazy' data-src="uploads/2020/08/Farfare.jpg"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/15-un-quadrato-squadrato.html" class="no-external">Un quadrato squadrato</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('VmFyaWUlMjZldmVudHVhbGk='); return false;">Varie&amp;eventuali</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/15-un-quadrato-squadrato.html" class="no-external">
+<em>[FarFarFare è una newsletter che indaga percorsi e narrazioni didattici. Ci hanno invitato a curarne un numero.]</em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/15-un-quadrato-squadrato.html" class="no-external">
+<div class="listing-date">
+8 ago 2020
+</div>
+<div class="listing-author">
+Michela Marton
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="65" data-categories="TmV3c2xldHRlcmE=" data-listing-date-sort="1596754800000" data-listing-file-modified-sort="1793031771015" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1148">
+<div class="thumbnail"><a href="./posts/14-parole-di-fiumi.html" class="no-external">
+
+<p class="card-img-top"><img loading='lazy' data-src="uploads/2020/08/1-300x263.png"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/14-parole-di-fiumi.html" class="no-external">{#14} Parole di fiumi</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('TmV3c2xldHRlcmE='); return false;">Newslettera</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/14-parole-di-fiumi.html" class="no-external">
+In questo numero:
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/14-parole-di-fiumi.html" class="no-external">
+<div class="listing-date">
+7 ago 2020
+</div>
+<div class="listing-author">
+Michela Marton
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="66" data-categories="VmFyaWUlMjZldmVudHVhbGk=" data-listing-date-sort="1595113200000" data-listing-file-modified-sort="1793031771038" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1565">
+<div class="thumbnail"><a href="./posts/il-paese-delle-maree.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2020/07/1280px-Sundarbans-1200x800.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/il-paese-delle-maree.html" class="no-external">Il paese delle maree: viaggio nel regno di Bon Bibi</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('VmFyaWUlMjZldmVudHVhbGk='); return false;">Varie&amp;eventuali</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/il-paese-delle-maree.html" class="no-external">
+Così venne instaurato l’ordine nella terra delle diciotto maree, con le sue due metà, quella selvaggia e quella coltivata, in perfetto equilibrio. Le cose andarono bene…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/il-paese-delle-maree.html" class="no-external">
+<div class="listing-date">
+19 lug 2020
+</div>
+<div class="listing-author">
+carlotta
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="67" data-categories="JTQwRmVzdGl2YWxldHRlcmF0dXJhJTJDTGliZXJlJTIwTGV0dHVyZQ==" data-listing-date-sort="1593212400000" data-listing-file-modified-sort="1793031771047" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="22" data-listing-word-count-sort="4389">
+<div class="thumbnail"><a href="./posts/linvenzione-della-natura-la-vita-e-il-cosmo-di-alexander-von-humboldt.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2020/06/Church_Heart_of_the_Andes1-1200x659.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/linvenzione-della-natura-la-vita-e-il-cosmo-di-alexander-von-humboldt.html" class="no-external">L’invenzione della natura: la vita e ilCosmodi Alexander von Humboldt</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('JTQwRmVzdGl2YWxldHRlcmF0dXJh'); return false;">@Festivaletteratura</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('TGliZXJlJTIwTGV0dHVyZQ=='); return false;">Libere Letture</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/linvenzione-della-natura-la-vita-e-il-cosmo-di-alexander-von-humboldt.html" class="no-external">
+Quando descrisse i tre modi in cui la specie umana influenzava il clima, elencò la deforestazione, l’irrigazione sconsiderata e, forse più profeticamente, le “grandi masse…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/linvenzione-della-natura-la-vita-e-il-cosmo-di-alexander-von-humboldt.html" class="no-external">
+<div class="listing-date">
+27 giu 2020
+</div>
+<div class="listing-author">
+Endangered Dodo
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="68" data-categories="TmV3c2xldHRlcmE=" data-listing-date-sort="1593039600000" data-listing-file-modified-sort="1793031771014" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1271">
+<div class="thumbnail"><a href="./posts/13-del-vento-caldo-dellestate1.html" class="no-external">
+
+<p class="card-img-top"><img loading='lazy' data-src="uploads/2020/08/X-LL-202006251-210x300.jpg"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/13-del-vento-caldo-dellestate1.html" class="no-external">{#13} Del vento caldo dell’estate</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('TmV3c2xldHRlcmE='); return false;">Newslettera</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/13-del-vento-caldo-dellestate1.html" class="no-external">
+In questo numero:
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/13-del-vento-caldo-dellestate1.html" class="no-external">
+<div class="listing-date">
+25 giu 2020
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="69" data-categories="VmFyaWUlMjZldmVudHVhbGk=" data-listing-date-sort="1592434800000" data-listing-file-modified-sort="1793031771013" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1335">
+<div class="thumbnail"><a href="./posts/12-i-giorni-del-virus-3.html" class="no-external">
+
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/12-i-giorni-del-virus-3.html" class="no-external">{#12} I giorni del virus /3</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('VmFyaWUlMjZldmVudHVhbGk='); return false;">Varie&amp;eventuali</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/12-i-giorni-del-virus-3.html" class="no-external">
+In questo numero:
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/12-i-giorni-del-virus-3.html" class="no-external">
+<div class="listing-date">
+18 giu 2020
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="70" data-categories="VmFyaWUlMjZldmVudHVhbGk=" data-listing-date-sort="1591916400000" data-listing-file-modified-sort="1793031771057" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="214">
+<div class="thumbnail"><a href="./posts/science-before-christmas.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2020/06/Elab_DSC1587.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/science-before-christmas.html" class="no-external">Science Before Christmas</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('VmFyaWUlMjZldmVudHVhbGk='); return false;">Varie&amp;eventuali</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/science-before-christmas.html" class="no-external">
+A cura di ExTemporanea. In collaborazione con Alchemilla, Associazione NEDAC, Passaporto Nansen, Stamperia artistica Inuit.
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/science-before-christmas.html" class="no-external">
+<div class="listing-date">
+12 giu 2020
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="71" data-categories="RGlhcmlvRGFsQm9yZG8=" data-listing-date-sort="1588719600000" data-listing-file-modified-sort="1793031771048" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="12" data-listing-word-count-sort="2375">
+<div class="thumbnail"><a href="./posts/matematiche-del-contagio-pratiche-dattenzione.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2020/05/8.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/matematiche-del-contagio-pratiche-dattenzione.html" class="no-external">Matematiche del contagio, pratiche d’attenzione</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('RGlhcmlvRGFsQm9yZG8='); return false;">DiarioDalBordo</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/matematiche-del-contagio-pratiche-dattenzione.html" class="no-external">
+<em>[Mattia Galeotti per scienceground.it]</em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/matematiche-del-contagio-pratiche-dattenzione.html" class="no-external">
+<div class="listing-date">
+6 mag 2020
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="72" data-categories="VmFyaWUlMjZldmVudHVhbGk=" data-listing-date-sort="1588633200000" data-listing-file-modified-sort="1793031771060" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="898">
+<div class="thumbnail"><a href="./posts/scienza-guerra-societa-quarantine-series.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2020/02/sgs-1024x801-1.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/scienza-guerra-societa-quarantine-series.html" class="no-external">Scienza, Guerra, Società: quarantine series</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('VmFyaWUlMjZldmVudHVhbGk='); return false;">Varie&amp;eventuali</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/scienza-guerra-societa-quarantine-series.html" class="no-external">
+Scienza, Guerra, Società è il ciclo di incontri che si sarebbe dovuto svolgere questa primavera al Palazzo Ducale di Genova, per dialogare sui collegamenti tra ricerca e…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/scienza-guerra-societa-quarantine-series.html" class="no-external">
+<div class="listing-date">
+5 mag 2020
+</div>
+<div class="listing-author">
+Maria Elena Antinori
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="73" data-categories="TmV3c2xldHRlcmE=" data-listing-date-sort="1588287600000" data-listing-file-modified-sort="1793031771011" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1183">
+<div class="thumbnail"><a href="./posts/11-i-giorni-del-virus-2-2.html" class="no-external">
+
+<p class="card-img-top"><img loading='lazy' data-src="uploads/2020/06/img4_i_giorni_del_virus.png"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/11-i-giorni-del-virus-2-2.html" class="no-external">{#11} I giorni del virus /2</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('TmV3c2xldHRlcmE='); return false;">Newslettera</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/11-i-giorni-del-virus-2-2.html" class="no-external">
+In questo numero:
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/11-i-giorni-del-virus-2-2.html" class="no-external">
+<div class="listing-date">
+1 mag 2020
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="74" data-categories="JTQwRmVzdGl2YWxldHRlcmF0dXJh" data-listing-date-sort="1588287600000" data-listing-file-modified-sort="1793031771037" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="885">
+<div class="thumbnail"><a href="./posts/i-cattivi-visti-da-vicino.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2019/08/005.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/i-cattivi-visti-da-vicino.html" class="no-external">I cattivi, visti da vicino</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('JTQwRmVzdGl2YWxldHRlcmF0dXJh'); return false;">@Festivaletteratura</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/i-cattivi-visti-da-vicino.html" class="no-external">
+<strong>Rapporti umani con i microbi</strong>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/i-cattivi-visti-da-vicino.html" class="no-external">
+<div class="listing-date">
+1 mag 2020
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="75" data-categories="RGlhcmlvRGFsQm9yZG8=" data-listing-date-sort="1588201200000" data-listing-file-modified-sort="1793031771033" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1615">
+<div class="thumbnail"><a href="./posts/dopo-il-governo-di-unita-razionale-lettera-agli-amici-fisici.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2020/04/2-1.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/dopo-il-governo-di-unita-razionale-lettera-agli-amici-fisici.html" class="no-external">Dopo il governo di unità razionale (lettera agli amici fisici)</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('RGlhcmlvRGFsQm9yZG8='); return false;">DiarioDalBordo</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/dopo-il-governo-di-unita-razionale-lettera-agli-amici-fisici.html" class="no-external">
+<em>Matteo Polettini per Slow News</em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/dopo-il-governo-di-unita-razionale-lettera-agli-amici-fisici.html" class="no-external">
+<div class="listing-date">
+30 apr 2020
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="76" data-categories="TmV3c2xldHRlcmE=" data-listing-date-sort="1585180800000" data-listing-file-modified-sort="1793031771011" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1156">
+<div class="thumbnail"><a href="./posts/10-i-giorni-del-virus-1.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2020/03/04.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/10-i-giorni-del-virus-1.html" class="no-external">{#10} I giorni del virus /1</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('TmV3c2xldHRlcmE='); return false;">Newslettera</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/10-i-giorni-del-virus-1.html" class="no-external">
+In questo numero: - Un abbraccio (da un metro-e-mezzo) - Letture consigliate - Partecipa! - La Grande Estinzione e altre storie
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/10-i-giorni-del-virus-1.html" class="no-external">
+<div class="listing-date">
+26 mar 2020
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="77" data-categories="VmFyaWUlMjZldmVudHVhbGk=" data-listing-date-sort="1584921600000" data-listing-file-modified-sort="1793031771042" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="11" data-listing-word-count-sort="2078">
+<div class="thumbnail"><a href="./posts/la-modellizzazione-matematica-dellepidemia-usi-e-abusi.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2020/03/05-1568x581.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/la-modellizzazione-matematica-dellepidemia-usi-e-abusi.html" class="no-external">La modellizzazione matematica dell’epidemia: usi e abusi</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('VmFyaWUlMjZldmVudHVhbGk='); return false;">Varie&amp;eventuali</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/la-modellizzazione-matematica-dellepidemia-usi-e-abusi.html" class="no-external">
+<em>[Illustrazione di Andrea De Franco]</em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/la-modellizzazione-matematica-dellepidemia-usi-e-abusi.html" class="no-external">
+<div class="listing-date">
+23 mar 2020
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="78" data-categories="RGlhcmlvRGFsQm9yZG8=" data-listing-date-sort="1583020800000" data-listing-file-modified-sort="1793031771063" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="976">
+<div class="thumbnail"><a href="./posts/una-storia-inventata.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2020/04/16.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/una-storia-inventata.html" class="no-external">Una storia inventata</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('RGlhcmlvRGFsQm9yZG8='); return false;">DiarioDalBordo</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/una-storia-inventata.html" class="no-external">
+<em>[Tolomé Pettinati per scienceground.it]</em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/una-storia-inventata.html" class="no-external">
+<div class="listing-date">
+1 mar 2020
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="79" data-categories="QWxnb3JpdG1vVW1hbm8=" data-listing-date-sort="1582329600000" data-listing-file-modified-sort="1793031771027" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="29" data-listing-word-count-sort="5639">
+<div class="thumbnail"><a href="./posts/algoritmo-umano-colpisce-ancora-dubbie-le-sorti-del-mondo.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2020/02/background.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/algoritmo-umano-colpisce-ancora-dubbie-le-sorti-del-mondo.html" class="no-external">Algoritmo umano colpisce ancora: dubbie le sorti del mondo!</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('QWxnb3JpdG1vVW1hbm8='); return false;">AlgoritmoUmano</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/algoritmo-umano-colpisce-ancora-dubbie-le-sorti-del-mondo.html" class="no-external">
+Quando dopo un miliardo di anni di storia evolutiva i cianobatteri impararono a estrarre elettroni dall’acqua, l’atmosfera fu lentamente invasa del residuo di reazione, un…<em></em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/algoritmo-umano-colpisce-ancora-dubbie-le-sorti-del-mondo.html" class="no-external">
+<div class="listing-date">
+22 feb 2020
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="80" data-categories="VmFyaWUlMjZldmVudHVhbGk=" data-listing-date-sort="1582070400000" data-listing-file-modified-sort="1793031771060" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1373">
+<div class="thumbnail"><a href="./posts/scienza-guerra-societa.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2020/02/sgs-1024x801-1.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/scienza-guerra-societa.html" class="no-external">Scienza, Guerra, Società. Kick-off</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('VmFyaWUlMjZldmVudHVhbGk='); return false;">Varie&amp;eventuali</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/scienza-guerra-societa.html" class="no-external">
+L’uomo è l’unica specie animale che commette omicidio intraspecifico: uccide i propri simili. Secondo gli etologi, i due fattori cruciali che hanno determinato questa…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/scienza-guerra-societa.html" class="no-external">
+<div class="listing-date">
+19 feb 2020
+</div>
+<div class="listing-author">
+Maria Elena Antinori
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="81" data-categories="RmFuemluYQ==" data-listing-date-sort="1581811200000" data-listing-file-modified-sort="1793031771033" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="14" data-listing-word-count-sort="2758">
+<div class="thumbnail"><a href="./posts/dottor-semmelweis.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2020/02/fanzine_2-1.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/dottor-semmelweis.html" class="no-external">{Fanzine#2} Gioco in società: il Dottor Semmelweis</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('RmFuemluYQ=='); return false;">Fanzina</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/dottor-semmelweis.html" class="no-external">
+<em>Questo è il secondo articolo della nostra fanzine dedicata ai <strong>MICROBI</strong>, il tema che abbiamo affrontato a <strong>Scienceground 1.5</strong>. Trovi gli altri articoli e l’indice della fanzine…</em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/dottor-semmelweis.html" class="no-external">
+<div class="listing-date">
+16 feb 2020
+</div>
+<div class="listing-author">
+Endangered Dodo
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="82" data-categories="RmFuemluYQ==" data-listing-date-sort="1581811200000" data-listing-file-modified-sort="1793031771035" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="13" data-listing-word-count-sort="2464">
+<div class="thumbnail"><a href="./posts/fanzine3-gli-infetti-della-terra.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2020/02/infetti-1.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/fanzine3-gli-infetti-della-terra.html" class="no-external">{Fanzine#3} Gli Infetti della Terra</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('RmFuemluYQ=='); return false;">Fanzina</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/fanzine3-gli-infetti-della-terra.html" class="no-external">
+<em>Questo è il terzo articolo della nostra fanzine dedicata ai <strong>MICROBI</strong>, il tema che abbiamo affrontato a <strong>Scienceground 1.5</strong>. Trovi gli altri articoli e l’indice della fanzine qui:</em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/fanzine3-gli-infetti-della-terra.html" class="no-external">
+<div class="listing-date">
+16 feb 2020
+</div>
+<div class="listing-author">
+Dorraco
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="83" data-categories="RmFuemluYQ==" data-listing-date-sort="1581811200000" data-listing-file-modified-sort="1793031771036" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="14" data-listing-word-count-sort="2706">
+<div class="thumbnail"><a href="./posts/fanzine5-thats-symbiosis-baby-arte-biologia-e-altre-storie.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2020/02/Gilbert.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/fanzine5-thats-symbiosis-baby-arte-biologia-e-altre-storie.html" class="no-external">{Fanzine#5} That’s symbiosis, baby: arte, biologia e altre storie</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('RmFuemluYQ=='); return false;">Fanzina</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/fanzine5-thats-symbiosis-baby-arte-biologia-e-altre-storie.html" class="no-external">
+<em>Questo è il quinto articolo della nostra fanzine dedicata ai <strong>MICROBI</strong>, il tema che abbiamo affrontato a <strong>Scienceground 1.5</strong>. Trovi gli altri articoli e l’indice della fanzine…</em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/fanzine5-thats-symbiosis-baby-arte-biologia-e-altre-storie.html" class="no-external">
+<div class="listing-date">
+16 feb 2020
+</div>
+<div class="listing-author">
+Dorraco
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="84" data-categories="RmFuemluYQ==" data-listing-date-sort="1581811200000" data-listing-file-modified-sort="1793031771041" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1294">
+<div class="thumbnail"><a href="./posts/intesseremondi.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2020/02/fanzine_4-1.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/intesseremondi.html" class="no-external">{Fanzine#4} Intessere mondi</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('RmFuemluYQ=='); return false;">Fanzina</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/intesseremondi.html" class="no-external">
+<em>Questo è il quarto articolo della nostra fanzine dedicata ai <strong>MICROBI</strong>, il tema che abbiamo affrontato a <strong>Scienceground 1.5</strong>. Trovi gli altri articoli e l’indice della fanzine…</em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/intesseremondi.html" class="no-external">
+<div class="listing-date">
+16 feb 2020
+</div>
+<div class="listing-author">
+Endangered Dodo
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="85" data-categories="RGlhcmlvRGFsQm9yZG8=" data-listing-date-sort="1581552000000" data-listing-file-modified-sort="1793031771036" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="11" data-listing-word-count-sort="2167">
+<div class="thumbnail"><a href="./posts/guerra-e-pace-batteri-virus-epidemie.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2019/11/12.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/guerra-e-pace-batteri-virus-epidemie.html" class="no-external">Guerra e pace: batteri, virus, epidemie</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('RGlhcmlvRGFsQm9yZG8='); return false;">DiarioDalBordo</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/guerra-e-pace-batteri-virus-epidemie.html" class="no-external">
+<em>[Bruno Giorgini per scienceground.it]</em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/guerra-e-pace-batteri-virus-epidemie.html" class="no-external">
+<div class="listing-date">
+13 feb 2020
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="86" data-categories="TmV3c2xldHRlcmE=" data-listing-date-sort="1580256000000" data-listing-file-modified-sort="1793031771026" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="13" data-listing-word-count-sort="2591">
+<div class="thumbnail"><a href="./posts/9-pecore-elettriche.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2020/01/wrongcat2.jpeg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/9-pecore-elettriche.html" class="no-external">{#9} Pecore elettriche</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('TmV3c2xldHRlcmE='); return false;">Newslettera</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/9-pecore-elettriche.html" class="no-external">
+«Bender, a me non interessa se sei ricco. Ti amo per la tua intelligenza artificiale e il simulatore di sincerità»
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/9-pecore-elettriche.html" class="no-external">
+<div class="listing-date">
+29 gen 2020
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="87" data-categories="RmFuemluYQ==" data-listing-date-sort="1579651200000" data-listing-file-modified-sort="1793031771063" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="12" data-listing-word-count-sort="2391">
+<div class="thumbnail"><a href="./posts/un-segnale-nel-rumore.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2020/01/1-1.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/un-segnale-nel-rumore.html" class="no-external">{Fanzine#1} Un segnale nel rumore</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('RmFuemluYQ=='); return false;">Fanzina</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/un-segnale-nel-rumore.html" class="no-external">
+<em>Questo è il primo articolo della nostra fanzine dedicata ai <strong>MICROBI</strong>, il tema che abbiamo affrontato a <strong>Scienceground 1.5</strong>. Trovi gli altri articoli e l’indice della fanzine qui:</em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/un-segnale-nel-rumore.html" class="no-external">
+<div class="listing-date">
+22 gen 2020
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="88" data-categories="VmFyaWUlMjZldmVudHVhbGk=" data-listing-date-sort="1579564800000" data-listing-file-modified-sort="1793031771038" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="925">
+<div class="thumbnail"><a href="./posts/ibridazioni-narrative-come-ripensare-la-comunicazione-scientifica.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2019/11/7.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/ibridazioni-narrative-come-ripensare-la-comunicazione-scientifica.html" class="no-external">Ibridazioni narrative: come ripensare la comunicazione scientifica</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('VmFyaWUlMjZldmVudHVhbGk='); return false;">Varie&amp;eventuali</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/ibridazioni-narrative-come-ripensare-la-comunicazione-scientifica.html" class="no-external">
+[<em>Il 13 Settembre 2019 siamo stati invitati a proporre un panel al congresso dell’Associazione Di Italianistica, quest’anno dedicato a scienza e letteratura. Questa la nostra…</em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/ibridazioni-narrative-come-ripensare-la-comunicazione-scientifica.html" class="no-external">
+<div class="listing-date">
+21 gen 2020
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="89" data-categories="QWxnb3JpdG1vVW1hbm8=" data-listing-date-sort="1578700800000" data-listing-file-modified-sort="1793031771049" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10" data-listing-word-count-sort="1968">
+<div class="thumbnail"><a href="./posts/questo-articolo-e-stato-generato-da-un-algoritmo-umano.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2020/01/PNansen_red.jpeg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/questo-articolo-e-stato-generato-da-un-algoritmo-umano.html" class="no-external">Questo articolo è stato generato da un algoritmo umano</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('QWxnb3JpdG1vVW1hbm8='); return false;">AlgoritmoUmano</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/questo-articolo-e-stato-generato-da-un-algoritmo-umano.html" class="no-external">
+<em>La rivista letteraria Passaporto Nansen ci ha chiesto un contributo al loro ultimo numero, coraggiosamente dedicato ad una valutazione dei primi vent’anni di vita culturale…</em><em></em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/questo-articolo-e-stato-generato-da-un-algoritmo-umano.html" class="no-external">
+<div class="listing-date">
+11 gen 2020
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="90" data-categories="TmV3c2xldHRlcmE=" data-listing-date-sort="1576540800000" data-listing-file-modified-sort="1793031771025" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1601">
+<div class="thumbnail"><a href="./posts/8-2.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2019/12/25-1200x1600.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/8-2.html" class="no-external">{#8} Science before Christmas: programma</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('TmV3c2xldHRlcmE='); return false;">Newslettera</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/8-2.html" class="no-external">
+«Ma senza che gli altri non ne sappiano niente dimmi senza un programma dimmi come ci si sente»
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/8-2.html" class="no-external">
+<div class="listing-date">
+17 dic 2019
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="91" data-categories="VmFyaWUlMjZldmVudHVhbGk=" data-listing-date-sort="1575936000000" data-listing-file-modified-sort="1793031771024" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="989">
+<div class="thumbnail"><a href="./posts/7-science-before-christmas.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2019/12/23.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/7-science-before-christmas.html" class="no-external">{#7} Science before Christmas</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('VmFyaWUlMjZldmVudHVhbGk='); return false;">Varie&amp;eventuali</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/7-science-before-christmas.html" class="no-external">
+«È legittimo estrapolare dal discorso delle scienze un’immagine del mondo che corrisponda ai miei desideri?»
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/7-science-before-christmas.html" class="no-external">
+<div class="listing-date">
+10 dic 2019
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="92" data-categories="VmFyaWUlMjZldmVudHVhbGk=" data-listing-date-sort="1575936000000" data-listing-file-modified-sort="1793031771041" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="20">
+<div class="thumbnail"><a href="./posts/its-symbiosis-baby.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2019/11/2.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/its-symbiosis-baby.html" class="no-external">It’s symbiosis, baby</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('VmFyaWUlMjZldmVudHVhbGk='); return false;">Varie&amp;eventuali</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/its-symbiosis-baby.html" class="no-external">
+Listen to “It’s symbiosis, baby. Intervista a Scott Gilbert” on Spreaker.
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/its-symbiosis-baby.html" class="no-external">
+<div class="listing-date">
+10 dic 2019
+</div>
+<div class="listing-author">
+Sara Dal Cengio
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="93" data-categories="TmV3c2xldHRlcmE=" data-listing-date-sort="1574035200000" data-listing-file-modified-sort="1793031771024" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1493">
+<div class="thumbnail"><a href="./posts/6-convivere-col-guaio.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2019/11/1.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/6-convivere-col-guaio.html" class="no-external">{#6} Convivere col guaio</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('TmV3c2xldHRlcmE='); return false;">Newslettera</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/6-convivere-col-guaio.html" class="no-external">
+<em>«Sognai che l’universo visibile è persona fisica di Dio; che i vasti mondi che noi vediamo scintillare, milioni di miglia lontano nelle distese dello spazio, sono corpuscoli…</em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/6-convivere-col-guaio.html" class="no-external">
+<div class="listing-date">
+18 nov 2019
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="94" data-categories="VmFyaWUlMjZldmVudHVhbGk=" data-listing-date-sort="1573862400000" data-listing-file-modified-sort="1793031771057" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1294">
+<div class="thumbnail"><a href="./posts/scatole-che-imparano-a-giocare-al-nim.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2019/09/18.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/scatole-che-imparano-a-giocare-al-nim.html" class="no-external">Scatole che imparano a giocare a NIM</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('VmFyaWUlMjZldmVudHVhbGk='); return false;">Varie&amp;eventuali</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/scatole-che-imparano-a-giocare-al-nim.html" class="no-external">
+Spoiler: nelle sequenze finali del film <em>Wargames</em>, un computer impara per prove ripetute a giocare a tris: presto scopre che non ci può essere nessun vincitore, come chiunque…<em></em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/scatole-che-imparano-a-giocare-al-nim.html" class="no-external">
+<div class="listing-date">
+16 nov 2019
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="95" data-categories="VmFyaWUlMjZldmVudHVhbGk=" data-listing-date-sort="1573776000000" data-listing-file-modified-sort="1793031771048" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="224">
+<div class="thumbnail"><a href="./posts/now-i-know-why-you-cry.html" class="no-external">
+
+<p class="card-img-top"><img loading='lazy' data-src="uploads/2019/11/nowiknow.jpg"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/now-i-know-why-you-cry.html" class="no-external">Now I know why you cry</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('VmFyaWUlMjZldmVudHVhbGk='); return false;">Varie&amp;eventuali</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/now-i-know-why-you-cry.html" class="no-external">
+Molti dei percorsi di Scienceground si occupano di AI, Intelligenza Artificiale, di come funziona, e di come i suoi meccanismi complicati (ma spesso non complessi) rischiano…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/now-i-know-why-you-cry.html" class="no-external">
+<div class="listing-date">
+15 nov 2019
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="96" data-categories="RGlhcmlvRGFsQm9yZG8=" data-listing-date-sort="1569106800000" data-listing-file-modified-sort="1793031771060" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="997">
+<div class="thumbnail"><a href="./posts/scienceground-una-comunita-scientifica-nuova.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2019/09/6.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/scienceground-una-comunita-scientifica-nuova.html" class="no-external">Scienceground. Una comunità scientifica nuova.</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('RGlhcmlvRGFsQm9yZG8='); return false;">DiarioDalBordo</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/scienceground-una-comunita-scientifica-nuova.html" class="no-external">
+<em>[Bruno Giorgini per sicenceground.it, Genova 21/09/2019]</em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/scienceground-una-comunita-scientifica-nuova.html" class="no-external">
+<div class="listing-date">
+22 set 2019
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="97" data-categories="VmFyaWUlMjZldmVudHVhbGk=" data-listing-date-sort="1568329200000" data-listing-file-modified-sort="1793031771039" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1222">
+<div class="thumbnail"><a href="./posts/intelligenza-umana-intelligenza-artificiale.html" class="no-external">
+
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/intelligenza-umana-intelligenza-artificiale.html" class="no-external">Intelligenza umana, intelligenza artificiale</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('VmFyaWUlMjZldmVudHVhbGk='); return false;">Varie&amp;eventuali</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/intelligenza-umana-intelligenza-artificiale.html" class="no-external">
+<em>[Luisa Simone per scienceground.it]</em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/intelligenza-umana-intelligenza-artificiale.html" class="no-external">
+<div class="listing-date">
+13 set 2019
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="98" data-categories="RGlhcmlvRGFsQm9yZG8=" data-listing-date-sort="1567638000000" data-listing-file-modified-sort="1793031771037" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="669">
+<div class="thumbnail"><a href="./posts/i-miei-amici-microbi-e-le-pesti-urbane.html" class="no-external">
+
+<img loading="lazy" data-src="./uploads/2019/08/004.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/i-miei-amici-microbi-e-le-pesti-urbane.html" class="no-external">I miei amici microbi e le pesti urbane</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('RGlhcmlvRGFsQm9yZG8='); return false;">DiarioDalBordo</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/i-miei-amici-microbi-e-le-pesti-urbane.html" class="no-external">
+<em>[Bruno Giorgini per scienceground.it]</em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/i-miei-amici-microbi-e-le-pesti-urbane.html" class="no-external">
+<div class="listing-date">
+5 set 2019
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="99" data-categories="TmV3c2xldHRlcmE=" data-listing-date-sort="1567551600000" data-listing-file-modified-sort="1793031771024" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="8" data-listing-word-count-sort="1436">
+<div class="thumbnail"><a href="./posts/5-se-non-ti-piacciono-i-batteri-sei-sul-pianeta-sbagliato.html" class="no-external">
+
+<p class="card-img-top"><img loading='lazy' data-src="uploads/2019/09/0-300x134.png"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/5-se-non-ti-piacciono-i-batteri-sei-sul-pianeta-sbagliato.html" class="no-external">{#5} Se non ti piacciono i batteri, sei sul pianeta sbagliato</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('TmV3c2xldHRlcmE='); return false;">Newslettera</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/5-se-non-ti-piacciono-i-batteri-sei-sul-pianeta-sbagliato.html" class="no-external">
+Pochi giorni all’inizio di Scienceground 1.5 @ Festivaletteratura.
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/5-se-non-ti-piacciono-i-batteri-sei-sul-pianeta-sbagliato.html" class="no-external">
+<div class="listing-date">
+4 set 2019
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="100" data-categories="VmFyaWUlMjZldmVudHVhbGk=" data-listing-date-sort="1567119600000" data-listing-file-modified-sort="1793031771042" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="145">
+<div class="thumbnail"><a href="./posts/la-vita-delle-scienze-unintervista-a-bruno-latour.html" class="no-external">
+
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/la-vita-delle-scienze-unintervista-a-bruno-latour.html" class="no-external">La vita delle scienze – un’intervista a Bruno Latour</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('VmFyaWUlMjZldmVudHVhbGk='); return false;">Varie&amp;eventuali</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/la-vita-delle-scienze-unintervista-a-bruno-latour.html" class="no-external">
+<em>A conclusione di Scienceground 2 a Festivaletteratura 2018 abbiamo incontrato e intervistato l’antropologo e filosofo francese Bruno Latour.</em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/la-vita-delle-scienze-unintervista-a-bruno-latour.html" class="no-external">
+<div class="listing-date">
+30 ago 2019
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="101" data-categories="VmFyaWUlMjZldmVudHVhbGk=" data-listing-date-sort="1564959600000" data-listing-file-modified-sort="1793031771058" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="14" data-listing-word-count-sort="2672">
+<div class="thumbnail"><a href="./posts/scienceground-1-5-microbi.html" class="no-external">
+
+<p class="card-img-top"><img loading='lazy' data-src="uploads/2019/08/008-300x140.jpg"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/scienceground-1-5-microbi.html" class="no-external">SCIENCEGROUND 1.5 – Microbi</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('VmFyaWUlMjZldmVudHVhbGk='); return false;">Varie&amp;eventuali</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/scienceground-1-5-microbi.html" class="no-external">
+<em>Il programma di Scienceground 1.5 @ Festivaletteratura 2019, Mantova 4-8 Settembre. Tutti i riferimenti sono al programma del festival, scariabile su www.festivaletteratura.it…</em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/scienceground-1-5-microbi.html" class="no-external">
+<div class="listing-date">
+5 ago 2019
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="102" data-categories="TmV3c2xldHRlcmE=" data-listing-date-sort="1564441200000" data-listing-file-modified-sort="1793031771023" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="995">
+<div class="thumbnail"><a href="./posts/4-scienceground-1-5-microbi.html" class="no-external">
+
+<p class="card-img-top"><img loading='lazy' data-src="uploads/2019/07/14-300x201.png"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/4-scienceground-1-5-microbi.html" class="no-external">{#4} Scienceground 1.5: Microbi</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('TmV3c2xldHRlcmE='); return false;">Newslettera</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/4-scienceground-1-5-microbi.html" class="no-external">
+<em>«Durante gli esperimenti di laboratorio [di Pasteur], i microbi facevano cose che non avevano mai fatto prima. […] Quando ti addentri nella scienza dei microbi, o dei virus…</em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/4-scienceground-1-5-microbi.html" class="no-external">
+<div class="listing-date">
+30 lug 2019
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="103" data-categories="VmFyaWUlMjZldmVudHVhbGk=" data-listing-date-sort="1563490800000" data-listing-file-modified-sort="1793031771026" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="351">
+<div class="thumbnail"><a href="./posts/al-festival-della-scienza-di-sofia.html" class="no-external">
+
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/al-festival-della-scienza-di-sofia.html" class="no-external">Al Festival della Scienza di Sofia</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('VmFyaWUlMjZldmVudHVhbGk='); return false;">Varie&amp;eventuali</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/al-festival-della-scienza-di-sofia.html" class="no-external">
+<em>Riccardo ﻿Impavido per scienceground.it</em>.
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/al-festival-della-scienza-di-sofia.html" class="no-external">
+<div class="listing-date">
+19 lug 2019
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="104" data-categories="TGliZXJlJTIwTGV0dHVyZQ==" data-listing-date-sort="1560726000000" data-listing-file-modified-sort="1793031771061" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="28" data-listing-word-count-sort="5496">
+<div class="thumbnail"><a href="./posts/semmelweis-di-l-f-celine.html" class="no-external">
+
+<p class="card-img-top"><img loading='lazy' data-src="uploads/2019/06/07898.jpg"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/semmelweis-di-l-f-celine.html" class="no-external">Il dottor Semmelweis di L.-F. Céline</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('TGliZXJlJTIwTGV0dHVyZQ=='); return false;">Libere Letture</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/semmelweis-di-l-f-celine.html" class="no-external">
+[IT] Lo scorso mese abbiamo proposto la lettura collettiva de <em>Il dottor Semmelweis</em> di L.-F. Céline. In questo spazio apriamo una discussione pubblica. I materiali raccolti…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/semmelweis-di-l-f-celine.html" class="no-external">
+<div class="listing-date">
+17 giu 2019
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="105" data-categories="TmV3c2xldHRlcmE=" data-listing-date-sort="1560553200000" data-listing-file-modified-sort="1793031771022" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="815">
+<div class="thumbnail"><a href="./posts/3-in-onda.html" class="no-external">
+
+<p class="card-img-top"><img loading='lazy' data-src="uploads/2019/06/9-300x200.jpg"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/3-in-onda.html" class="no-external">{#3} In onda!</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('TmV3c2xldHRlcmE='); return false;">Newslettera</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/3-in-onda.html" class="no-external">
+<em>«Ero consapevole di molti eventi per cui non avevo spiegazioni. Il parto con una dilatazione prolungata portava pressoché inevitabilmente alla morte. Le pazienti che…</em><br><em></em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/3-in-onda.html" class="no-external">
+<div class="listing-date">
+15 giu 2019
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="106" data-categories="TmV3c2xldHRlcmE=" data-listing-date-sort="1560294000000" data-listing-file-modified-sort="1793031771018" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="656">
+<div class="thumbnail"><a href="./posts/2-2.html" class="no-external">
+
+<p class="card-img-top"><img loading='lazy' data-src="uploads/2019/06/6-300x199.jpg"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/2-2.html" class="no-external">{#2} Leggere Il dottor Semmelweis</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('TmV3c2xldHRlcmE='); return false;">Newslettera</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/2-2.html" class="no-external">
+<em>«La prima opera pubblicata di Louis-Ferdinand Céline è forse quella meno nota […] Senza dubbio Semmelweis non è ciò che ci si aspetterebbe oggi da un tesi di laurea in…</em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/2-2.html" class="no-external">
+<div class="listing-date">
+12 giu 2019
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="107" data-categories="TmV3c2xldHRlcmE=" data-listing-date-sort="1557270000000" data-listing-file-modified-sort="1793031771010" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="709">
+<div class="thumbnail"><a href="./posts/1-2.html" class="no-external">
+
+<p class="card-img-top"><img loading='lazy' data-src="uploads/2019/06/1-1-300x200.jpg"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/1-2.html" class="no-external">{#1} A proposito di Scienceground</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('TmV3c2xldHRlcmE='); return false;">Newslettera</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/1-2.html" class="no-external">
+<em>«Che il linguaggio purificato della scienza, o persino il linguaggio più ricco e purificato della letteratura, debbano mai essere adeguati a ciò che viene dato dal mondo e…</em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/1-2.html" class="no-external">
+<div class="listing-date">
+8 mag 2019
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="108" data-categories="VmFyaWUlMjZldmVudHVhbGk=" data-listing-date-sort="1556751600000" data-listing-file-modified-sort="1793031771012" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="22">
+<div class="thumbnail"><a href="./posts/1155-2.html" class="no-external">
+
+<p class="card-img-top"><img loading='lazy' data-src="uploads/2020/05/reteidrica.png"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/1155-2.html" class="no-external"></a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('VmFyaWUlMjZldmVudHVhbGk='); return false;">Varie&amp;eventuali</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/1155-2.html" class="no-external">
+
+
+
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/1155-2.html" class="no-external">
+<div class="listing-date">
+2 mag 2019
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="109" data-categories="VmFyaWUlMjZldmVudHVhbGk=" data-listing-date-sort="1556233200000" data-listing-file-modified-sort="1793031771012" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="26">
+<div class="thumbnail"><a href="./posts/11-i-giorni-del-virus-2.html" class="no-external">
+
+<p class="card-img-top"><img loading='lazy' data-src="uploads/2020/04/2.png"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/11-i-giorni-del-virus-2.html" class="no-external">{#11} I giorni del virus /2</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('VmFyaWUlMjZldmVudHVhbGk='); return false;">Varie&amp;eventuali</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/11-i-giorni-del-virus-2.html" class="no-external">
+
+<ul>
+<li>
+<figure class="figure">
+
+</figure>
+</li>
+<li>
+<figure class="figure">
+
+</figure>
+</li>
+<li>
+<figure class="figure">
+
+</figure>
+</li>
+</ul>
+
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/11-i-giorni-del-virus-2.html" class="no-external">
+<div class="listing-date">
+26 apr 2019
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="110" data-categories="VmFyaWUlMjZldmVudHVhbGk=" data-listing-date-sort="1544054400000" data-listing-file-modified-sort="1793031771031" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="295">
+<div class="thumbnail"><a href="./posts/big-food.html" class="no-external">
+
+<p class="card-img-top"><img loading='lazy' data-src="uploads/2019/06/bigfood1-212x300.jpg"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/big-food.html" class="no-external">Big Food</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('VmFyaWUlMjZldmVudHVhbGk='); return false;">Varie&amp;eventuali</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/big-food.html" class="no-external">
+As part of the activities organized around the visit of Gyorgy Scrinis, together with <strong>Centro di Salute Internazionale</strong> and <strong>Dipartimento di Storia Culture e Civiltà</strong> we have…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/big-food.html" class="no-external">
+<div class="listing-date">
+6 dic 2018
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="111" data-categories="JTQwRmVzdGl2YWxldHRlcmF0dXJh" data-listing-date-sort="1535756400000" data-listing-file-modified-sort="1793031771059" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="11" data-listing-word-count-sort="2139">
+<div class="thumbnail"><a href="./posts/scienceground-2.html" class="no-external">
+
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/scienceground-2.html" class="no-external"><span class="citation" data-cites="Festivaletteratura2018">@Festivaletteratura2018</span></a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('JTQwRmVzdGl2YWxldHRlcmF0dXJh'); return false;">@Festivaletteratura</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/scienceground-2.html" class="no-external">
+<em>“La scienza oggi è afflitta dall’assedio alle sue fondamenta degli stessi</em> <em>accademici, dal contraccolpo della religione, dall’attacco alla sua professionalità da parte…</em><em></em><em></em><em></em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/scienceground-2.html" class="no-external">
+<div class="listing-date">
+1 set 2018
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="112" data-categories="VmFyaWUlMjZldmVudHVhbGk=" data-listing-date-sort="1529708400000" data-listing-file-modified-sort="1793031771015" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="66">
+<div class="thumbnail"><a href="./posts/1412-2.html" class="no-external">
+
+<p class="card-img-top"><img loading='lazy' data-src="uploads/2018/06/croce_civico.png"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/1412-2.html" class="no-external"></a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('VmFyaWUlMjZldmVudHVhbGk='); return false;">Varie&amp;eventuali</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/1412-2.html" class="no-external">
+
+
+
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/1412-2.html" class="no-external">
+<div class="listing-date">
+23 giu 2018
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="113" data-categories="VmFyaWUlMjZldmVudHVhbGk=" data-listing-date-sort="1526857200000" data-listing-file-modified-sort="1793031771012" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="16">
+<div class="thumbnail"><a href="./posts/12-i-giorni-del-virus-12.html" class="no-external">
+
+<p class="card-img-top"><img loading='lazy' data-src="uploads/2020/05/bByepewNTZZwKhVZwJQnwcKj.png"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/12-i-giorni-del-virus-12.html" class="no-external">{#12} I giorni del virus /12</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('VmFyaWUlMjZldmVudHVhbGk='); return false;">Varie&amp;eventuali</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/12-i-giorni-del-virus-12.html" class="no-external">
+
+<ul>
+<li>
+<figure class="figure">
+
+</figure>
+</li>
+</ul>
+
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/12-i-giorni-del-virus-12.html" class="no-external">
+<div class="listing-date">
+21 mag 2018
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="114" data-categories="QWxnb3JpdG1vVW1hbm8=" data-listing-date-sort="1522191600000" data-listing-file-modified-sort="1793031771028" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="8">
+<div class="thumbnail"><a href="./posts/algoritmo-umano.html" class="no-external">
+
+<p class="card-img-top"><img loading='lazy' data-src="uploads/2020/03/jYSNjEupiGzRPekEUTGfUNxw.jpeg"  class="thumbnail-image card-img"/></p>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/algoritmo-umano.html" class="no-external">Algoritmo umano</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('QWxnb3JpdG1vVW1hbm8='); return false;">AlgoritmoUmano</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/algoritmo-umano.html" class="no-external">
+
+
+
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/algoritmo-umano.html" class="no-external">
+<div class="listing-date">
+28 mar 2018
+</div>
+<div class="listing-author">
+ExTemporanea
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">Nessun risultato</div>
+<nav id="listing-pagination" class="listing-pagination" aria-label="Page Navigation">
+  <ul class="pagination"></ul>
+</nav>
+</div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copiato!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copiato!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp("https:\/\/fturci\.github\.io\/extemporanea-quarto\/");
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>© Scienceground · eXtemporanea</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+<p>Contenuti trasferiti dal sito WordPress extemporanea.eu / scienceground.it</p>
+</div>
+  </div>
+</footer>
+
+
+
+
+</body></html>

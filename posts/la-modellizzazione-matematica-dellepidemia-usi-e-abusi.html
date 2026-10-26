@@ -1,0 +1,675 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="it" xml:lang="it"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.9.36">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="ExTemporanea">
+
+<title>La modellizzazione matematica dell’epidemia: usi e abusi – Scienceground</title>
+<style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../uploads/2020/08/cropped-upload_18a5a7a63b4434f192c0281f9c183ef7.png" rel="icon" type="image/png">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-158031087360bce0ff56dc785ce39e06.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "Nessun risultato",
+    "search-matching-documents-text": "documenti trovati",
+    "search-copy-link-title": "Copiare il link nella ricerca",
+    "search-hide-matches-text": "Nascondere i risultati aggiuntivi",
+    "search-more-match-text": "ci sono altri risultati in questo documento",
+    "search-more-matches-text": "ulteriori risultati in questo documento",
+    "search-clear-button-title": "Pulire",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancellare",
+    "search-submit-button-title": "Inviare",
+    "search-label": "Ricerca"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="../styles.css">
+</head>
+
+<body class="nav-fixed fullcontent quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../uploads/2020/08/cropped-upload_18a5a7a63b4434f192c0281f9c183ef7.png" alt="" class="navbar-logo light-content">
+    <img src="../uploads/2020/08/cropped-upload_18a5a7a63b4434f192c0281f9c183ef7.png" alt="" class="navbar-logo dark-content">
+    </a>
+    <a class="navbar-brand" href="../index.html">
+    <span class="navbar-title">Scienceground</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Ricerca"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Attiva/disattiva la navigazione" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../a-proposito.html"> 
+<span class="menu-text">A proposito</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../fanzina.html"> 
+<span class="menu-text">Fanzine</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../extemporanea.html"> 
+<span class="menu-text">Newslettera</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../laboratori.html"> 
+<span class="menu-text">Laboratori</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-rusco-linguacciuto" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Rusco linguacciuto</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-rusco-linguacciuto">    
+        <li>
+    <a class="dropdown-item" href="../rusco-linguacciuto.html">
+ <span class="dropdown-text">Rusco linguacciuto</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../rusco-linguacciuto-2021.html">
+ <span class="dropdown-text">Rusco linguacciuto 2021</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="https://www.spreaker.com/show/4529392"> 
+<span class="menu-text">Podcast</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../index.html#category=Libere Letture"> 
+<span class="menu-text">Libere Letture</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../index.html#category=Bibliografie"> 
+<span class="menu-text">Bibliografie</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../eventi.html"> 
+<span class="menu-text">Eventi</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../en/index.html"> 
+<span class="menu-text">English</span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://t.me/extemporanea"> <i class="bi bi-telegram" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="../index.xml"> <i class="bi bi-rss" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">La modellizzazione matematica dell’epidemia: usi e abusi</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">Varie&amp;eventuali</div>
+  </div>
+  </div>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Autore/Autrice</div>
+    <div class="quarto-title-meta-contents">
+             <p>ExTemporanea </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Data di Pubblicazione</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">23 marzo 2020</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<p><img src="../uploads/2020/03/05-1568x581.png" class="featured-image img-fluid"></p>
+<section id="unintervista-a-giuseppe-de-nicolao-e-tommaso-dorigo" class="level3">
+<h3 class="anchored" data-anchor-id="unintervista-a-giuseppe-de-nicolao-e-tommaso-dorigo">Un’intervista a Giuseppe De Nicolao e Tommaso Dorigo</h3>
+<p><em>[Illustrazione di <a href="https://www.andreadefranco.com/">Andrea De Franco</a>]</em></p>
+<p><strong>All’edizione di Festivaletteratura a cui avevate partecipato <a href="../posts/scienceground-2.html">grossa parte della programmazione scientifica</a> era dedicata all’uso e abuso della statistica, dentro e fuori le scienze. Con l’insorgenza dell’epidemia, varie comunità accademiche (fisici, <em>computer scientists</em>, etc.) si sono mobilitate per fare analisi dati, che vengono aggiornate giorno per giorno.</strong></p>
+<p><em>Giuseppe De Nicolao</em>: Personalmente mi sono mosso malvolentieri quando ho capito che c’era un TIR in arrivo e che il Governo pensava di aver fatto abbastanza, ritenendo di non dover introdurre correttivi per altri 4-5 giorni. In quel momento mi era già chiaro che l’epidemia avrebbe portato le terapie intensive al collasso e che i medici avrebbero finito per essere costretti a decidere chi salvare e chi no in base all’età e al quadro clinico. Ero atterrito e angosciato. A quel punto, ho visto che Bucci, Marinari e Parisi avevano già pubblicato <a href="http://chimera.roma1.infn.it/ENZO/esponenziale.pdf">una prima analisi</a> e mi sono unito a loro nel <a href="https://statisticallearningtheory.wordpress.com/2020/03/02/previsione-della-crescita-esponenziale-dei-covid19-positivi-in-italia-lombardia-veneto-ed-e-romagna/">lanciare l’allarme</a>.</p>
+<p><strong>Questa sovrabbondanza di analisi però rischia di creare più confusione di quanta ne risolva: se per ogni scenario futuro possibile c’è un’andamento che l’aveva predetto, rischiamo di poter fare solo considerazioni a posteriori…</strong></p>
+<p><em>Giuseppe De Nicolao</em>: è vero, se ne vedono di tutti i colori. Io stesso sono stato accusato di inutile allarmismo.</p>
+<p><em>Tommaso Dorigo:</em> Con i dati a disposizione, la moltitudine di fonti da cui attingere, e la loro farraginosità, si può “dimostrare” qualunque cosa e il suo esatto contrario. La mancanza di rigore metodologico e il pressapochismo sono disarmanti e mi hanno spinto a fare un appello sul gruppo Facebook <a href="https://www.facebook.com/groups/PhysicistsAgainstSARSCoV2/">physicists against sars-covid-19</a> e a scrivere un <a href="https://www.science20.com/tommaso_dorigo/the_virus_that_turns_physicists_into_crackpots-246490?fbclid=IwAR2c9IARfIcDMS1ne8SE0ksGMGwvQcpgR_RgOBoy8FRIg7B1-1-hITH7Cvk">post sul mio blog</a>, entrambi molto apprezzati ma che non hanno avuto ripercussioni.</p>
+<p><strong>Quali dovrebbero essere allora dei buoni principi di riferimento?</strong></p>
+<p><em>Tommaso Dorigo:</em> Penso che non si possa prescindere dal tenere saldo e ben visibile sulla nostra “scrivania virtuale” il metodo scientifico. A prescindere dalla nostra disciplina di principale <em>expertise</em>, sia questa fisica, statistica, epidemiologia, o altro, non possiamo dimenticarci che c’è una differenza fondamentale fra osservazioni qualitative e stime quantitative. Mentre le prime possono essere utili a dispetto della loro imprecisione, le seconde corrono il rischio di creare grossi danni se non sono condotte con cautela e rigore. Ora, il metodo scientifico passa attraverso, appunto, il rigore metodologico, e quest’ultimo ci richiede di conoscere il lavoro dei nostri colleghi prima di avventurarci nell’analisi statistica dei dati. Vedo ahimé giornalmente colleghi altrimenti abili e rispettati intrattenersi in stime del numero asintotico totale di morti in Italia, della data del picco dei contagi, ed altro, basandosi su interpolazioni mono-dimensionali a dati di dubbia veridicità, affetti da errori sistematici difficili da controllare e correlati punto a punto. Questi colleghi conoscono tutti questi problemi, e tuttavia decidono di ignorarli, perché i <em>social media</em> ci premiano con un <em>kick</em> emozionale se partecipiamo, riceviamo <em>likes</em>, contribuiamo, a dispetto dal valore effettivo dei nostri contributi. Il metodo scientifico invece ci dovrebbe spingere a maggiore cautela, e ad un faticoso studio della famosa “<em>domain knowledge”</em>&nbsp;[NdR: le conoscenze specifiche di un settore, distinta dalla “<em>general knowledge”</em>] in questo caso modelli di diffusione e epidemiologia. E’ disarmante vedere che i fisici invece pensano che la loro alta conoscenza della loro materia sia sufficiente a conoscere i dettagli di qualunque altra disciplina. Non è così e i risultati si vedono: pressapochismo, dilettantismo, <em>crackpot-like behaviour</em> insomma.</p>
+<p><strong>In questo frangente, è possibile fare diversamente dal tentare qualcosa, purchessia? Molte delle tecniche statistiche usate soprattutto dai fisici prevedono una situazione controllata di laboratorio, per cui è possibile separare la fase di “<em>playground”</em>, in cui si gioca con i dati, e l’esperimento vero e proprio, soggetto ad un protocollo. Qui invece, come nel film <em>Funny Games</em> di Haneke, dal momento in cui la disgrazia si presenta alla porta – dopo aver visitato i vicini, e senza che ci si accorgesse della gravità della situazione – ci si trova scaraventati nella situazione senza un momento fiato per fermarsi a riflettere e pianificare. Bisogna fare con quello che si ha.</strong></p>
+<p><em>Giuseppe De Nicolao:</em> Infatti all’inizio dell’epidemia per una settimana ho prodotto grafici cercando di sottolineare come nelle altre regioni si stesse replicando il profilo di crescita lombardo. Niente di sofisticato, poco più di un <em>data visualization</em>. Mi sono limitato a estrapolare linearmente i dati in scala logaritmica per anticipare cosa sarebbe successo nell’arco di pochi giorni. Tutto sull’onda dell’emergenza e della necessità di lanciare messaggi facilmente comprensibili perché ogni giorno perso avrebbe pesato nel bilancio dei morti. <a href="https://statisticallearningtheory.wordpress.com/2020/03/08/covid-19-evoluzioni-regionali-a-confronto-e-romagna-segue-lombardia-a-6-giorni-di-distanza/">Le mie analisi sui confronti regionali</a> sono state richieste e usate da un’unità di crisi regionale e forse hanno contribuito a far maturare la consapevolezza della necessità di un <em>lockdown</em> nazionale. Sono rimasto attivo per poco più di dieci giorni, perché mi sembrava utile sensibilizzare sul pericolo, e sulla necessità di un forte distanziamento sociale.</p>
+<p><em>Tommaso Dorigo:</em> L’approccio qualitativo rimane accettabile, perché nella sua imprecisione è meno criticabile. Chi ha sovrapposto “alla membro di molosso” (simpatica espressione trovata sul già citato gruppo Facebook) i contagi di Cina e Italia spostando la data di inizio delle due curve alla buona ha certamente permesso di capire dove eravamo diretti nel breve periodo, e questo aiuta (raccolgo questo commento dal mio blog da un collega brillante ma non nuovo ad analisi qualitative anche controverse). Ma avere la presunzione di poter capire l’evoluzione di un contagio in maniera quantitativa è un altro paio di maniche. Si può fare, ma richiede l’approccio rigoroso che qui ci può insegnare un epidemiologo, non un fisico – per quanto astuto.</p>
+<p><strong>Da un lato sembra mancare un’ipotesi, e le assunzioni del modello SIR che è la base della modellizzazione paiono molto semplificative. Inoltre ci sono problemi sistematici di stima: non è chiara l’uniformità e la completezza dei dati, ed esiste un’acceso dibattito per esempio su come vadano eseguiti i tamponi. Ai sani, ai guariti, ai malati? A campione, a tappeto? Insomma la “matematica del contagio” quando viene applicata non è affatto così semplice.</strong></p>
+<p><em>Tommaso Dorigo:</em> Non è per nulla semplice! Anzi oserei dire che l’imprecisione di fondo, dovuta alla combinazione di disomogeneità dei dati e metodologia della loro raccolta (ogni paese ha un protocollo diverso per decidere la causa della morte, e.g., o se fare il tampone ai deceduti, ai deceduti in ospedale o a nessuno; ogni paese fa tamponi in quantità e modalità diverse; ogni paese diverso ha diversi protocolli per l’ammissione in ospedale; molti dati sono incompleti, corrotti, mancanti). In queste condizioni un’interpolazione monodimensionale è una cosa abbastanza sciocca. I fisici poi sono particolarmente “<em>spoiled</em>” da questo punto di vista: non hanno quasi mai a che fare con dati incompleti o raccolti con tecniche diverse, proprio perché progettano con cura i loro esperimenti per evitare di trovarsi in queste situazioni. Nel mondo reale invece i <em>data analysts</em> sono più avvezzi a dati mancanti e <em>biased</em>.</p>
+<p><em>Giuseppe De Nicolao:</em> Infatti dal 13 marzo non intervengo più. I dati lombardi (che rappresentano una parte considerevole dell’epidemia nazionale) sono <em>biased</em>. Fare previsioni sulla base di modelli fittati su dati inaffidabili mi sembra alquanto azzardato. Tanto più se fatto da chi non ha la <em>domain kowledge</em> necessaria per cautelarsi e finisce per prendere come oro colato numeri abbastanza problematici.</p>
+<p><strong>Inoltre è partita la corsa alla pubblicazione di risultati su <a href="https://arxiv.org/search/?query=COVID&amp;searchtype=all&amp;source=header">arXiv</a> [un archivio pubblico di manoscritti scientifici], il che da una parte può essere indicativo di una sincera volontà di aiutare, dall’altra può passare per una forma di sciacallaggio scientifico (alcuni esempi sono plateali; proprio ieri è uscito un articolo di tre pagine che prevedeva “the number of fatalities in Italy is expected to be 6000, and the crisis ends before April 15, 2020” – praticamente come puntare un terno al lotto, se vince vince e se perde pazienza, l’autore non ci avrà rimesso che qualche ora di lavoro).</strong></p>
+<p><em>Tommaso Dorigo:</em> So da fonti interne di alto livello che arXiv sta rifiutando frotte di articoli, molti dei quali scritti da fisici che non si rendono neppure conto di quanto <em>crackpottish</em> è il loro approccio. Questo fa male al cuore.</p>
+<p><strong>Insomma sembra che la comunità scientifica sia partita molto volenterosa ma disarticolata, senza una chiara direzione o coordinamento istituzionale.</strong></p>
+<p><em>Giuseppe De Nicolao:</em> Mi stupisco ancora oggi che siano stati degli outsider a lanciare l’allarme. Mi domando a cosa serva tutta la nostra competenza scientifica (con tutto il contorno di Big Data, Machine Learning, AI e Deep Learning) se non siamo capaci di riconoscere una valanga in arrivo, visibile a occhio nudo (bastava un grafico in scala logaritmica). Chissà se un giorno qualcuno formulerà l’equivalente della domanda della regina relativa alla crisi economica del 2008: “Why did no one see it coming?”.</p>
+<p><strong>Anche stimolati dal taglio dei bandi di concorso internazionali, tanti fisici si sono spostati ad applicazioni di stampo biologico, e la cooperazione e l’interdisciplinarietà sono molto incentivate. Questo però rischia di creare una letteratura scientifica “né carne né pesce”, poco rispettosa dei fondamenti epistemologici delle altre discipline.</strong></p>
+<p><em>Tommaso Dorigo:</em> Come dicevo, la curva di apprendimento della <em>domain knowledge</em> in altri campi di ricerca è sempre molto lunga e difficile da seguire. L’approccio giusto è la collaborazione fra ricercatori di diverse discipline, e lo sforzo di trovare un linguaggio comune (primo ostacolo molto duro). Poi bisognerebbe capire che si può contribuire anche in maniera gregaria, invece di voler essere quello che dà la risposta definitiva. Ma noi fisici siamo sempre tutti convinti di essere i primi della classe, si sa. Questo rende difficile raggiungere una sinergia completa. Secondo me l’approccio giusto è quello di mettere a disposizione le proprie competenze. Se il campo di ricerca è uno in cui non si possiedono i fondamentali, non c’è un’altra via.</p>
+<p><strong>Che fare?</strong></p>
+<p><em>Tommaso Dorigo:</em> È una domanda difficile. Come ho scritto nel blog, l’intrattenimento che <em>fittare</em> qualche punto con una curva offre al fisico confinato a casa sembra essere irresistibile. Non che sia nocivo, ma lo trovo un po’ deprimente e una rincorsa al ribasso delle competenze. D’altra parte è troppo facile per me stare in balconata a fare il tiro al piccione, deridendo chi si intrattiene in queste attività che almeno esorcizzano un po’ la propria paura del contagio. Vorrei che ci fosse un modo per convogliare le enormi potenzialità dei nostri validi ricercatori in fisica verso un obiettivo più costruttivo della previsione del picco dei contagi (che fra l’altro è affetto da un incognito errore del terzo tipo, di cui si parla molto poco – è la cattiva definizione della quantità soggetta a misura). Tuttavia vedo poche possibilità per gli analisti di dati di contribuire in questo momento, per due motivi. Uno, i dati sono comprensibili solo con una <em>domain knowledge</em> che non abbiamo, e che serve molto tempo ad ottenere. Due, collaborare con epidemiologi e virologi in questo momento appare difficile – sono abituati a lavorare in piccoli gruppi e in piu’ in questo momento sono travolti, mentre in questo genere di collaborazioni serve molto aiuto a chi non ha la <em>domain knowledge</em> nel primo periodo. L’INFN, l’ente di ricerca in fisica cui appartengo, ha però un enorme bagaglio di competenze anche nella costruzione di strumenti, e infatti so di diverse iniziative lodevoli che stanno prendendo piede, indirizzate al comprendere la dinamica della diffusione del virus in aria, al tracciamento dei contagi, e alla produzione di ventilatori ad hoc. Speriamo che queste iniziative abbiano successo!</p>
+<p><em>Giuseppe De Nicolao:</em> Vorrei vivere in un paese in cui non sia necessario fare quello che ho fatto, ma se torno al 2 marzo penso che fosse doveroso farlo. Non ti nascondo che di fronte alla dimensione della catastrofe che giorno dopo giorno tocca sempre più da vicino tutti, colpendo i parenti dei conoscenti se non i tuoi amici (e preghi che non arrivi più vicino) faccio fatica a impegnarmi in discussioni accademiche mentre la sanità della mia regione va a pezzi.</p>
+<p><em><strong>Giuseppe De Nicolao</strong> è professore presso il Dipartimento di Computer and System Science dell’Università di Pavia, e tra i fondatori della comunità <a href="https://www.roars.it/online/">ROARS</a>. <strong>Tommaso Dorigo</strong> è fisico sperimentale, primo ricercatore INFN, autore del blog <a href="https://www.science20.com/a_quantum_diaries_survivor">A quantum diaries survivor</a> e della monografia</em> Anomaly! Collider Physics and the Quest for New Phenomena at Fermilab <em>(World Scientific, 2016).</em></p>
+<hr>
+</section>
+<section id="commenti" class="level2">
+<h2 class="anchored" data-anchor-id="commenti">Commenti</h2>
+<blockquote class="blockquote">
+<p><strong>Antonio Grandieri</strong> · <em>26/03/2020 alle 4:01 pm</em></p>
+<p>Un po’ lungo ma interessante perché focalizza molto bene alcune problematiche scaturite dal proliferare di scritti e analisi “di non addetti ai lavori”.</p>
+</blockquote>
+<blockquote class="blockquote">
+<p><strong>andrea pocar</strong> · <em>26/03/2020 alle 7:52 pm</em></p>
+<p>grazie giuseppe e tommaso. forse una cosa da fare nelle lunghe settimane che abbiamo davanti e’ mettersi a studiare sul serio nuove materie, con passione e umiltà. poi, forse, potremmo cominciare a parlare di cose che oggi, noi fisici, non sappiamo tanto bene. in fondo, quante volte diciamo che il problema del dibattito pubblico e’ l’ignoranza?</p>
+</blockquote>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copiato!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copiato!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp("https:\/\/fturci\.github\.io\/extemporanea-quarto\/");
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>© Scienceground · eXtemporanea</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+<p>Contenuti trasferiti dal sito WordPress extemporanea.eu / scienceground.it</p>
+</div>
+  </div>
+</footer>
+
+
+
+
+</body></html>
