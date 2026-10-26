@@ -1,0 +1,11 @@
+---
+title: "Algoritmo umano"
+author: "ExTemporanea"
+date: 2018-03-28
+categories: ["AlgoritmoUmano"]
+# source: www.extemporanea.eu/algoritmo-umano (post id 1102)
+---
+
+<figure class="wp-block-image size-large">
+<img src="/uploads/2020/03/jYSNjEupiGzRPekEUTGfUNxw.jpeg" class="wp-image-1103" width="720" height="405" />
+</figure>

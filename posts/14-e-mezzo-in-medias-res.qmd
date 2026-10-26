@@ -1,0 +1,40 @@
+---
+title: "{#14 e mezzo} In medias res"
+author: "Michela Marton"
+date: 2020-09-11
+categories: ["Newslettera"]
+# source: www.extemporanea.eu/14-e-mezzo-in-medias-res (post id 1626)
+---
+
+Gentili abitanti del vostro specifico ecosistema,\
+questa newsletter, ancora più estemporanea (eXtemporanea) del solito, ha due scopi dichiarati.
+
+Se siete dalle parti dell’ecosistema di Mantova, invitarvi a fare un giro da noi: ci trovate sempre al gazebo accanto alla Zanzara, qualcuno a gestire i laboratori, qualcun altro a scrivere queste righe. Qualcuno invece non lo troverete perché in giro a registrare il canto dei fiori di loto.<img src="/uploads/2020/09/upload_f5d3573ac4cf5f1c4b4c51bba61dd110-300x155.png" class="wp-image-1627 aligncenter" width="751" height="388" />
+
+Se *non* siete dalle parti dell’ecosistema di Mantova, provare a incuriosirvi abbastanza da dare un’occhiata alla [nuova sezione del sito del Festival a noi dedicata](https://2020.festivaletteratura.it/scienceground/) tramite (un po’ meno di) centouno piccoli dettagli su Scienceground 1.6666…
+
+-   Le illustrazioni del programma di [Scienceground 1.66666…](https://demo.codimd.org/s/H1uDEARJv#) di [Andrea De Franco](https://www.andreadefranco.com/).
+-   I jingle di apertura e di chiusura della nostra [trasmissione radio](https://www.festivaletteratura.it/it/2020/eventi/unopuntoseiperiodico-2281) rispettivamente di [ooopopoiooo](https://www.facebook.com/ooopopoiooo) e di [Alberto Motolese](https://www.facebook.com/susanna.laterza).
+-   Il *Dialogo Coronavirale*: un documento semiclandestino in ciclostile e un’occasione di discussione pubblica sulla condizione innominabile, cui seguiranno aggiornamenti sul nostro sito.
+-   La mappa naturartificiale dell’ecosistema Mincio, creata in QGIS, che fa da sfondo al progetto sul nuovo [sito di Festivaletteratura](https://2020.festivaletteratura.it/).
+-   [La palude del Busatello come persona](https://www.youtube.com/watch?v=D_h_7g5TfI0), intorno a 1h 30′ dell’approfondimento sulla libera lettura di Amitav Ghosh, della quale abbiamo parlato nella scorsa [newsletter](/posts/14-parole-di-fiumi.html).
+-   L’account [iNaturalist](https://www.inaturalist.org/projects/scienceground) di Scienceground, una piattaforma aperta in questi giorni per riconoscere e “mappare” sul territorio le specie animali e vegetali avvistate – per capirci con i più nerd, un *Pokédex*, ma nella vita reale.
+-   Il ritrovamento del testo che testimonia l’esistenza dell’antica [Via Fluminis](https://www.festivaletteratura.it/it/2020/eventi/10-via-fluminis-2246): *“Onne huomo, cittadino o forestiero, dee percorrere, capere e lustrare con cognoscenza, sua o altrui, sì che perpetua ne sia fatta la memoria alli descendenti nostri ne li secoli che verranno”*.
+-   La cabina “cubica e scricchiolante” in cui qualcuno si è imbarcato, in uno di tanti viaggi al tempo del COVID tratteggiati nell’[almanacco](https://www.festivaletteratura.it/it/racconti/dove-trovare-l-almanacco-di-festivaletteratura).
+-   Il [canale telegram](https://t.me/joinchat/Bo1UPkrD_MzYZA80WFYduw) tematico sulle letture libere a stampo fantascientifico ecosistemico.
+-   [讓我再見一次大夫](https://www.youtube.com/watch?v=KSUbySvdtyY&app=desktop) — per i diritti d’autore ci sentiamo poi…
+-   «*La contraddizione non tardò di saltare all’occhio. L’unico occhio di chi fissava la scena.*» I lenti ma inesorabili avanzamenti del [*Cadavre Exquis*](https://fturci.eu.pythonanywhere.com/?fbclid=IwAR3LJeSVPpWy12vPoTP8BPEtDrKRi3iyx977XHFAZKpuRd2i2_fpktCpnnE), un Algoritmo Umano pubblico, cui chiunque può partecipare.
+-   La chiosa finale di stampo fantascientifico e il senso di chiacchiere interrotte al termine dell’incontro con il professor [Roberto Danovaro](https://2020.festivaletteratura.it/events/31/).
+-   Il gazebo sul lungolago all’altezza della Zanzara, intorno al quale ogni sera alle 19.00 si radunerà la *crew* di Scienceground per il rancio.
+-   Lo spavaldo arrivo in barca del nostro ospite, il prof. Marco Bartoli.\
+    <img src="/uploads/2020/09/upload_d81377007be1bc9716b8a7e09ebb4e95-165x300.gif" class="alignnone wp-image-1628" width="268" height="488" />
+-   Un po’ dei laboratori e delle attività che ancora non abbiamo fatto, illustrati dai [trailer di Festivaletteratura](https://2020.festivaletteratura.it/scienceground/approfondimenti-da-vedere/).
+-   il *Gorgogliare* delle giovani danzatrici nella coreografia Sara Ongaro, incontrate lungo la *via fluminis* sulle rive del Mincio.
+-   La casa di Annibale, sede dello *streaming* improvvisato di domani **venerdì 12 alle 14:00** con la filosofa Giulia Rispoli per parlare di [antropocene e fantascienza](/posts/fantascienza-e-futuri-non-scritti.html).
+-   Il numero, ancora ignoto, della prossima edizione: dopo la prima edizione (n.1), la seconda (n. 2), la terza (n. 1.5), e quella di quest’anno (n. 1.666666…), quale sarà la numerazione di Scienceground nel 2021? Scrivete le vostre risposte sul nostro [canale telegram](https://t.me/extemporanea) o a scienceground@festivaletteratura.it.
+-   *Il Lago dei Cigni*, ma a Mantova\
+    ![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_b7d0c2e3de618c300bdbf82d7b487c8c.jpg).
+
+Per concludere vi ricordiamo di indossare le mani, lavare spesso la mascherina e godervi il viaggio nella vostra nicchia ecologica.
+
+eXtemporanea

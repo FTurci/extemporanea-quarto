@@ -1,0 +1,56 @@
+---
+title: "{#3} On air!"
+author: "ExTemporanea"
+date: 2019-06-15
+categories: ["Newsletter"]
+lang: en
+# source: www.extemporanea.eu/en/3-on-air (post id 173)
+---
+
+> *«I was aware of many facts for which I had no explanation. Delivery with prolonged dilation almost inevitably led to death. Patients who delivered prematurely or on the street almost never became ill, and this contradicted my conviction that the deaths were due to endemic causes. The disease appeared sequentially among patients in the first clinic. Patients in the second clinic were healthier, although individuals working there were no more skillful or conscientious in their duties. The disrespect displayed by the employees toward the personnel of the first clinic made me so miserable that life seemed worthless. Everything was in question; everything seemed inexplicable; everything was doubtful. Only the large number of deaths was an unquestionable reality.»*
+>
+> Ignaz Semmelweis, *The Etiology, Concept and Prophylaxis Of Childbed Fever* [1](http://www.socialmedici,ne.info/index.php/socialmedicine/article/viewFile/178/353)
+
+Hello there!
+
+you receive this aperiodic newsletter because you’re still friend with a member of ExTemporanea, the crew that attempts to create a wormwhole through spacetime connecting elementary particles and social analysis. More about it [here](/en/posts/1-about-scienceground.html) and [here](/en/posts/2-reading-semmelweis.html).
+
+If you had enough sorry for that: click unsubscribe at the bottom. But please give us advice on how not to be obnoxious.
+
+------------------------------------------------------------------------
+
+We are preparing a rich and varied program of Scienceground-ish activities at the coming edition of Festivaletteratura, Mantova September 4-8, which was officially presented last Thursday in a public meeting in Mantova. As you anxiously wait for the full scientific program, [here](https://www.festivaletteratura.it/en/tales/the-authors-of-festivaletteratura-2019) you can peek at some of the authors that will participate to the festival, and (for the Italian-speaking) [here](https://www.festivaletteratura.it/it/racconti/guida-a-festivaletteratura-2019) you can also get a bird’s view on the program. Spoiler alert: the main theme of Scienceground 1.5 is leaked out, don’t read if you want to wait for our official communication…
+
+<img src="/uploads/2019/06/9-300x200.jpg" class="alignnone wp-image-161" width="603" height="402" />
+
+Meanwhile, we proudly announce: habemus situm! On [scienceground.it](/en/index.html) we will collect reports, invited contributions, discussions etc.
+
+So, without further ado, ready we are to start the very first online activity. Last month we proposed to read *Semmelweis* by Louis-Ferdinand Céline. It’s time to talk about it. Here are the instructions to join the conversation:
+
+1.  If you haven’t read the book yet, do so in the next few days! It’s a quick read…
+2.  Share your opinion [here](/posts/semmelweis-di-l-f-celine.html).
+
+For the time being, we will run in a single post the discussions in mixed Italian and English. If you manage both languages to some degree, please consider riting your comments with translation (the first comment will be moderated, and if you’re well-intentioned then the following ones will go through smoothly… if instead you are a bot, you better have a very high Artificial IQ!).
+
+<img src="/uploads/2019/06/12-300x200.jpg" class="alignnone wp-image-162" width="602" height="401" />
+
+The embryo of Scienceground was bred *in vivo* at the 21st edition of Festivaletteratura, September 2017. We settled our small community in Santa Maria della Vittoria, a beautiful deconsacrated renaissance church, and there for five days we entertrained all sorts of activities on the practice and foundations of computation: workshops, conversations, lectures, etc. It was called **Hackspace**, but we now like to retroactively call it **Scienceground 1**. There we built logical gates, an Arduino sonar, we discussed about cryptography, and much more.
+
+<img src="/uploads/2019/06/11-300x200.jpg" class="alignnone wp-image-163" width="602" height="401" />
+
+One of the Hackspace workshops is still circulating in elementary schools and festivals. We built the simplest mechanical computer (a mechanical 10-bit binary adder) out of LEGO. [Here](https://github.com/alexallmont/ILW2015/blob/master/Session%201%20-%202%20bit%20adders.pdf) you can find precise instructions, and [here](https://www.youtube.com/watch?v=jLercOsKE8A) some explanation. It’s interesting to understand what this machine does at all. The input in the binary adder is the representation of a number from zero to three in binary digits:
+
+     zero = 00
+      one = 01
+      two = 10
+    three = 11
+
+0 stands for “not inserting the sphere”, and 1 for “inserting the sphere”. Notice that in binary 01+01=10, that is, you “carry over”, much like when in base ten by adding seven plue three you get a null digit, and you “carry over” to obtain ten. This is precisely what this machine does: it “carries over”, up to two digits in base two (not much! we must admit…) Still, as trivial as it may seem, this mechanism is a salient feat of the whole concept of computation. The key takeaway message is that a mechanical apparatus can execute computations, that is, transforms an input information into an output result.
+
+In our workshops we do not provide precise instructions to the participants, but we stimulate them to reason on how to mechanically translate the “carry over” operation with the few pieces of LEGO we provide them. It’s remarkable to see how children systematically outsmart adults, and sometimes they even come out with innovative solutions that we had not thought about.
+
+<img src="/uploads/2019/06/2-1-300x200.jpg" class="alignnone wp-image-40" width="603" height="402" />
+
+ExTemporanea is a young and growing community, and now we have a flaming new website where you can make your voice heard. Don’t be shy! Participate to the discussion, propose one yourself, and stay with tuned!
+
+ET

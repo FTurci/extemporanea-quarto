@@ -1,0 +1,226 @@
+---
+title: "Il dottor Semmelweis di L.-F. Céline"
+author: "ExTemporanea"
+date: 2019-06-17
+categories: ["Libere Letture"]
+# source: www.extemporanea.eu/semmelweis-di-l-f-celine (post id 87)
+---
+
+<figure class="alignleft">
+<img src="/uploads/2019/06/07898.jpg" class="wp-image-113" width="636" height="1000" />
+</figure>
+
+\[IT\] Lo scorso mese abbiamo proposto la lettura collettiva de *Il dottor Semmelweis* di L.-F. Céline. In questo spazio apriamo una discussione pubblica. I materiali raccolti arricchiranno una simile discussione dal vivo che condurremo alla prossima edizione del [Festivaletteratura](https://www.festivaletteratura.it/it) di Mantova. Se quest’estate non sai come impiegare le lunghe e pigre ore pomeridiane, sappi che cerchiamo volontari che ci aiutino a sintetizzare la discussione e a creare un breve documento riassuntivo!
+
+\[EN\] Last month we launched our online book club, with the proposal of reading and discussing *Semmelweis* by L.-F. Céline. Now it’s time to start the discussion! It will be conducted in a mix of Italian and English language in the comment section of this post. A similar live discussion will be conducted at the next [Festivaletteratura](https://www.festivaletteratura.it/en) in Mantova, September 2019. The material collected here will be precious. If in the long summer days you don’t know what to make of the lazy afternoon hours, consider helping us editing the discussion into a printable document for later reference…
+
+---
+
+## Commenti
+
+> **tomate** · *25/06/2019 alle 9:38 pm*
+>
+> \[IT\]
+>
+> Un primo appunto: sono rimasto impressionato dal commento di Ceronetti nel saggio in appendice all’edizione italiana, edizioni Adelphi:
+>
+> “La civiltà europea si era così bene ripulita degli interdetti arcaici sull’impurità dei morti da restare, di fronte alla forza dei morti, completamente indifesa. In qualche campagna superstiziosa si coprivano ancora gli specchi nella stanza del morto per impedire la cattura dei vivi, ma nelle grandi scuole, nelle Università illuminate, si poteva stare sicuri: \*I morti non possono farci nessun male\*, il coltello è dei vivi. \[…\]”
+>
+> E ancora:
+>
+> “Qualunque selvaggio, buono o cattivo, delle Samoa, come qualunque antico greco o semita sarebbero fuggiti con smisurato orrore davanti a questo spetacolo di degradazione umana e di oscuramento del sacro in un paese di supremissima, fiammeggiantissima civiltà cristiana.”
+
+> **tomate** · *25/06/2019 alle 9:38 pm*
+>
+> \[EN\]
+>
+> A first note: I was impressed by the comment by Ceronetti, an Italiano poet who wrote the post-word in the Italian Adelphi edition of Semmelweis (I attempt a translation):
+>
+> “The european civilization was so well-polished of the archaic sayings on the impurity of corpses to remain completely undefended against the force of death. In the superstitious suburbs people still covered mirrors with blankets to avoid the capture of the alive, but in the great enlightened Universities you could be safe: \*The dead cannot resurrect\*, the living hold the knife. \[…\]”
+>
+> And more:
+>
+> “Any savage from the Samoa, any ancient greek, or semite, would have run away with utmost horror in front of such spectacle of human degradation and removal of the sacred in a state of supreme, flaming christian civilization.”
+
+> **Scienceground** · *27/06/2019 alle 8:19 am*
+>
+> \[IT\] Un po’ di materiale aggiuntivo interessante:\
+> \[EN\] Some additional interesting material:
+>
+> **K. Codell Karter**, *Semmelweis and its predecessors*, Medical History, 1981, 25: 57-72, \[<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1138986/" rel="nofollow">link</a>\].
+>
+> **C. Hallett**, *The Attempt to Understand Puerperal Fever in the Eighteenth and Early Nineteenth Centuries: The Influence of Inflammation Theory*, Medical History, 2005, 49: 1–28, \[<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1088248/" rel="nofollow">link</a>\].
+
+> > **Scienceground** · *14/07/2019 alle 1:39 pm*
+> >
+> > Also interesting:
+> >
+> > **T. D. Noakes et al.**, *Semmelweis and the aetiology of puerperal sepsis 160 years on: an historical review* Epidemiol. Infect. (2008), 136, 1–9.
+> >
+> > Abstract: It is generally accepted that Professor Ignaz Semmelweis was the first to identify the mode of transmission of puerperal sepsis. However no appropriate statistical analysis of Semmelweis’s data supporting his theory has been reported. Mean annual percent maternal mortality rates for the Allgemeines Krankenhaus and Dublin Maternity Hospitals (1784–1858) were analysed. The introduction of pathological anatomy at the Allgemeines Krankenhaus in 1823 was associated with increased mortality. After 1840 maternal mortality was higher in Clinic 1 which was staffed by male obstetricians and medical students who, unlike the midwives in Clinic 2, attended autopsies. The introduction of chlorine washing of the male clinicians ’ hands in Clinic 1 by Semmelweis in 1847 reduced mortality, whereas the cessation of handwashing after Semmelweis left Vienna in 1850 was associated with increased mortality. This statistical analysis supports Semmelweis’s hypothesis that ‘the cadaveric particles adhering to the hand had … caused the preponderant mortality in the first Clinic ’.
+
+> > > **Scienceground** · *14/07/2019 alle 1:41 pm*
+> > >
+> > > So while Semmelweis might not have been the first to suggest hygiene as a solution of puerperal fever, he might have been to motivate this with statistically rigorous arguments. This is interesting in the light of the history of epidemiology.
+
+> **tomate** · *29/06/2019 alle 3:29 pm*
+>
+> Also interesting:
+>
+> **J. Bauer**, *The tragic fate of Ignaz Philipp Semmelweis*, Calif Med. 1963 May; 98(5): 264–266 \[<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1575625/" rel="nofollow">link</a>\]
+>
+> \> “Semmelweis probably was the first to use a statistical method to prove his point”.
+>
+> Not the first in general:
+>
+> \> “In 1795 Alexander Gordon of Aberdeen recognizing the “epidemic” character of puerperal fever, recommended the burning of the bedclothes and apparel of infected persons and insisted on thorough washing of doctors’ and nurses’ hands and fumigation of their apparel. Robert Collins, chief of the famous Rotunda Hospital in Dublin, fought the raging childbed fever in 1829 by filling all the wards of Rotunda with nascent chlorine gas for 48 hours. Walls and floors were wiped with chloride of lime. Blankets and linen were exposed to dry heat in a stove at 120 to 130° F. He achieved a full success. In the United States it was Oliver Wendell Holmes who wrote an article on “The Contagiousness of Puerperal Fever” in 1843. He recognized the danger of transmission of the “miasma” by those physicians who had performed postmortem examinations before working in the delivery room and emphasized the importance of the preventive measures taken by Collins in Dublin. He brought upon himself a storm of abuse from American obstetricians and his observations were not accepted in his own country.”
+>
+> Also we find that the reconstruction of Semmelweis’s death given by Celine is completely fictional:
+>
+> \> “Several similar episodes made it clear that Semmelweis was insane and needed psychiatric help. Members of his family, upon conferring with Dr. Markusovszky and Dr. Hirschler, decided to transport the patient to Vienna and to place him under the care of the famous psychiatrist Dr. Riedel. In Vienna Semmelweis was met at the station by his old friend von Hebra, who took him first to his home, then suggested a visit to the new sanatorium, and they drove on. There the patient was engaged in a talk with the psychiatrist so that Hebra and Dr.\
+> Bathory, Semmelweis’ assistant who accompanied his chief to Vienna, could depart unnoticed. Semmelweis tried to leave, saying that he had to see his patients. When he was forcibly restrained he struggled so violently that it took six attendants to put him into a straitjacket and then into a dark room. This happened in July 1865. Dr. Riedel did not permit Mrs. Semmelweis to see her husband and she had to return home heartbroken. At the sanatorium an infected wound on one of\
+> Semmelweis’ fingers was ascribed to an injury received in a gynecological operation, although one may surmise that it could have been incurred in the fight with the attendants. The wound became gangrenous, multiple abscesses developed and Semmelweis died on the 13th of August 1865, of pyemia, the disease that had killed thousands upon thousands of women and infants in the postpartum and neonatal period. His body was taken to the Pathological Institute of the University where two of Rokitansky’s assistants performed an autopsy.”
+>
+> The paper goes on suggesting that Semmelweis’s mind succumbed by the effects of general paresis of the insane.
+>
+> Furthermore, there is a nice connection to Pasteur:
+>
+> \> “In a discussion on puerperal fever at the Academie des Sciences in Paris in 1879 a speaker elaborated on the causes of\
+> epidemics in lying-in hospitals. Louis Pasteur interrupted him: “None of those things cause the epidemic; it is the nursing and medical staff who carry the microbe from an infected woman to a healthy one.” And when the speaker replied that he feared the microbe would never be found, Pasteur went to the blackboard and drew a diagram of the chain-like organism, saying, “There: This is what it looks like.”
+
+> **Corrado Minetti** · *10/07/2019 alle 7:32 pm*
+>
+> \[IT\]\
+> Ho trovato il libro molto interessante su vari fronti.\
+> La cornice storica in cui lo sventurato Semmelweis si muove è resa molto bene, soprattutto all’inizio quando si parla della natura tumultuosa e passionale dei profondi cambiamenti che stavano avvenendo in Europa.\
+> La vicenda del dottore e del “muro” di opposizione che si trova di fronte (e che poi lo schiaccia) penso rappresenti bene l’estremizzazione del cambio di paradigma che avviene nella scienza ciclicamente (per lo meno nelle fasi iniziali): colui che è portatore di un nuovo concetto o visione in qualche modo sconquassa l’ordine precostituito, suscitando ironie, timori e, come in questo caso, una reazione violenta di chiusura da parte dell’ “establishment”.\
+> Di conseguenza, i medici/scienziati vengono esposti nella loro natura più umana, e quindi fallibile, rivelando quanto le loro passioni, i pregiudizi, gli egoismi e le invidie possano giocare un ruolo importante.
+
+> **Corrado Minetti** · *10/07/2019 alle 7:33 pm*
+>
+> \[EN\]\
+> I found the book very interesting on many aspects.\
+> The historical background in which the story of Semmelweis unravels is very well depicted, particularly the turbulent and passionate nature of the deep changes Europe was undergoing at the time.\
+> I think that the story of Semmelweis, with the “wall” of opposition that he faces and ultimately destroys him, is a good representation of the situation which sometimes is associated with a change of paradigm in science: the person which presents a new view or vision may shake the established dogma(s), causing sometimes a “violent” (varying in degrees obviously) reaction from colleagues and the “establishment”.\
+> As a consequence, the story somewhat exposes the more human aspects of medics/scientists, revealing how much their passions, prejudices, vanities and resents can play an important role.
+
+> **Scienceground** · *28/07/2019 alle 1:28 pm*
+>
+> To avoid being absorbed a posteriori by the self-centered perspective of one man who got it right, we have to take into consideration what was the context at the time. From Latour, *The Pasteurization of France*:
+>
+> \> Illness, as defined by the hygienists, can be caused by almost\
+> anything. Typhus may be due to a contagion, but it may also be due\
+> to the soil, the air, overcrowding. Nothing must be ignored, nothing\
+> dismissed. Too many causes can be found side by side to allow for\
+> any definite position on the matter. Everything must be considered.\
+> “The role and variety of the causes of typhoid make it necessary to\
+> combat them by equally varied and numerous means” (Colin: 1 882,\
+> p. 397). It was not out of ignorance but on the contrary out of an\
+> excess of knowledge that the hygienists accumulated their opinions.\
+> None of them is absolutely certain, they admit, but none of them can\
+> really be abandoned. Bouchardat makes the ingenuous admission: “I\
+> do not spend my hours of sleep in intensely choleraic places.” He\
+> advises the use of disinfectants but adds, “they must not allow us to\
+> ignore evidence that is not understood but is based on strict and\
+> repeated observation” ( 1 883, p. 1 78).\
+> To make fun of this style would be to fail to understand the nature\
+> of an all-round combat. If anything can cause illness, nothing can be\
+> ignored; it is necessary to be able to act everywhere and on everything\
+> at once. The style reflects the action planned by the hygienists. Many\
+> of the characteristics of so-called pre-Pasteur hygiene are to be ex­\
+> plained by this situation. The hygiene congresses were, like Bouchar­\
+> dat’s style, an attic in which everything was kept because sometime\
+> it might come in handy. In 1876, for instance, the subjects under\
+> discussion included water, lifesavers, gymnastics, women’s work,\
+> “methods of developing among the laboring classes a spirit of thrift\
+> and the saving habit,” alcoholism, and working-class housing (Anon. :\
+> 1876, p. 400). These congresses were a catchall, because illness could\
+> be caused by anything and because scientists had to be ready to set\
+> off enthusiastically in any direction.\
+> The consequences were predictable. Articles on hygiene in the Revue\
+> were shot through at first by an astonishing combination of hubris\
+> and discouragement. Both had the same cause. Since anything might\
+> cause illness, it was necessary to act upon everything at once, but to act everywhere is to act nowhere. Sometimes the hygienists give a\
+> definition of their science that is coextensive with reality. They claim\
+> to be acting on food, urbanism, sexuality, education, the army. Noth­\
+> ing that is human is alien to them. Even the human being is too narrow\
+> a field; they must concern themselves also with air, light, heat, water,\
+> and the soil (Tn!lat: 1 8 90, pp. 705-71 1 ) .\
+> But to understand everything is to understand nothing. So the same\
+> articles reveal a sense of division and “abasement” (Landouzy: 1885,\
+> p. 100). Indeed, the fundamental problem of the hygienists is that\
+> this multiplicity, so short on remedies and details, did not protect\
+> them against failure. However much they might take precautions\
+> against everything and observe everywhere, disease returned, as if no\
+> fixed causes could be attributed to it. On each of its returns another\
+> cause had to be added. The surgeon Kirmission writes, after emerging\
+> from that period: “So we accumulated all the precautions of general\
+> hygiene, but failed to remove the purulent infection from the\
+> wards . . . In demonstrating the inanity of all the discussions on hos­pital hygiene as a way of preventing hospital infection, experience\
+> necessarily cast profound discredit on the pious wishes of the sur­geons” (1888, p. 296).
+
+> **Chiara Visentin** · *01/09/2019 alle 12:39 am*
+>
+> I finished the book this morning, and I’ll drop here a couple of impressions.\
+> The aspect that struck me most is how powerfully Céline depicts the contingent, and in that irrational and ‘non rationalizable’, aspects of the construction of authoritative scientific discourse. Political history, geography, customs, sheer chance are seen as a sort of dark, ultimately impenetrable and inescapable interweaving that stands in the way of the progressive human quest for Truth, might even stamp it out, and certainly does put huge obstacles in its way.\
+> Is this view fully tenable? What are the consequences of endorsing it, and what are those of rejecting it?\
+> While, on the one hand, valuing of human life seems to lead almost seamlessly to valuing scientific progress, on the other hand this must not make us forget the social, political and moral ‘embeddedness’ of such progress. Steven Pinker in his bestseller “Enlightenment Now: The Case for Reason, Science, Humanism, and Progress” (2018), for instance, defends the case for progress against its detractors in the name of a “good” form of utilitarian morality that puts human life first (to put it simply). The fact that he had to stress such a point indicates the significant presence of different views in today’s public discourse. It is possible to argue that these have their merits too, in particular that of warning against unconditional support of an abstract notion of progress and advocating for the necessity of taking into account the ways in which innovations of any kind fit into existing ways of living, thinking, and how power relationships are always there – in other words, how the purely disinterested truth-seeking of Céline’s Semmelweis is in fact no more than an ideal, and even if it was real, what if instead of how to reduce the risk childbed fever he had discovered how to clone humans, or, to be less dramatic, how to automate a whole industry?\
+> From another point of view, Céline’s thesis — by the way, I wish I could go back in time when one could get a PhD with a 100 pages narrative and a 1 page bibliography! (if only that did not imply a couple of world wars) –, by powerfully highlighting the ‘constructedness’ of authoritative scientific discourse, might also generate skepticism about it: if we had been a medicine student during those years, we would have accepted as truth what was in fact a false, irrational claim, i.e. that Semmelweis was wrong. There could be one or more Semmelweis(es) today as well, failing to get credit inside their specialized scientific community for one extra-scientific reason or another, and thus seeing potentially “game-changing” discoveries remain under-used or under-developed.\
+> This raises questions about the mechanisms that the various scientific communities adopt in order to (try to) avoid such situations. Are they enough? Are they the same across disciplines or do they vary, and how much and how do they vary? Are there aspects in the functioning of these communities that might pull in the opposite direction, such as forms of clientelism, inertia, void formalism? Would it be possible to do without them?\
+> One example of “formalism” regards the communication of science, and in particular the demarcation of legitimate as opposed to non legitimate science communication. We find a very interesting example of this in Céline’s book, when the author describes how Semmelweis starts to become mentally ill and thus begins to personally go and hang manifestos on city walls to divulgate his discovery. This is perceived as such a blatantly illegitimate “form” to be taken as an unmistakable sign of incipient madness. Trying to bypass the approval of scientific peers and speak directly with the public is still nowadays seen as a deplorable mark of pseudo-science, especially if it involves marketing and advertising techniques. Even if the content of Semmelweis’s manifestos is true and potentially very helpful, the fact that the content is conveyed through manifestos hung on city walls by a mentally ill person makes the message worthless — which arguably “makes sense” because we can usually expect that manifestos hung on city walls by mentally ill people, as opposed to journal papers, do not convey very helpful messages.\
+> Finally, as a marginal note, as a (hopefully ex) mentally ill person I would like to share here how Céline’s description of the condition is one of the most stimulating and meaningful ones that I have read in a long time.\
+> I apologize if these considerations are too obvious or too philosophical.
+
+> **Fulvio Paleari** · *03/09/2019 alle 5:02 pm*
+>
+> Ecco alcune note ispirate dalla lettura combinata de “Il dottor Semmelweis” e “The pasteurization of France” di B. Latour. Mi scuso in anticipo per la mancanza di concisione.
+>
+> \[1\] Preambolo: l’accumulazione del sapere ostetrico.\
+> “Pasteur” è il futuro di “Semmelweis”, ma prima di arrivarci vorrei fare un salto nel passato, precisamente due secoli prima di Semmelweis stesso, e ricollegarmi a quel passaggio del saggio di G. Ceronetti già citato inizialmente da Tomate (al cui commento rimando).\
+> Ceronetti sottolinea come quella di Céline sia una specie di agiografia laica: di fronte ai miscredenti (i medici del “tempio” della conoscenza), che hanno dimenticato l’aspetto sacrale della morte, ecco il santo Semmelweis che reintroduce i riti (il lavaggio rituale delle mani) che portano alla salvezza dell’umanità, pagando per questo con la vita.\
+> Vorrei allontanarmi da questa interpretazione e, basandomi sul libro di S. Federici “Calibano e la strega”, introdurre una serie di considerazioni di carattere più economico e sociale che illuminano in modo diverso la situazione venutasi a creare all’ospedale di Vienna ai primi dell’Ottocento, un caso in cui la scienza “ufficiale” ottiene risultati peggiori rispetto alle pratiche tradizionali considerate superate.\
+> L’accantonamento delle forme di conoscenza medica tradizionali in favore del sapere “illuminato” fu un processo sistematico che ebbe luogo in Europa fra il XVI e il XVII secolo. Ciò non avvenne per motivi “scientifici” e di “progresso della conoscenza”, ma piuttosto per motivi economici e sociali. La gerarchizzazione della società secondo le logiche dell’emergente sistema capitalistico richiedeva un accentramento, cioè una “accumulazione”, anche delle conoscenze necessarie all’esercizio del potere sulle funzioni vitali stesse della popolazione, nell’ambito della sua riconversione in “forza lavoro salariata”. \[Cioè, mi pare, la creazione di quello che M. Foucault chiama “bio-potere”, ma non sono un esperto\]\
+> In particolare mi riferisco al controllo sulla riproduzione di questa forza lavoro. Questo tipo di accumulazione ha avuto natura patriarcale, perché la gerarchia capitalista è di questo stampo. La narrazione/spiegazione positivista di questo processo è stata invece data in termini di “scienza vs superstizione”, ed è proseguita all’epoca con la criminalizzazione di molte antiche pratiche mediche o pseudomediche tradizionalmente poste sotto il controllo femminile, culminando poi in stragi e uccisioni sistematiche da parte dello stesso potere “illuminato” (la caccia alle streghe).\
+> Scrive infatti Federici (Cap. 2, p. 102):\
+> “\[…\] the suspicion under which midwives came in this period \[XVI e XVII secolo\] — leading to the entrance of the male doctor into the delivery room — stemmed more from the authorities’ fears of infanticide than from any concern with the midwives’ alleged medical incompetence.\
+> With the marginalization of the midwife, the process began by which women lost the control they had exercised over procreation, and were reduced to a passive role in child delivery, while male doctors came to be seen as the true “givers of life” (as in the alchemical dreams of the Renaissance magicians). With this shift, a new medical practice also prevailed, one that in the case of a medical emergency prioritized the life of the fetus over that of the mother. This was in contrast to the customary birthing process which women had controlled; and indeed, for it to happen, the community of women that had gathered around the bed of the future mother had to be first expelled from the delivery room, and midwives had to be placed under the surveillance of the doctor, or had to be recruited to police women.”\
+> Vediamo bene che nel caso di Semmelweis, riferirsi ai dottori viennesi come “givers of life” è una crudele ironia.\
+> Nota a margine: senza bisogno di parlare di febbre puerperale nel barbaro Ottocento, è noto che la violenza ostetrica perdura oggigiorno in Europa, si veda ad esempio questo documentario (sottotitoli in italiano disponibili): <a href="https://www.arte.tv/fr/videos/081587-000-A/tu-enfanteras-dans-la-douleur/" rel="nofollow ugc">https://www.arte.tv/fr/videos/081587-000-A/tu-enfanteras-dans-la-douleur/</a>
+>
+> \[2\] Semmelweis e il metodo scientifico.\
+> Mi sembra utile sottolineare come, al contrario di quello che dice Céline (e cioè che Semmelweis, per essere creduto, avrebbe avuto bisogno della “verità microbica” \[p. 102 ed. Adelphi\] scoperta 50 anni più avanti da Pasteur), le ricerche di Semmelweis non avevano tecnicamente bisogno della nozione di microbo: hanno infatti pienamente seguito il metodo scientifico, e il loro sapore “empirico” penso derivi esclusivamente dalla nostra valutazione “a posteriori” (e un po’ da come Céline ne scrive).\
+> A riprova di questo fatto, la ricerca di Semmelweis è descritta nei primi capitoli del manuale “Philosophy of Natural Science” di C. Hempel proprio per spiegare le regole basilari dell’inferenza scientifica.\
+> In altre parole, dire che Semmelweis non fu creduto perché non aveva visto i microbi, e che Pasteur fu creduto perché li aveva visti al microscopio, tecnicamente non sta in piedi (qui sto seguendo Latour). Latour, però, suggerisce anche che l’invenzione del laboratorio moderno fu cruciale, non solo in termini scientifici ma anche sociali, per creare il giusto contesto.
+>
+> \[3\] Amici e nemici dei microbi.\
+> Al di fuori del laboratorio, i fenomeni hanno il potere sul ricercatore; all’interno del laboratorio, il ricercatore ha il potere sui fenomeni. Questa visione scientifico-culturale del laboratorio, applicata ai microbi, significa che nel caso di Semmelweis erano i microbi ad utilizzare i dottori come strumenti per i loro “obiettivi” (cioè infettare la gente e ucciderla, usando poi i dottori come mezzo di trasporto dai corpi morti ai corpi vivi). Nel caso di Pasteur e del laboratorio, invece, sono i dottori che usano i microbi per i loro “obiettivi” (cioè curare le persone e prevenire le infezioni, iniettando loro stessi i microbi nei corpi vivi, ma solo dopo aver preso il controllo della loro virulenza).
+>
+> \[4\] Il movimento igienista.\
+> Qui descrivo brevemente in che modo il contesto sociale della Francia del 1870 differiva da quello dell’impero austro-ungarico nel 1820, cosa che permette alle scoperte riconducibili a Pasteur di affermarsi con estrema rapidità.\
+> La pesante sconfitta francese nella guerra franco-prussiana del 1870, con la perdita dell’Alsazia e della Lorena e un cambio radicale di sistema politico, aveva scioccato profondamente l’opinione pubblica e si era diffusa l’idea di una “decadenza” del popolo francese, anche a livello biologico (crollo delle nascite), che ne metteva in discussione la stessa sopravvivenza; a questo fatto va sommato un nazionalismo revanscista nei riguardi dello smacco subito e dei territori perduti. Il gruppo dei cosiddetti “igienisti” identificò i caratteri di questa decadenza nelle condizioni di vita della popolazione, gravemente peggiorate a causa di inurbamento, sovrappopolazione, povertà diffusa, etc. Gli igienisti, che erano scienziati, ma anche giornalisti, attori politici e in generale parte dell’opinione pubblica, tentavano di porre rimedio a questi problemi cercando di agire su tutti gli aspetti della vita pubblica: dalla salubrità dei quartieri popolari, a politiche per il miglioramento delle condizioni di vita delle classi subalterne e (naturalmente…) per la natalità, fino a soluzioni di vario genere per cercare di ridurre i contagi e le epidemie, e così via. Di questo ultimo ambito faceva parte anche la nascente batteriologia, ma non in posizione preminente. Quindi l’attività degli igienisti non si riduceva solo all’ambito scientifico, ma comprendeva anche quello sociale, e in effetti, secondo Latour, fra i due ambiti non veniva fatta alcuna distinzione. Tutta via le soluzioni generiche e ad ampio spettro proposte dagli igienisti non erano sempre efficaci: a volte funzionavano, e magari un’epidemia veniva bloccata, a volte no. Secondo Latour il problema principale per cui gli igienisti faticavano a trovare consensi era appunto dovuto all’inaffidabilità delle pratiche “igieniche” proposte.
+>
+> \[5\] Pasteur lo scienziato.\
+> Il fulcro delle ricerche in laboratorio di Pasteur, che gli permise di allineare i propri obiettivi con quelli di altri gruppi, è il seguente: lo studio dell’influenza dell’ambiente esterno sui microbi, cioè la delucidazione della “teoria del contagio”.\
+> “The prize would go to whoever explained not contagion, but variation in contagiousness in terms of environmental circumstances.” (Cap. 2).\
+> In particolare, due scoperte sulle colture batteriche di antrace/carbonchio furono rilevanti: (i) l’attenuazione della virulenza delle colture batteriche quando sottoposte a ventilazione con ossigeno (la ventilazione dei locali era naturalmente una pratica già nota e rivendicata dagli igienisti); (ii) la possibilità di far ammalare anche i polli (normalmente immuni) se la loro temperatura corporea veniva abbassata a sufficienza (anche qui, si tratta di una considerazione fisiologica già nota – se fa freddo ti ammali più facilmente – ma tradotta da Pasteur nel linguaggio della batteriologia).\
+> Infine, una coltura dimenticata per errore in particolari condizioni di attenuazione e poi inoculata in un animale, che non si ammalò, e poi non si ammalò neppure quando inoculato con la coltura giusta, costituì il primo esempio di vaccino prodotto in laboratorio da Pasteur.
+>
+> \[6\] Pasteur e il networking.\
+> Pouilly-le-fort, 5 maggio 1881. Siamo arrivati al climax tanto faticosamente e meticolosamente preparato da Pasteur: una dimostrazione-spettacolo dell’efficacia del vaccino contro l’antrace/carbonchio (che era una gravissima malattia del bestiame, ora spiegata in termini di microbi), organizzata con lo scopo di convincere il più alto numero di persone possibile. Altro che Semmelweis e il lavamani nel padiglione di Klein! Pasteur pensava molto più in grande e aveva compreso che la “verità scientifica” si fa convergendo verso ideologie e obiettivi di altri gruppi sociali (interni o esterni alle scienze), per cooptarli o farsi cooptare da essi.\
+> Lo spettacolo accuratamente preparato era questo: un gruppo di pecore inoculate con il batterio attenuato (il vaccino); un altro gruppo no. Poi: il batterio originale viene inoculato in entrambi i gruppi di pecore. Risultato: tutte le pecore vaccinate sopravvissute, tutte quelle non vaccinate morte. L’impatto mediatico, diremmo oggi, fu enorme, e Pasteur divenne il profeta degli igienisti attraverso l’alleanza (coatta) con i batteri.
+>
+> \[7\] “Pasteur” è l’anti-“Semmelweis”.\
+> Ecco che il movimento igienista ha finalmente l’occasione di creare consenso e ottenere visibilità e rilievo. Tutte le posizioni igieniste, di cui al punto \[4\], collassano sulla singola soluzione, di natura tecnico-scientifica, prodotta da Pasteur. Le profonde ramificazioni socioeconomiche del “problema dell’igiene” vengono definitivamente abbandonate dagli igienisti, mentre le scoperte di Pasteur vengono da loro immediatamente generalizzate anche a prescindere dalla rigorosa applicazione del metodo scientifico nel fare queste generalizzazioni (ironia della sorte, se si confronta con il caso Semmelweis). Questa è la costruzione di una nuova narrazione (cfr. anche al punto \[1\] con “scienza vs superstizione”) il cui fulcro retorico è il seguente:\
+> La società degli uomini è in crisi –\> la società è degli uomini, ma anche dei microbi, ed è per colpa di questo nuovo nemico che è in crisi -\> noi, gli igienisti, possiamo liberarvi dei microbi attraverso Pasteur -\> la società degli uomini non è più in crisi.\
+> Durante questo processo avviene la trasformazione di Pasteur in “Pasteur”, come lo denota Latour.\
+> La diffusione rapidissima delle teorie di Pasteur avviene tramite la continua cooptazione di gruppi “alleati” che si adattano agli obiettivi dei pasteuriani/igienisti. I chirurghi, i medici dell’esercito, e ovviamente gli stessi microbi.\
+> Maggiore resistenza viene offerta dai medici comuni, che si oppongono alla trasformazione radicale della loro disciplina: non vogliono diventare dei meri esecutori dei diktat “scientifici” del pasteurismo in un mondo nuovo in cui le malattie non vengono più curate, ma solo prevenute. Ciò li relegherebbe ad essere dei semplici agenti di controllo sociale, mentre la “scienza” e le leggi sull’igiene pubblica vengono imposte attraverso di loro.\
+> Alla fine, però, con l’invenzione da parte dei pasteuriani dell’immunologia e la scoperta del siero per curare la difterite, sono loro a mangiarsi il pasteurismo e a farlo diventare parte della storia della medicina: le profilassi antibatteriologiche alterano solo leggermente le loro solite pratiche e permettono loro di incrementare il proprio prestigio tramite “Pasteur” e la “scienza”. In cambio, accettano il ruolo di funzionari controllori dell’igiene pubblica. A questo punto, la somministrazione forzata della nuova igiene ai poveri può cominciare, perché i poveri non sono utili a rendere la scienza “indisputabile”, e quindi non devono essere convinti, solo obbligati. A questo punto, le prescrizioni dell’Institut Pasteur diventano strumenti di controllo sociale e si ripete la dinamica del punto \[1\].\
+> È chiaro che la ricerca e i risultati di Semmelweis non si prestavano per niente a narrazioni di questo tipo (cioè narrazioni che potevano costruire una forma di “potere” per chi le propugnava). Semmai l’opposto: gettavano in orrida luce il potere già costituito dei medici e della medicina, senza contare che mancavano le precondizioni per una rapida accettazione delle sue teorie da parte di altri attori sociali. In questa lettura, non sorprende che le sue idee non si siano affermate e anzi siano state avversate, non essendo lui nelle condizioni di costruirsi un “network” di alleati (umani e non-umani) i cui obiettivi si potessero allineare ai suoi: e non poté far altro che gridare la propria verità, come sottolinea Chiara Visentin nel commento sopra, in tutti i modi “sbagliati”.
+>
+> \[7\] La “verità microbica” al servizio del potere.\
+> Concludo citando provocatoriamente due passi di Latour (Chap. 3).
+>
+> “World War One was, in the opinion of all, a triumph of modern hygiene. Without the bacteriologists, the generals would never have been able to hold on to millions of men for four years in muddy, rat-infested trenches. These men would have died before gas and machine guns had carried them off. This war was the first in which one could kill immobile masses, because hitherto in history microbes had always done the job better. After this triumph of bacteriology, the Spanish flu wiped out some fifty million people in 1919 without the Pasteurians being able even to identify the agent.”
+>
+> “With each parasite conquered, the columns of soldiers, missionaries, and colonists became visible on the map of Africa and Asia, sailing up the rivers and invading the plains, just as, thirty years before, the surgeons tackled new organs with each step in the progress of asepsia: “So it is thanks to these two scientists (Bouet and Roubaud) that we now know the various modes of propagation of the trypanosomiases that form the principal obstacle — one might almost say the only obstacle — to the exploitation of the enormous African quadrilateral that extends between Guinea, the Upper Nile, Rhodesia, and Angola” (Calmette:19 12, p. 132). This politicomilitary role given to the biologist was explicitly claimed by the Pasteurians. Roux, praising the work of Laveran in 1915, exclaims: “Thanks to them (the scientists), lands that malaria forbade to the Europeans are opened up to civilization. It is thus that the work of a scientist may have consequences for mankind that go well beyond those of the conceptions of our greatest statesmen” (1915, p. 410). Yes, that’s it: they go beyond those of the greatest statesmen, because instead of pursuing politics with politics, the scientists were pursuing it with other means. This unforeseeable supplement of force gave them that superlative politics which made it possible to act on the poor, on the inhabitants of Madagascar, on the surgeons, on the Africans, and on the dairies. Pasteur was hailed as a more famous conqueror than that of Austerlitz.”

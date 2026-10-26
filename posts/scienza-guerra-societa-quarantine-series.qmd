@@ -1,0 +1,36 @@
+---
+title: "Scienza, Guerra, Società: quarantine series"
+author: "Maria Elena Antinori"
+date: 2020-05-05
+categories: ["Varie&eventuali"]
+keywords: ["guerra", "Immuni", "sicurezza", "sorveglianza"]
+image: "/uploads/2020/02/sgs-1024x801-1.jpg"
+# source: www.extemporanea.eu/scienza-guerra-societa-quarantine-series (post id 1201)
+---
+
+![](/uploads/2020/02/sgs-1024x801-1.jpg){.featured-image}
+
+Scienza, Guerra, Società è il ciclo di incontri che si sarebbe dovuto svolgere questa primavera al Palazzo Ducale di Genova, per dialogare sui collegamenti tra ricerca e applicazioni militari, ma anche su che tipo di scienza vorremmo in quale società. Una piccola bibliografia di riferimento è in costruzione <a href="https://demo.codimd.org/s/SyhoxagZI" aria-label="qui (opens in a new tab)" rel="noreferrer noopener" target="_blank">qui</a>.
+
+Visto che, a causa del lockdown, anche il nostro ciclo di eventi è saltato, abbiamo sfruttato i poteri delle telecomunicazioni per avere delle conversazioni sugli stessi temi e, perché no, anche un po’ sul coronavirus.
+
+La prima chiacchierata (che potete ascoltare [qui](https://www.spreaker.com/user/12815835/truccomod)) è stata con Lara Trucco, professoressa di Diritto costituzionale all’Università di Genova, esperta di diritto delle nuove tecnologie dell’informazione e della comunicazione. Infatti, uno dei filoni che hanno caratterizzato questa pandemia è quello del controllo e della sorveglianza: fino a che punto lo stato di emergenza può giustificare l’adozione di certe misure e quanto efficacemente sono risolutive per la situazione in cui vengono richieste?\
+Tra queste misure vi è la app di tracciamenti dei contatti che sta per venire sperimentata anche in Italia, Immuni.
+
+La professoressa ci ha illustrato il percorso giuridico che ha guidato la scelta dalla app. Tale percorso è iniziato a livello europeo.
+
+Il primo documento è una <a href="https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9295504" aria-label="dichiarazione del comitato europeo per la protezione dei dati del 19 marzo 2020 (opens in a new tab)" rel="noreferrer noopener" target="_blank">dichiarazione del comitato europeo per la protezione dei dati del 19 marzo 2020</a>, in cui si considera lecito il trattamento dei dati ai fini di interesse pubblico rilevante nell’ambito della sanità pubblica. Si chiede però di mantenere alcune limitazioni imposte già dal Regolamento Generale sulla Protezione dei Dati (GDPR) quali un periodo di conservazione limitato dei dati, la trasparenza nella modalità di trattamento dei dati e la loro anonimizzazione.
+
+L’8 aprile, la <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1587153139410&amp;uri=CELEX:32020H0518" aria-label="Commissione europea emana una raccomandazione (opens in a new tab)" rel="noreferrer noopener" target="_blank">Commissione europea emana una raccomandazione</a> in cui afferma la necessità di avere un approccio europeo comune, confermando l’ipotesi di scelta di un’applicazione rispettosa dei diritti fondamentali.
+
+Il 17 aprile, la stessa <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1587141168991&amp;uri=CELEX:52020XC0417(08)" aria-label="Commissione europea emana una comunicazione (opens in a new tab)" rel="noreferrer noopener" target="_blank">Commissione europea emana una comunicazione</a> in cui si ribadisce la necessità di garantire innanzitutto la fiducia dei cittadini, quindi che le persone mantengano il controllo sui propri dati e che sia rispettato il principio di miniminizzazione dei dati, considerando che la app può avere tre tipi di funzionalità, cioè di mera informazione; di controllo dei sintomi (telemedicina); di tracciamento dei contatti e allerta. Si sottolinea infine che i dati raccolti devono essere accurati.
+
+Il 21 aprile il <a href="https://edpb.europa.eu/sites/edpb/files/files/file1/edpb_guidelines_20200420_contact_tracing_covid_with_annex_en.pdf" aria-label="Comitato europeo per la Protezione dei Dati (EPDB) pubblica le linee guida (opens in a new tab)" rel="noreferrer noopener" target="_blank">Comitato europeo per la Protezione dei Dati (EPDB) pubblica le linee guida</a> da seguire nella scelta della app, che sono: l’uso volontario; l’implementazione in coordinamento con ministero salute pubblica; la tutela della vita privata; la cancellazione dei dati non più necessari; il funzionamento tramite bluetooth e con dati di prossimità; l’applicazione basata su orientamenti epidemiologici convenuti e sulle migliori pratiche in materia di sicurezza informatica e accessibilità; l’anonimizzazione dei dati; l’interoperabilità in tutta l’UE; il rispetto dei criteri di cybersecurity elaborati a livello eurounitario; l’efficacia.
+
+La Presidentessa della commissione europea ha stabilito poi una tabella di marcia per cui i vari stati europei devono riferire le azioni intraprese relativamente all’adozione di una app di contact tracing entro il 31 maggio.
+
+In **ITALIA** il primo intervento è del Garante per la privacy, prima che del parlamento. L’<a href="http://www.governo.it/sites/new.governo.it/files/CSCovid19_Ord_10-2020_txt.pdf" aria-label="ordinanza è la numero 10 (opens in a new tab)" rel="noreferrer noopener" target="_blank">ordinanza è la numero 10</a> del 16 aprile 2020. Senza alcun appalto, viene scelta la app Immuni progettata dalla società Bending Spoons S.p.A.
+
+La gara d’appalto viene successivamente bandita, ma la app scelta è ancora Immuni, anche se la seconda arrivata (CovidApp) sarà pure soggetta a sperimentazione. La scelta viene resa nota nel <a href="https://www.gazzettaufficiale.it/eli/id/2020/04/30/20G00046/sg" aria-label="decreto del 30 aprile (opens in a new tab)" rel="noreferrer noopener" target="_blank">decreto del 30 aprile</a>. Il suo uso seguirà i principi affermati a livello europeo, cioè la app sarà scaricata su base volontaria, il suo funzionamento sarà trasparente, i dati personali richiesti saranno esclusivamente quelli necessari ad avvisare gli utenti di rientrare tra i contatti di un individuo positivo, i dati di prossimità saranno resi anonimi o pseudonimizzati.
+
+Ci sembra che l’analisi del percorso giuridico ponga già diverse questioni, oltre a quelle sull’efficacia della app (falsi positivi e negativi, adozione da una percentuale sufficiente a dare una copertura sensata). Infatti emerge una dicotomia tra la sicurezza garantita da uno stretto controllo di dati e vita personali (come avviene già in alcuni paesi asiatici) e il diritto alla privacy o a certe libertà di movimento e interazione. Inoltre i tempi dell’emergenza sembrano così stringenti da mettere l’ordinamento giuridico democratico a dura prova e da richiedere strumenti nuovi. Ci si chiede ad esempio se ci saranno il tempo e gli strumenti giuridici per controllare l’effettiva cancellazione dei dati una volta finita l’emergenza. Infine, come nell’ambito della legislazione sulla tutela dei dati si è già passati da un approccio volto ad eliminare ogni possibilità di cessione e condivisione dei dati ad uno, ormai ben più realistico, di protezione dei dati che inevitabilmente vengono condivisi, ci si chiede quanto il ritorno ad alcune “consuetudini” pre-covid verrà considerato utopistico e quindi quante di queste misure emergenziali diverranno “normalità”.

@@ -1,0 +1,33 @@
+---
+title: "{ϱ2} Ecoabluzione/ecoabluzionismo (greenwashing)"
+author: "Tomate"
+date: 2022-08-15
+categories: ["Rusco linguacciuto"]
+image: "/uploads/2022/08/rl3-1200x317.jpg"
+# source: www.extemporanea.eu/ϱ2-ecoabluzione-ecoabluzionismo-greenwashing (post id 3927)
+---
+
+![](/uploads/2022/08/rl3-1200x317.jpg){.featured-image}
+
+Proposte di traduzione di [*greenwashing*](/posts/rho2-greenwashing.html).
+
+### Ecoabluzione
+
+-   *Motivazioni*: L’abluzione è letteralmente un lavaggio (washing), ma contiene il carattere di purificazione.
+-   *Concetti chiave*: “Il verde come simbolo di ecologismo. L’azione di lavare come metafora di eliminazione di una colpa.”
+-   *Formazione della parola*: Composizione
+-   *Elementi che la compongono*: Green e washing
+-   *Traduzione dei singoli elementi*: Verde e lavaggio/pulizia
+-   *Possibilità scartate*: Ecolavaggio
+
+### Ecoabluzionismo
+
+-   *Motivazioni*: “Eco-abluzionismo” mira a conquistare l’immediatezza della struttura inglese (grazie al prefisso eco-), avvicinandosi maggiormente al concetto originale di lavaggio, cercando però una mediazione con il tentativo più comune che vede utilizzata l’espressione “di facciata”. Questo perché tale espressione risulta semanticamente opposta, poiché indica azioni volte a nascondere/coprire lo “sporco” e non a rimuoverlo, seppur minimamente. Il termine “abluzione” rimarca tuttavia la sommarietà di questo tentativo di purificazione, aprendo anche a possibili interpretazioni meno accusatorie, che lasciano intravedere l’eventuale assenza di malafede in tale pratica. L’aggiunta del suffisso -ismo sottolinea che si tratta di una pratica riconosciuta. Il termine “abluzione” inoltre appartiene a un registro più elevato rispetto al termine comune di “lavaggio”, che più si addice a un concetto oggetto di studi e teorizzazioni.
+-   *Concetti chiave*: stesso operato, distogliere attenzione, non necessariamente in malafede
+-   *Formazione della parola*: Composizione
+-   *Elementi che la compongono*: Green (aggettivo) + washing (sostantivo/verbo)
+-   *Traduzione dei singoli elementi* Green = Verde / ecologico / ambientale + Washing = Lavaggio / bucato / imbiancare
+-   *Casi simili e loro traduzione*:
+-   *Nelle altre lingue*:écoblanchiment (francese) = eco sbiancamento, Зелёный камуфляж (russo) = verde mimetico, 漂绿 Piào lǜ (cinese) = niente verde, Rentat d’imatge verd (catalano) = lavaggio immagine verde, ekomanipulacija (sloveno) = eco manipolazione
+-   *Strategia scelta*: Composizione
+-   *Possibilità scartate*: lavata ambientale, bucato ambientale, imbiancata di verde, eco-lavaggio

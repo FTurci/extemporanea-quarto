@@ -1,0 +1,58 @@
+---
+title: "{#10} The days of the virus /1"
+author: "ExTemporanea"
+date: 2020-04-01
+categories: ["Newsletter"]
+lang: en
+# source: www.extemporanea.eu/en/10-the-days-of-the-virus-1 (post id 1106)
+---
+
+In this newsletter:
+    - A socially-distanced hug
+    - Suggested readings
+    - The age of (in)security: meeting Jeff Halper
+    - How to participate?
+
+![alt text](/uploads/2020/03/04.png)
+
+> “Like wire models of molecules the students moved through the yard, always maintaining the distances between them, as if they were attached to steel connecting pipes. A human mobile. Sometimes just watching made you dizzy, said Dr. Rudolph \[…\] He always felt really strange when they moved back and forth in that way and talked with one another as if all this were completely normal. As if they had eyes in the back and front of their heads. Or feeelers. Or a sort of spider web around them, and one of them needed merely to tug at one point for the others to know exactly where he had tugged. And never, with the trivial exception of bullying or a physical confrontation between two boys, did one of them get sick, no, that had never happened, not even an attack of vertigo, never did one of them run into a wall and so get pressed into another’s zone, when that point was reached a new pattern simply formed. Truly remakrable and mind-boggling what situations human beings could come to terms with.”
+>
+> Clemens J. Setz, *Indigo* (eng. trans. Ross Benjamin)
+
+Dear readers,
+
+long time no see! But let us pause our usual “above-the-top” intro for once…
+
+As participants to a [project dedicated to conversations on science and society](/en/index.html), we would like to give some sort of discreet contribution towards elaborating what is going on. For the moment, we can only provide with a list of suggested readings.
+
+We are also trying to start some informed conversation online, in particular we would like to intercept the contributions of people working at the frontline of the emerging epidemics. [BachecaCOVID](https://riot.im/app/#/room/#bachecaCOVID:matrix.org) is a chatroom where to post interesting articles of scientific relevance, and possibly discuss them; originally it started off in Italian, but now it’s bilingual. [ET – Literature Digest #4](https://demo.codimd.org/6gR1gHSBTXWo89yeptGKqg?both#) is an open file to gather a reasoned scientific bibliography. Feel free to join and participate, with respect for the work and opinions of others.
+
+We conclude this newsletter with a couple of contents we have been working on before the epidemic, and that are still with us…
+
+A warm but socially distanced hug,\
+ExTemporanea
+
+## Coronavirus digest #1
+
+Here a list of suggested readings:
+
+-   **[*Will the Coronavirus Ever Go Away? Here’s What One of the WHO’s Top Experts Thinks*](https://time.com/5805368/will-coronavirus-go-away-world-health-organization/?fbclid=IwAR1JESAC9oK1YPKIDUBqt2aL7nuDRExj_r3YZqsiVg9zQKe4yhvXp04vyS), 23/03/20.** “As we traveled around China, one of the most striking things that I found, especially in contrast to the West, as I spoke to governors, mayors, and their cases were plummeting—in some of the places they were down to single digit cases already—as I spoke to them and I said, “So what are you doing now?” They said, “We’re building beds, we’re buying ventilators, we’re preparing.” They said, “We do not expect this virus to disappear, but we do expect to be able to run our society, run our economy, run our health system. We cannot end up in this situation again.”
+-   **[*At the Epicenter of the Covid-19 Pandemic and Humanitarian Crises in Italy: Changing Perspectives on Preparation and Mitigation*](https://catalyst.nejm.org/doi/full/10.1056/CAT.20.0080?fbclid=IwAR3hxleVh2II5wiLN9PoSaJ58oBUdSUN61vk_IHCJcSA-2iTKOgV84rHNCk), Mirco Nacoti et al., 21/03/20**. “But a further peak will likely occur when restrictive measures are relaxed to avoid major economic impact.4 We strongly need a shared point of reference to understand and fight this outbreak. We need a long-term plan for the next pandemic.”
+-   **[*Impact of non-pharmaceutical interventions (NPIs) to reduce COVID-19 mortality and healthcare demand*](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf), Imperial College COVID-19 Response Team, 16/03/20.** Probably subject to future revisions, to date still the best study on future evolution of the pandemic.
+-   **[*What the virus said*](https://lundi.am/What-the-virus-said), 19/03/20**. The virus talks, criticizing the human society: it’s not Covid-19 killing us – and actually, without those like him, viruses, life would not exist. It is the very organization of our collective existences that produces catastrophes.
+-   **[*History in a Crisis—Lessons for Covid-19*](https://www.nejm.org/doi/full/10.1056/NEJMp2004361#), Jones, David S, New England Journal of Medicine (2020).** On what history can teach us.
+-   ***[A fiasco in the making? As the coronavirus pandemic takes hold, we are making decisions without reliable data](https://www.statnews.com/2020/03/17/a-fiasco-in-the-making-as-the-coronavirus-pandemic-takes-hold-we-are-making-decisions-without-reliable-data/)*, John P.A. Ioannidis, 17/03/20.** Despite we live in the era of big data, the quality of data and the quantity of techniques to analyze them do not allow easy conclusions. A suggestion: randomize the tests.
+-   **[*What the Fukushima meltdowns taught us about how to respond to coronavirus*](https://thebulletin.org/2020/03/what-the-fukushima-meltdowns-taught-us-about-how-to-respond-to-coronavirus/#), Azby Brown and Sean Bonner, 13/03/20**. A problem in common is the communication of the emergency.
+-   **[*Capitalist agriculture and Covid-19: A deadly combination*](https://climateandcapitalism.com/2020/03/11/capitalist-agriculture-and-covid-19-a-deadly-combination/), 11/03/20**. Interview to Rob Wallace, author of *Big Farms Make Big Flu* (Monthly Review Press, 2016). “Anyone who aims to understand why viruses are becoming more dangerous must investigate the industrial model of agriculture and, more specifically, livestock production. At present, few governments, and few scientists, are prepared to do so. \[…\] Using an outbreak to beta-test the latest in autocratic control post-outbreak is disaster capitalism gone off the rails. In terms of public health, I would err on the side of trust and compassion, which are important epidemiological variables. Without either, jurisdictions lose their populations‘ support.”
+
+## The age of (in)security: meeting Jeff Halper
+
+> What is being exported is not just the security technology, but the concept of a security state, in which basically security becomes the central element. You can have a democracy, too, but the democracy is under security. Everything is under security. Due process suffers, the laws suffer, human rights suffer.
+
+In these days we live in a “state of exception”, and it may be that special laws will be passed to limit personal freedom, by tracking phones or permitting air surveillance by drones (this is already the case in Italy). While such regulations should be temporary, they have been on the agendas of the lobbies that propose surveillance technologies – and in doing this reshape the very concept of war.
+
+Recently we had the possibility to meet Jeff Halper, peace activist from Israel and author of *War Against the People: Israel, the Palestinians and Global Pacification*. On our blog you can find an [edited transcript of his talk](/en/posts/science-war-and-society-jeff-halper.html).
+
+## How to participate?
+
+ExTemporanea is an flexible and open community. The best way to participate is just to raise your hand and say: I’d like to do this, what do you think? And we’ll start discussing. You can find us at scienceground@festivaletteratura.it.

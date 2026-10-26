@@ -1,0 +1,54 @@
+project:
+  type: website
+  resources:
+    - uploads/
+
+lang: it
+
+website:
+  title: "Scienceground"
+  description: "Conversazioni su scienza e società"
+  site-url: https://fturci.github.io/extemporanea-quarto/
+  favicon: uploads/2020/08/cropped-upload_18a5a7a63b4434f192c0281f9c183ef7.png
+  navbar:
+    logo: uploads/2020/08/cropped-upload_18a5a7a63b4434f192c0281f9c183ef7.png
+    left:
+      - text: A proposito
+        href: a-proposito.qmd
+      - text: Fanzine
+        href: fanzina.qmd
+      - text: Newslettera
+        href: extemporanea.qmd
+      - text: Laboratori
+        href: laboratori.qmd
+      - text: Rusco linguacciuto
+        menu:
+          - href: rusco-linguacciuto.qmd
+            text: Rusco linguacciuto
+          - href: rusco-linguacciuto-2021.qmd
+            text: Rusco linguacciuto 2021
+      - text: Podcast
+        href: https://www.spreaker.com/show/4529392
+      - text: Libere Letture
+        href: "index.qmd#category=Libere Letture"
+      - text: Bibliografie
+        href: "index.qmd#category=Bibliografie"
+      - text: Eventi
+        href: eventi.qmd
+    right:
+      - text: English
+        href: en/index.qmd
+      - icon: telegram
+        href: https://t.me/extemporanea
+      - icon: rss
+        href: index.xml
+  page-footer:
+    left: "© Scienceground · eXtemporanea"
+    right: "Contenuti trasferiti dal sito WordPress extemporanea.eu / scienceground.it"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    html-math-method: mathjax

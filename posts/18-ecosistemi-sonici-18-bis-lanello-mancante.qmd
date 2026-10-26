@@ -1,0 +1,101 @@
+---
+title: "{#18} Ecosistemi sonici – {#18 bis} L’anello mancante"
+author: "Michela Marton"
+date: 2021-04-08
+categories: ["Newslettera"]
+image: "/uploads/2021/04/upload_6456f357e631102b6fff1d543ad1423b-1200x936.png"
+# source: www.extemporanea.eu/18-ecosistemi-sonici-18-bis-lanello-mancante (post id 1757)
+---
+
+![](/uploads/2021/04/upload_6456f357e631102b6fff1d543ad1423b-1200x936.png){.featured-image}
+
+> «Now I will do nothing but listen, / To accrue what I hear into this song, to let sounds contribute toward it. / I hear bravuras of birds, bustle of growing wheat, gossip of flames, clack of sticks cooking my meals. / I hear the sound I love, the sound of the human voice, / I hear all sounds running together, combined, fused or following, / Sounds of the city and sounds out of the city, sounds of the day and night \[…\]»
+>
+> Walt Whitman, *Song of myself*
+
+![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_5b500dc15d9e6e88726e00e348f79f11.png)
+
+Care voci, cari suoni,
+
+si avvicina Pasquetta, e anche quest’anno dovrem(m)o resistere alla tentazione di una rimpatriata. Come l’anno scorso ci potremo al massimo accompagnare con qualche amicizia abborracciata o con rimasugli di famiglia. C’è però una [differenza](https://www.youtube.com/watch?v=OLXNavAWiqs) rispetto alla scorsa quaresima di quarantena: lo spirito del virus è meno incombente nelle strade delle nostre città, che si sono riempite dei soliti rumori di fondo. Eppure esattamente un anno fa avevamo negli orecchi un diverso paesaggio, e per qualche tempo siamo stati consapevoli che **un altro suono è possibile**.
+
+Con questo numero della newsletter vi proponiamo un ascolto che potrebbe intonarsi a queste prime giornate primaverili. Si tratta di un brano *soundscape design* realizzato dal compositore **Pierfrancesco Ceregioli** durante una residenza artistica alla scorsa edizione di [**Scienceground**](https://2020.festivaletteratura.it/scienceground/). ***Via Fluminis*** raccoglie l’impronta acustica del paesaggio sonoro del fiume Mincio, di Mantova e dei suoi laghi durante le giornate di [**Festivaletteratura2020**](https://2020.festivaletteratura.it/).
+
+Più sotto trovate qualche consiglio di lettura e un approfondimento sulla storia di questo genere musicale, il tutto accompagnato dalle illustrazioni di **Andrea De Franco** tratte dal suo tableau *Spiriti della quarantena* per l’*[**Almanacco 2020**](https://www.festivaletteratura.it/en/2020/almanacco)* di Festivaletteratura. Intanto vi lasciamo all’ascolto (dotatevi, se potete, di buone cuffie o casse):
+
+<iframe frameborder="0" height="400px" loading="lazy" src="https://widget.spreaker.com/player?episode_id=44118228&amp;theme=light&amp;autoplay=false&amp;playlist=false&amp;cover_image_url=https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F2367de8d758a27adb0e2694b3f6d96c9.jpg" width="100%"></iframe>
+
+## Che cos’è la *Soundscape Composition*
+
+La *Soundscape Composition* è una pratica compositiva legata alla musica elettroacustica e all’**ecologia acustica** che si pone l’obiettivo di reinterpretare l’ambiente sonoro in cui viviamo ibridando aspetti artistici, scientifici e sociali. La pratica compositiva consiste nel registrare i suoni provenienti dall’ambiente e processare il materiale per farne un brano.
+
+Il genere ha molti elementi in comune con la *musique concrète* teorizzata da Pierre Schaffer in Francia nel 1948: anch’essa si poggiava su suoni provenienti dall’ambiente esterno, prima registrati e poi rielaborati dal compositore. C’è però una differenza sostanziale. Mentre nella musica concreta i singoli suoni sono entità a sé stanti e possono essere impiegati senza alcun riferimento al contesto di provenienza, nella *soundscape composition* l’ambiente è l’elemento più importante e la sua impronta è sempre evidente nel materiale registrato: ogni suono è testimone dell’ecosistema da cui proviene. Inoltre, interessandosi e indagando temi come l’ecologia acustica, la bioacustica e l’inquinamento sonoro, il compositore amplia i suoi orizzonti verso elementi non più prettamente estetici, ma anche etici.
+
+![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_4c54579392ba0b72c7e88decf5eee853.png)
+
+Come rivelato dal musicista, scrittore e ambientalista canadese Raymond Murray Schafer in un’intervista del 2013, il termine “soundscape” fu coniato nel ’69 dal ricercatore del MIT Michael Southworth per esaminare come i paesaggi sonori urbani di Boston avevano influenzato, nel corso dei decenni, il comportamento e il modo di relazionarsi delle varie comunità della città. Schafer teorizzò poi i concetti di composizione del paesaggio sonoro e di ecologia acustica alla fine degli anni ’60, concretizzandoli nel World Soundscape Project (WSP), un progetto di ricerca condotto con un gruppo giovane e motivato di studenti e studentesse: Bruce Davis, Peter Huse, Barry Truax, Howard Broomfield e Hildegard Westerkamp.
+
+L’obiettivo del [WSP](https://www.sfu.ca/~truax/wsp.html) era quello di registrare, catalogare, analizzare e confrontare quanti più ambienti sonori, ovunque nel mondo. Lo scopo finale, espresso nel manifesto del gruppo, era «to find solutions for an ecologically balanced soundscape where the relationship between the human community and its sonic environment is in harmony».
+
+Il progetto nacque come conseguenza di uno studio condotto da Schafer, sempre negli anni ’60, sull’ambiente sonoro di Vancouver, per sensibilizzare sui temi dell’inquinamento acustico. I risultati della sua ricerca avevano dimostrato un aumento sostanziale di *noise pollution* nel corso del tempo, con conseguenti ripercussioni negative sulla vita degli abitanti della città. Il frutto di questo studio è contenuto in due opuscoli: *The New Soundscape* (1969) e *The Book of Noise* (1970), oggi di difficile reperimento, a cui si aggiungeva un compendio sulle leggi canadesi riguardanti il rumore.
+
+![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_6456f357e631102b6fff1d543ad1423b.png)
+
+Gli effetti generati dall’inquinamento acustico fecero quindi nascere la necessità di una presa di coscienza dell’ambiente sonoro. Prime testimonianze furono il saggio *The Music of the Environment*, in cui Schafer descriveva esempi positivi e negativi di design acustico, e *The Vancouver Soundscape* (1973), accompagnato da due dischi, in cui il WSP analizzava e descriveva l’evoluzione della città canadese fin dalla sua fondazione, evidenziando una sistematica mancanza di attenzione per gli aspetti riguardanti il paesaggio sonoro. A questi seguirà *Soundscapes of Canada* (1974), una serie di composizioni radiofoniche in cui vengono esposti i risultati di un lungo tour di registrazioni sul campo in gran parte del territorio canadese, ognuna delle quali tratta in modo unico l’ambiente sonoro: ogni programma è un’esperienza di ascolto speciale in sé. L’idea del paesaggio sonoro in questo caso riguarda aspetti dell’ambiente generalmente considerati secondari: i programmi sono progettati per stimolare la consapevolezza delle ascoltatrici e degli ascoltatori sul suono e sulla sua percezione.
+
+Successivamente, nel ’75, il WSP si diresse in Europa, tenendo conferenze nelle maggiori città e registrando nel dettaglio l’impronta sonora di cinque villaggi in Italia, Scozia, Germania, Francia e Svezia (*Five Villages Soundscape*). L’intera esperienza nel vecchio continente venne documentata nello scritto *European Sound Diary*. Si arricchiva così il database delle registrazioni del gruppo, che arrivava a contare oltre 300 cassette a nastro magnetico, per centinaia di ore di suoni provenienti da Canada ed Europa.
+
+Man mano che gli obiettivi del WSP si concretizzavano, si delineavano anche le sue caratteristiche etiche ed estetiche, riassunte in due testi che sono considerati i capisaldi del genere: *The Soundscape: Our Sonic Environment and the Tuning of the World* (1977) di Murray Schafer e *Handbook for Acoustic Ecology* (1978) di Barry Truax.
+
+## Bibliografia
+
+-   Southworth, Michael Frank. *The sonic environment of cities*. Diss. Massachusetts Institute of Technology, 1967.
+-   Schafer, Raymond Murray. *The new soundscape*. Don Mills: BMI Canada Limited, 1969.
+-   Schafer, R. Murray. *The soundscape: Our sonic environment and the tuning of the world*. Simon and Schuster, 1993.
+-   Torigoe, Keiko. *A study of the World Soundscape Project* (1996): 0019-0019.
+
+![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_a42d5122f371f27c0d8beeddb7771b3b.png)
+
+# Guida all’ascolto
+
+Le registrazioni sono state effettuate dall’8 al 12 Settembre 2020 a Mantova e dintorni utilizzando due microfoni: uno stereofonico XY e uno ambisonico. Questa *soundwalk* si compone di sei momenti:
+
+**00.00- 02.12**. Suono di pagaiate durante una discesa in canoa del fiume Mincio, accompagnate da versi di uccelli, dallo scorrere dell’acqua e dal rumore cittadino in lontananza. I rintocchi delle campane saranno un costante riferimento spaziale.
+
+**02:13 – 03:44**. Il suono delle campane di Mantova si udisce più vicino e nitido. I suoni dell’attività umana sono via via più intensi: voci in sottofondo, la musica di uno stereo. Si fanno strada i versi degli insetti, degli uccelli acquatici e dei cigni.
+
+**03:45 – 05:02**. Verso Ponte dei Mulini. L’acqua si rituffa nel Lago di Mezzo dopo aver attraversato le turbine di una piccola centrale idroelettrica; alcune biciclette attraversano la copertura di metallo per raggiungere l’altra sponda.
+
+**05:03 – 06:18**. I passi scandiscono il tempo e lo spazio tra i soffusi suoni degli insetti. In lontananza ancora i rintocchi delle campane.
+
+**6:19 – 7:53**. Di nuovo un contrasto dinamico con la sezione precedente, a creare una sorta di (a)simmetria all’interno del brano. Si attraversa il ponte appena sopra lo scarico delle acque reflue della cartiera Burgo e si raggiunge Mantova, dove si torna ad ascoltare i tipici rumori di un centro cittadino.
+
+**07:54 – 09:57**. La gente affolla Piazza Sordello e le sue vie fino a Piazza delle Erbe, intenta, tra le altre cose, a popolare Festivaletteratura. Non mancano rumori di automobili e annunci pubblicitari, oltre che i rintocchi delle campane — ora vicini — che ci accompagnano fino alla chiusura del brano.
+
+![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_b2eecc51bf2a648d0496eebf148bb97f.png)
+
+Le nostre conversazioni sono come il [ruggito della tigre](https://digitalcommons.unl.edu/archengfacpub/38/), un suono di bassa frequenza, quasi inudibile all’orecchio umano, ma in grado di viaggiare a diversi kilometri di distanza… Per chi volesse sintonizzarsi, consigliamo i nostri canali:
+
+[Email](mailto:scienceground@festivaletteratura.it)\
+[Sito](/index.html)\
+[Telegram](https://t.me/extemporanea)
+
+# {#18 bis}
+
+> «This is the day upon which we are reminded of what we are on the other three hundred and sixty-four.»
+>
+> Mark Twain
+
+![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_fc044bc3a1dbf03f22f56f4e3112a1f1.jpeg)
+
+Ricare voci, ricari suoni,
+
+si avvicina Pasquetta, e anche quest’anno dovrem(m)o resistere alla tentazione di una rimpatriata. Come l’anno scorso ci potremo al massimo accompagnare con qualche amicizia abborracciata o con rimasugli di famiglia. C’è però una differenza rispetto alla precedente newsletter: questa volta ci siamo ricordate di inserire il <a href="https://www.spreaker.com/user/extemporanea/pierfrancesco-ceregioli-via-fluminis" rel="noopener" target="_blank">link al brano di soundscape design di Pierfrancesco Ceregioli</a>.
+
+Per farci perdonare la doppia spedizione, restando in tema sonico, vi lasciamo anche un link alla splendida <a href="https://www.radiosafari.eu/" rel="noopener" target="_blank">Radio Safari</a>, senza ulteriori spiegazioni.
+
+L’illustrazione *non* è di Andrea de Franco: era una vignetta della Settimana Enigmistica ma ora è un meme.
+
+Abbracci subsonici,
+
+![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_ab0ac1d167e98b0e558e0342ddf4089f.png)

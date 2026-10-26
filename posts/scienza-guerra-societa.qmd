@@ -1,0 +1,89 @@
+---
+title: "Scienza, Guerra, Società. Kick-off"
+author: "Maria Elena Antinori"
+date: 2020-02-19
+categories: ["Varie&eventuali"]
+keywords: ["dual-use", "ERC", "Horizon 2020"]
+image: "/uploads/2020/02/sgs-1024x801-1.jpg"
+# source: www.extemporanea.eu/scienza-guerra-societa (post id 1052)
+---
+
+![](/uploads/2020/02/sgs-1024x801-1.jpg){.featured-image}
+
+### 29 gennaio, evento kick-off: fondi di ricerca e tecnologie *dual-use*
+
+L’uomo è l’unica specie animale che commette omicidio intraspecifico: uccide i propri simili. Secondo gli etologi, i due fattori cruciali che hanno determinato questa particolare “evoluzione” sono il linguaggio e la tecnologia.
+
+Il **linguaggio** permette di disumanizzare il nemico, che diventa una bestia, una zecca. Il linguaggio è fondamentale nella guerra per veicolare le ideologie, in particolare l’ideologia della superiorità di un gruppo rispetto ad un altro.
+
+La **tecnologia** bellica è quell’insieme di forme di ricerca di base e applicata per inibire la nostra resistenza ad uccidere: ci allontano dal nemico, permettono la sua disumanizzazione.
+
+Che tipo di tecnologia una società chiede di sviluppare può forse influenzare la sua propensione alla guerra o all’egemonia, e viceversa.
+
+Per questo nel primo incontro abbiamo parlato di fondi e progetti di ricerca.
+
+**Nicola di Iorio**, dottore in chimica ora impiegato presso l’ambito Ricerca e Finanziamenti Competitivi dell’Università di Bologna, ci ha spiegato quali sono e come funzionano i principali fondi di ricerca, soprattutto il programma Horizon dell’Unione Europea. Se le tecnologie sono duali, significa che non sempre le applicazioni militari scaturiscono da investimenti dei dipartimenti di difesa. C’è dunque qualche seme di “dualità” già negli obiettivi e nell’organizzazione dei finanziamenti pubblici e civili?
+
+Si possono distinguere **quattro** tipi di fondi:
+
+-   europei: vegono stanziati dal 1960. Horizon 2020 è il programma che termina quest’anno, poi partirà Horizon Europe per cui Ursula Von der Leyen (presidentessa della Commissione Europea) sta chiedendo lo stanziamento di più soldi.
+-   transnazionali: tutti i fondi non Horizon stanziati non solo tra stati europei, ma anche ad esempio nell’area del Mediterraneo quindi coinvolgendo stati africani o medio-orientali
+-   regionali e locali
+-   privati
+
+Nicola ci ha mostrato uno schema in cui questi fondi sono rappresentati su una piramide rovesciata, con in alto e lungo la base i fondi europei e i fondi privati alla punta, in basso. I fondi infatti si distinguono in modo decrescente dall’alto verso il basso (quindi dai fondi europei verso quelli privati), per
+
+-   **quantità di soldi stanziata**: è maggiore per i fondi europei. Ad esempio per il programma Horizon 2020, che è durato 7 anni, sono stati stanziati 80 miliardi di euro. I fondi privati sono di diversi tipi: le medie e piccole aziende stanziano fondi per collaborare con le Università, mentre le grandi aziende o le multinazionali hanno i loro propri laboratori, quindi non stanziano fondi
+-   **struttura**: i progetti europei sono quelli più strutturati (vanno scritti secondo delle linee guida), e questo ha influenzato anche tutti gli altri fondi, che oggi devono essere scritti secondo un formato tipo quello europeo
+-   **affidabilità**
+-   **complessità**: progetti più strutturati necessitano di molte professionalità per essere scritti e presentati, quindi normalmente si crea un consorzio tra università e centri di ricerca, ognuno con i propri apparati burocratici. Questa complessità forse è aumentata per far fronte all’aumento delle richieste di fondi e di soggetti che si occupano di fare ricerca?
+
+#### Horizon 2020
+
+Abbiamo analizzato la struttura del programma Horizon 2020 come esempio, essendo Horizon Europe ancora in fase di elaborazione. In H2020 si distinguono tre pillar:
+
+1.  **excellent science**: sono linee di finanziamento *bottom-up* per cui possono applicare il singolo individuo o il singolo consorzio di ricerca. A seconda di chi applica si distinguono in ERC; FET; MSCA; Research Infrastructures. Per questi progetti viene valutata solo la parte scientifica (non l’impatto)
+    -   **ERC** prevede diversi tipi di fondi (starting, consolidator, advanced) a seconda dell’età del ricercatore che li richiede. Esistono poi fondi “proof-of-concept” che possono essere richiesti per progetti che riguardano il consolidamento di alcune ricerche e lo sviluppo di un prodotto ad esse legato. I fondi “sinergy grant” vengono richiesti da un consorzio.
+    -   **MSCA** è un programma per giovani da zero a 4 anni dopo la laurea o il dottorato. Si distinguono in ITN e COFUND o IF e RISE a seconda se vengono richiesti da un network o da singoli individui
+2.  **industrial leadership**: comprende finanziamenti anche per piccole e medie imprese. Infatti presenta una parte detta PPP (public-private partnership) per cui è un consorzio di industrie a stanziare i fondi per cui possono applicare università e centri di ricerca.
+3.  **societal challenges**: finanziamenti stanziati per scopi che sono considerati attuali. In H2020 le *challenges* sono state “health, demographic change and wellbeing; food security; transport; energy; climate action; societies; secure societies” \[salute, cambiamento demografico e benessere; sicurezza alimentare; trasporti; energia; clima; società; sicurezza\].
+
+I fondi 2. e 3. sono fondi *top-down* e per questi sono valutate, oltre alla parte scientifica, anche le “actions”, che si distinguono in Research and Innovation Actions (legate a ricerca di base); Innovation Actions (legate a ricerca industriale); Coordination and Support Actions (progetti di comunicazione, *public engagement*, *dissemination*). RIA e IA valutano il cosiddetto Technology Readiness Level, che è una scala che misura quanto una tecnologia è “pronta” ad essere applicata. Il TRL per la ricerca di base può essere basso, mentre deve essere alto per quella industriale. Ciascun topic è classificato come RIA o IA e quindi chi applica sa quante industrie dovrebbe coinvolgere.
+
+La Commissione europea o il PPP pubblica un “annual working programme”, cioè un insieme di call per cui si può fare domanda. Ogni call presenta diversi topic e il topic presenta
+
+-   una *specific challenge*
+-   uno *scope*
+
+che sono le questioni che un ricercatore sa affrontare meglio
+
+-   un *impact* cioè l’impatto che la ricerca porta alla società/UE, in termini di economia, società, ambiente ecc. In Horizon Europe addirittura si parlerà di global challenges anziché solo societal challenges, quindi l’impatto sarà valutato in un orizzonte più ampio.
+
+Questa è la parte più difficile da scrivere per un ricercatore, anche perché non esistono linee guida.
+
+**Come si scelgono *challenges* e *topics*?**
+
+La Commissione Europea è composta da persone che arrivano sia dal mondo dell’accademia che da quello industriale. All’interno della Commissione viene istituito anche un comitato di etica. La Commissione europea si affida a dei *top experts* che deliberano alcuni topic, ma ciascun topic dev’essere poi sottoposto a delle consultazioni, nel senso che chiunque (da un ricercatore ad un’impresa a dei consorzi) può dire la sua su queste scelte pubblicando dei *position paper*s. Questo processo di decisione trasparente non esiste a livello di fondi locali e regionali.
+
+#### Programmi transnazionali
+
+Sono partenariati pubblico-pubblico, cioè cofinanziamenti *top-down* tra stati e UE su determinati topic
+
+-   JPI: sono una decina, divise per argomento. Per ogni argomento c’è un working-programme.
+-   ERANET: sono progetti più “snelli” nel senso che ogni progetto deve essere presentato in 70 pagine al massimo.
+-   EX.Art. 185
+
+#### Fondi nazionali
+
+Le aree scientifiche-tematiche sono le stesse dei progetti europei, ma vengono usati un po’ da palestra prima di applicare ai fondi europei. In questo caso non ci sono linee guida, i progetti sono più semplici, ma la struttura di Horizon comunque è quella di riferimento.
+
+-   PRIN: simile all’ERC, nel senso che è *bottom-up*. Prevedono la possibilità per i ricercatori under-40 di competere separatamente.
+-   PON: questi progetti devono avere un’immediata ricaduta industriale e sono mirati allo sviluppo del Mezzogiorno (quindi tra i partner ci deve essere un’industria/università del sud).
+
+#### Che cosa ci è sembrato interessante?
+
+-   esistono forme di finanziamento *bottom-up* che vengono valutate principalmente per la valenza scientifica e non per impatto economico o sociale. Quindi ha senso “lavorare” anche sui ricercatori, fare sì che gli scienziati siano più in contatto e consapevoli della società e della cultura che li circonda, così che propongano dei progetti che ne tengano conto. Il ricercatore non è solo un ricercatore, deve essere un cittadino responsabile.
+-   una delle challenges di H2020 è stata *secure societies*: potrebbe essere interessante andare a vedere che impact e obiettivi venivano richiesti
+-   le aziende possono collaborare nei progetti europei: quante aziende coinvolte in ambito militare hanno partecipato?
+-   esiste la possibilità di partecipare al processo di decisione delle challenges: avrebbe senso creare una sorta di “comitato” che cerchi di arginare il rischio di ricerce troppo rivolte a applicazioni militari?
+-   La tecnologia di per sé non è buona o cattiva, lo scienziato-cittadino gioca un ruolo fondamentale laddove esiste la tecnologia *dual-use*. Come responsabilizzare gli scienziati? Come coinvolgere i singoli affinchè possano contribuire al processo decisionale di gruppo?

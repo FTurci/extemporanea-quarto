@@ -1,0 +1,63 @@
+---
+title: "Un bastimento carico di…"
+author: "ExTemporanea"
+date: 2022-01-18
+categories: ["Bibliografie"]
+image: "/uploads/2022/01/cf07017085644abeba9f4568c-1200x901.png"
+# source: www.extemporanea.eu/un-bastimento-carico-di (post id 2667)
+---
+
+![](/uploads/2022/01/cf07017085644abeba9f4568c-1200x901.png){.featured-image}
+
+> «A Ersilia, per stabilire i rapporti che reggono la vita della città, gli abitanti tendono dei fili tra gli spigoli delle case, bianchi o neri o grigi o bianco-e-neri a seconda se segnano relazioni di parentela, scambio, autorità, rappresentanza. Quando i fili sono tanti che non ci si può più passare in mezzo, gli abitanti vanno via: le case vengono smontate; restano solo i fili e i sostegni dei fili»
+>
+> Italo Calvino, *Le Città Invisibili*
+
+I libri fanno parte del nostro metabolismo basale. Si accumulano sulle nostre librerie, ne condividiamo la lettura. Ogni tanto ce li passiamo, ma il servizio prestito è decisamente scadente — e quello di restituzione ancora peggiore…
+
+Per chi di voi è di stanza a Bologna e dintorni d’ora in poi non sarà più così!
+
+Abbiamo aiutato la [Biblioteca d’Area del CNR](http://biblioteca.bo.cnr.it/index.php/it/) a selezionare [qualche centinaio di titoli](https://www.zotero.org/groups/2536502/scienceground-cnr/), che saranno presto consultabili presso la biblioteca stessa e inseriti tramite l’indice OPAC nel circuito delle biblioteche bolognesi.
+
+Le biblioteche non sono granai in cui ammassare riserve di conoscenza contro un imminente inverno dello spirito. Sono piazze animate dal passaggio di tanti spiriti diversi. Per questo attorno a questa acquisizione vogliamo costruire percorsi di lettura e confronti, e far brulicare di nuovo lo spazio in via Pietro Gobetti.
+
+##### Bibliografie come mappe
+
+*HC SVNT DRACONES* indicava una carta medievale ai bordi delle terre note per mettere in guardia da possibili pericoli ignoti. Ricercatori e ricercatrici hanno la capacità di demistificare i dragoni e la responsabilità di rendere la rappresentazione più complessa e articolata.
+
+La comunicazione scientifica già imperversa (spesso declinata nelle varianti dell’*outreach* e del *public engagement*). Invece di forzare la mano “spiegando le cose come stanno”, vorremmo fornire mappe per orientarsi liberamente in territori inesplorati.
+
+Le bibliografie sono le nostre mappe concettuali per orientarsi in un mondo che pullula di informazioni ma che manca di narrazioni collettive — per dar forma a panorami attorno e dentro di noi.
+
+##### Moltiplicare i punti di vista
+
+La nostra selezione ospita una varietà di generi e fattispecie:
+
+-   qualche monografia tecnica;
+-   alcuni classici della divulgazione scientifica;
+-   qualche recente novità editoriale;
+-   romanzi, narrativa, giornalismo d’inchiesta, fumetti, manga, riviste d’arte, fanzine, manuali per l’uso, etc.;
+-   libri che non c’entrano nulla, finiti “per caso” nel calderone
+-   studi umanistici sulle scienze.
+
+Quest’ultima tipologia ci è particolarmente cara, perché ci aiuta a mettere a fuoco l’impatto che le pratiche scientifiche hanno nella società, e viceversa il ruolo dei preconcetti umani nella costruzione dei fatti di scienza.
+
+##### Libri come oggetti come simboli
+
+Non siamo dei feticisti dei libri cartacei — e neppure della lettura a ogni costo! Se necessario per sopravvivere, con le pagine di un libro ci si può attizzare un fuoco.
+
+Il libro come oggetto fisico però può servire come ricordo che quello che produciamo non è pura informazione astratta, ma (proprio come i *paper* a cui chi fa ricerca è dedito, e che non sono solo “carta”) comportano fatica fisica e mobilitazione di risorse materiali. È allora un dramma che, lontano da sguardi indiscreti, quotidianamente avvengano simbolici *bücherverbrennungen* per smaltire le eccedenze dell’industria editoriale. Ed è un brutto segnale che un’editoria accademica “in cerca d’autore” segua le stesse tracce, con il proliferare di riviste predatorie e della cultura del *publish or perish*.
+
+Eccoci così vagare “alla ricerca dei pochi libri di senso compiuto” in una biblioteca di Babele composta — parafrasando Borges — da combinazioni casuali di fatti scientifici difficilmente accertatabili, assemblati con la grammatica degli *abstract*, delle bibliografie e dei ringraziamenti.
+
+##### I percorsi
+
+Invece di collezionare una biblioteca esaustiva e universale (e quindi un po’ anonima) abbiamo pensato di selezionare e organizzare il materiale tramite percorsi di lettura.
+
+Per questo ci siamo impegnati a mettere a punto alcuni strumenti *free and open source* per condividere percorsi di lettura, in linea con la lunga e ammirevole [esperienza in fatto di condivisione del sapere scientifico](https://nilde.bo.cnr.it/) della Biblioteca d’Area. Gli strumenti consentono di proporre percorsi tematici, di aggiungere titoli ad alcuni percorsi che noi abbiamo già cominciato, o di commentare un libro.
+
+I percorsi includono alcune delle parole chiave che la comunità eXtemporanea ha esplorato negli ultimi anni, in particolare tramite la partecipazione a Festivaletteratura: tra bit e dati statistici, microbi ed ecosistemi, l’intelligenza artificiale, la questione di genere nelle scienze, la decolonizzazione etc.
+
+Abbiamo spesso scelto titoli che esistono solo in lingua originale (quasi sempre Inglese), o che comunque sono difficili da reperire nelle altre biblioteche bolognesi.
+
+*Maggiori informazioni alla [pagina gitlab](https://gitlab.com/extemporanea/biblio-cnr-scienceground) del progetto.*

@@ -1,0 +1,39 @@
+---
+title: ""
+author: "ExTemporanea"
+date: 2018-06-23
+categories: ["Varie&eventuali"]
+# source: www.extemporanea.eu/1412-2 (post id 1412)
+---
+
+<img src="/uploads/2018/06/croce_civico.png" class="alignnone size-full wp-image-1416" width="21" height="21" />
+
+<img src="/uploads/2018/06/linea_fluminis.png" class="alignnone size-medium wp-image-1417" width="30" height="9" />
+
+<img src="/uploads/2018/06/poligono_idrico.png" class="alignnone size-medium wp-image-1418" width="21" height="28" />
+
+<img src="/uploads/2018/06/mappa2_eXt-300x255.jpg" class="alignnone size-medium wp-image-1446" width="300" height="255" />
+
+<figure class="wp-block-image size-large">
+<img src="/uploads/2020/06/X-LL-202006251.jpg" class="wp-image-1464" width="572" height="817" />
+</figure>
+
+<figure class="wp-block-image size-large">
+<img src="/uploads/2020/06/scienceground.png" class="wp-image-1469" width="400" height="138" />
+</figure>
+
+<figure class="wp-block-image size-large">
+
+</figure>
+
+<figure class="wp-block-image size-large">
+<img src="/uploads/2020/06/spiritidellaquarantena-1-1024x798.jpg" class="wp-image-1472" width="1024" height="798" />
+</figure>
+
+<figure class="wp-block-image size-large">
+<img src="/uploads/2020/06/copertina3-1024x528.png" class="wp-image-1478" width="1024" height="528" />
+</figure>
+
+<figure class="wp-block-image size-large">
+<img src="/uploads/2020/07/01-1.png" class="wp-image-1485" width="800" height="501" />
+</figure>

@@ -1,0 +1,16 @@
+---
+title: "{ϱ7} Incolto (Friche)"
+author: "Tomate"
+date: 2022-08-15
+categories: ["Rusco linguacciuto"]
+image: "/uploads/2022/08/rl6-1200x379.jpg"
+# source: www.extemporanea.eu/ϱ7-incolto-friche (post id 3936)
+---
+
+![](/uploads/2022/08/rl6-1200x379.jpg){.featured-image}
+
+Proposta di traduzione di [*friche*](/posts/rho7-friche.html).
+
+-   *Motivazioni*: “La friche indica un pezzo di terra, un terreno, che può essere abbandonato o lasciato consapevolmente incolto. Penso che invece di complicare la definizione in questo caso si possa usare l’aggettivo “”incolto”” nel significato primario di “”non coltivato””. Non è detto che qualcosa di non coltivato sia abbandonato, negletto: questo lo pensiamo perché attribuiamo al verbo “”coltivare”” un’accezione positiva non solo in termini agricoli ma culturali. Sono passata da terreno negletto, terreno incolto e terreno ozioso, ma il sostantivo terreno fa sempre pensare alla pratica agricola. Mi era piaciuto “”ozioso”” perché contrapposto al negotium ma è un ragionamento troppo macchinoso. Allora ho pensato di convertire l’aggettivo in sostantivo e chiamare una friche un incolto, che può essere un campo, un giardino, un’isola di traffico, o un luogo abbandonato dall’uomo ma riconquistato dal verde.”
+-   *Strategia scelta*: Conversione
+-   *Possibilità scartate*: Terreno incolto, terreno negletto, terreno ozioso, terreno dimenticato

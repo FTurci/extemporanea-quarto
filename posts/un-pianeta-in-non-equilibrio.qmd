@@ -1,0 +1,19 @@
+---
+title: "Un pianeta in (non) equilibrio"
+author: "ExTemporanea"
+date: 2020-11-25
+categories: ["Varie&eventuali"]
+# source: www.extemporanea.eu/un-pianeta-in-non-equilibrio (post id 1687)
+---
+
+Durante Festivaletteratura abbiamo esplorato da vicino la  complessità che si nasconde negli ecosistemi che si sviluppano intorno a una città industriale come Mantova. Abbiamo anche visto come piccoli cambiamenti di temperatura possano generare grandi cambiamenti già su scala locale, favorendo per esempio la proliferazione di specie non autoctone a valle degli impianti che si servono dell’acqua del Mincio per il raffreddamento. Ma ormai è evidente a tuttə che le modifiche che apportiamo agli ecosistemi che coabitiamo si ripercuotono su scala globale, causando quella che il Guardian [ci invita da tempo a definire](https://www.theguardian.com/environment/2019/oct/16/guardian-language-changes-climate-environment) **crisi climatica**.
+
+Il clima è però un fenomeno intricato, e gli esseri umani si sono fatti strada fra i principali attori (che includono il [moto della Terra](https://www.youtube.com/watch?v=gUdtcx-6OBE), [i vulcani](https://www.youtube.com/watch?v=4ONwQV26L-k), gli [organismi fotosintetici unicellulari](https://www.youtube.com/watch?v=qERdL8uHSgI&t=117s), [le foreste](https://www.youtube.com/watch?v=sFHTA8dKceI)…) solo molto di recente. Tenere insieme nella stessa descrizione le varie scale spaziali, temporali e sociali è una sfida che impegna moltə scienziatə.
+
+In occasione della *Notte Europea dei Ricercatori 2020*, e in collaborazione con il CNR di Roma, abbiamo deciso di fare un po’ di chiarezza su cosa sia il clima e come funziona insieme a **Valerio Lucarini**, prof. di meccanica statistica all’università di Reading (UK) e uno dei maggiori esperti di dinamica del clima, che sarà in collegamento con noi per un’intervista in diretta *streaming*, **Giovedì 26 novembre  ore 18:00**.
+
+Se vi interessa, siete tuttə invitatə a partecipare ponendo domande in tempo reale a Valerio Lucarini.
+
+Per seguire la diretta, ci sono varie alternative. La prima è usare la [pagina Facebook](https://facebook.com/artov.roma/) del Centro di ricerca educativa del CNR. La seconda è quella di andare sul [canale Youtube del CNR](https://www.youtube.com/watch?v=JBVVVWqRmMQ&feature=youtu.be). In entrambi i casi, potrete postare domande da girare direttamente al nostro ospite, oppure inviarle su [questo gruppo Telegram](https://t.me/joinchat/Bb2QvRUVtaxQUKfkrMZbwg). Per un’esperienza leggermente più attenta alla privacy consigliamo di seguire lo streaming attraverso [questo servizio](https://yewtu.be/watch?v=JBVVVWqRmMQ) per evitare il tracciamento su Youtube. Sarà compito di un\* nostr\* espert\* *crossposter* fare in modo che tutte le vostre domande giungano illese a Valerio Lucarini!
+
+A domani!

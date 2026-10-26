@@ -1,0 +1,200 @@
+---
+title: "@Festivaletteratura2018"
+author: "ExTemporanea"
+date: 2018-09-01
+categories: ["@Festivaletteratura"]
+# source: www.extemporanea.eu/scienceground-2 (post id 136)
+---
+
+<figure class="aligncenter">
+<img src="https://www.festivaletteratura.it/img/1716_1692_Scienceground_sito.png?w=1200&amp;h=600&amp;fit=crop&amp;s=093203995e8901fd490e24ec164de985" />
+</figure>
+
+> *“La scienza oggi è afflitta dall’assedio alle sue fondamenta degli stessi* *accademici, dal contraccolpo della religione, dall’attacco alla sua professionalità da parte dell’ideologia del libero mercato, e dal disprezzo da parte di chi ritiene che una vita senza tecnologia sia l’unica possibilità di salvezza. Tuttavia la scienza ha ancora le potenzialità per dimostrare che si possono formulare giudizi accurati* *in una società tormentata da dilemmi tecnologici.* *Immaginate una società senza alcun posto per l’autorità culturale della scienza. Si sarebbe arresa alla politica, alle forze del mercato, alle religioni: una distopia almeno per chiunque preferisca il ragionamento* *alla forza.”*
+>
+> Harry Collins, *Science as a Reflection of Society*
+
+------------------------------------------------------------------------
+
+Per **l’intera durata del festival** una “piccola comunità scientifica temporanea” composta da studenti universitari, dottorandi e ricercatori universitari e industriali occuperà [Santa Maria della Vittoria](https://www.festivaletteratura.it/it/2018/luoghi/chiesa-di-santa-maria-della-vittoria) per animare [SCIENCEGROUND](https://www.festivaletteratura.it/it/racconti/scienceground-terreno-per-il-confronto-scientifico-al-festival). Un po’ *playground* in cui giocare con la probabilità, la statistica e la logica matematica. Un po’ luogo di incontro in cui comprendere il *background* e i dilemmi di chi già fa o si prepara a fare ricerca. Ed un po’ canale *underground* in cui intercettare il discorso scientifico senza filtri, in tutta la sua complessità: un segnale altrimenti difficile da captare nel rumore di fondo della società dell’intrattenimento, in cui anche la scienza è ridotta a notizia passeggera. **Laboratori**, **giochi matematici** e **informatici**, **gruppi di lettura**, **interviste dal vivo**, **videointerviste online** (tra gli ospiti Carlo Rovelli, Harry Collins, Peter Woit, Alex Reinhart, Sabine Hossenfelder), **una stazione podcast**, **una biblioteca ragionata**: solo alcuni degli strumenti con cui i ragazzi faranno autoformazione e guideranno il pubblico nei loro percorsi. **Il punto di partenza: la parola “dato” in tutte le sue accezioni:** dal data-mining a big data, dalla statistica al machine learning, dal dato oggettivo all’opinione soggettiva. Sempre all’insegna di un sano scetticismo metodico.
+
+------------------------------------------------------------------------
+
+**TEMATICHE**
+
+Probabilità e statistica\
+Big data, algoritmi e machine learning\
+Stato dell’arte in fisica teorica\
+Scienza nella società, sociologia della scienza
+
+------------------------------------------------------------------------
+
+**ATTIVITÀ PERMANENTI**
+
+**BIBLIO\
+Biblioteca scientifica ragionata\
+**Sulle scansie: Una selezione di monografie scientifiche e pubblicazioni divulgative. Sui tavoli: pile di articoli scientifici, scartoffie, appunti.
+
+**SOCIOLOGIA 1\
+Podcast: le voci degli scienziati\
+**Come un gambero, la scienza avanza con lo sguardo fisso al terreno su cui ha mosso i suoi passi precedenti. Qual è allora il ruolo del ricercatore: custode di un metodo antico, o rivoluzionario che si spinge oltre? E se la scienza è un’attività sociale, quanto le mode del tempo condizionano il suo lavoro?Complice l’aura del rigore del metodo scientifico, il ricercatore “in camice” è un emblema di credibilità. Ma coesiste in lui anche un’insicurezza e perplessità verso il proprio lavoro. Muniti di registratore, alcuni volontari si aggirano per la città per raccogliere le voci degli scienziati ospiti al festival. La sfida non è raccontare imprese eroiche, bensì pensieri umani.
+
+**LAB PROBABILITÀ\
+Il banco vince sempre. Ingannarsi con le probabilità.\
+**Se avete sbalzi di euforia ad ogni uscita di un numero ritardatario al lotto. Se percepite giramenti di capo ogni volta che vedete il simbolo %. Se cercate un vaccino contro la pubblicità ingannevole del gioco d’azzardo. Abbiamo la soluzione per voi: invece di rivolgervi al laboratorio di analisi del sangue, o al tavolo da gioco, provate il nostro laboratorio di probabilità. Muniti di dadi, carte, scatole e roulette cercheremo di capire la probabilità in maniera pratica.\
+*In collaborazione con il Museo del Balì.*
+
+**LAB MACHINE LEARNING\
+Ma come ha fatto a capirlo? Nella mente di un computer\
+**Le tecnologie che usiamo ogni giorno ci consigliano contenuti sulla base delle nostre abitudini, e per farlo in maniera efficace usano tecniche di statistica avanzata chiamate algoritmi per l’apprendimento automatico, o *machine learning*. Questo laboratorio si propone di mostrare tramite esempi pratici come funzionano questi algoritmi e di discutere col pubblico del ruolo che le macchine svolgono nella nostra società, e cosa dobbiamo aspettarci in futuro.
+
+**Letture consigliate:\
+***– R2D3*, an experiment in expressing statistical thinking <http://www.r2d3.us/>\
+– Frank Pasquale,*The Black Box Society: The Secret Algorithms That Control Money and Information* (Harvard University Press 2017)\
+– Grégoire Chamayou, *Teoria del drone* (Derive e Approdi 2014)
+
+------------------------------------------------------------------------
+
+**ATTIVITÀ GIORNO PER GIORNO**\
+
+**Mercoledì 5 settembre**\
+
+**• 16.00 – FISICA 1\
+L’informazione è fisica, o la fisica è un’opinione?\
+**La pagina di un libro contiene una quantità di informazione precisa, o questa dipende dal lettore? E quanta informazione continene il DNA? Se l’entropia è una misura del disordine del mondo, chi decide quanto è disordinata una camera da letto: la mamma o il bambino? Con gesso e lavagna si parte alla scoperta della fisica teorica!
+
+**Letture consigliate:\
+***–* Erwin Schrödinger, *Che cos’è la vita* (Adelphi 1995)\
+*–* James V. Stone, *Information Theory. A Tutorial Introduction* (Sebtel Press 2015)
+
+**• 19.00 – LAB STATISTICA 1\
+I piselli verdi rugosi fanno cadere in skateboard?\
+**Pare che comparire sulla copertina di *Sports Illustrated* “porti iella”: molti degli sportivi che vi sono immortalati poi iniziano una parabola discendente. Ma è veramente un fatto straordinario, oppure esiste una spiegazione semplice? In questo laboratorio cercheremo di comprendere le *fallacie statistiche*, ovvero quei particolari inganni che il cervello ci gioca quando ci confrontiamo con pattern di informazione. Affronteremo anche come queste stesse fallacie affliggono la produzione e l’interpretazione della conoscenza scientifica.
+
+**Letture consigliate:\
+***–* Ben Goldacre, *La cattiva scienza* (Mondadori Bruno, 2013)\
+*–* Alex Reinhart, *Statistics done wrong* (No starch press, 2015)
+
+------------------------------------------------------------------------
+
+**Giovedì 6 settembre**
+
+**• 10.00 – ELEMENTI 1\
+**Presentazione della programmazione quotidiana di Scienceground.
+
+**• 11.00 – METODI 1\
+“Uno studio americano dice che…” Gli articoli scientifici, questi sconosciuti\
+**Giornali e programmi televisivi pullulano di sezioni e rubriche dedicate alla scienza, ma da dove arrivano le notizie? Considerati (giustamente) difficili e costosi, gli articoli scientifici arrivano al pubblico filtrati da un complesso sistema di intermediazione. In un mondo sempre più preda delle cosidette “fake news”, è possibile approcciarsi a questa letteratura in maniera autonoma e critica?
+
+**Referenze consigliate:\
+***–* Ben Goldacre*, La cattiva scienza* (Mondadori Bruno, 2013)\
+*– Scientific Studies: Last Week Tonight with John Oliver (HBO),* *<https://www.youtube.com/watch?v=0Rnq1NpHdmw>\
+–* BMJ’s *How to read a paper* *<https://www.bmj.com/about-bmj/resources-readers/publications/how-read-paper>*
+
+**• 15.30 – DATA SCIENCE 1\
+Gruppo di lettura: *[Armi di distruzione matematica](http://www.giunti.it/libri/altra-manualistica/armi-di-distruzione-matematica/)* di Cathy O’Neal\
+**Modelli statistici e algoritmi matematici sono sempre più pervasivi. Considerati strumenti “obiettivi”, spesso però si nutrono degli stessi pregiudizi che condizionano le decisioni umane, rinforzandoli in maniera cieca e incontrollata. Quando questo succede siamo di fronte ad “armi di distruzione matematica”, così le definisce Cathy O’Neal nel libro omonimo. I pericoli? Maggiori disuguaglianze sociali e persino una minaccia per la democrazia. Con grande anticipo rispetto all’esplosione del caso sulla stampa internazionale, il libro, pubblicato nel 2016, citava già Cambridge Analytica e il suo uso di dati raccolti su Facebook. Ci guida nella lettura il professore Giuseppe De Nicolao, professore di Identificazione dei Modelli e Analisi dei Dati all’Università di Pavia.
+
+**Letture consigliate:\
+***–* Cathy O’Neal, *Armi di distruzioe matematica* (Giunti Editore 2017)\
+*–* Jerry Z. Muller, *The tyranny of metrics* (Princeton University Press 2018)
+
+**• 20.00 – ALTE ENERGIE 1\
+Web interview with Peter Woit: *Quo vadis high-energy physics?\
+***Sixteen years after Peter Woit’s paper *String Theory: An Evaluation* appeared on Cornell’s public archive, String Theory is still alive and kicking, and still “not even wrong,” a phrase by which Pauli dismissed a friend’s theory that made no experimental prediction. Some argue String Theory requires to re-think the scientific method, some say it is a dead end. What is the future of theoretical physics, and what are the social repercussions of the parabola of String Theory?
+
+**Letture consigliate:\
+***–* Peter Woit, *Neanche sbagliata. Il fallimento della teoria delle stringhe e la corsa all’unificazione delle leggi della fisica* (Codice, 2008).\
+– Tommaso Dorigo, *Anomaly! Collider Physics and the Quest for New Phenomena at Fermilab* (World Scientific Publishing Company, 2016).
+
+------------------------------------------------------------------------
+
+**Venerdì 7 settembre**
+
+**• 10.00 – ELEMENTI 2\
+**Presentazione della programmazione quotidiana di Scienceground.
+
+**• 10.30 – ALTE ENERGIE 2\
+Gruppo di lettura: *[Lost in Math](http://lostinmathbook.com)* di Sabine Hossenfelder\
+**In scienza teoria ed evidenze sperimentali dovrebbero procedere insieme. Eppure molte delle più accreditate ipotesi della fisica teorica non trovano ancora conferma empirica e forse mai l’avranno. Possiamo parlare ancora di scienza? E perché, secondo Sabine Hossenfelder, la ricerca della bellezza c’entra con questa crisi?
+
+**Letture consigliate:\
+***–* Sabine Hossenfelder, *Lost in Math. How beauty leads physics astray* (Basic Books, 2018)
+
+**• 16.00 – SOCIOLOGIA 2\
+Non chiamiamole tutte fake news! Conversazione con Massimiano Bucchi\
+**Quanto ne sappiamo davvero di scienza e tecnologia e perché spesso siamo diffidenti nei confronti dei dati, dei risultati e delle posizioni che provengono dal mondo degli esperti? Quali canali utilizziamo e di chi ci fidiamo di più quando ci informiamo di contenuti scientifici? A queste e ad altre domande cercheremo di rispondere esplorando con Massimiano Bucchi le dinamiche che regolano il complicato e spesso ambivalente rapporto tra opinione pubblica e scienza.
+
+**Letture consigliate:\
+**– Observa Science in Society, *Annuario Scienza Tecnologia e Società. Edizione 2018*, a cura di Giuseppe Pellegrini (Il Mulino 2018).\
+– Massimiano Bucchi, *Scienza e Società, introduzione alla sociologia della scienza* (Raffaello Cortina Editore. 2010).\
+– Massimiano Bucchi, *Sono lo scienziato, risolvo i problemi*. La Stampa, Tuttoscienze, 25 luglio 2018, reperibile su <https://mb.soc.unitn.it/articoli/>\
+– Massimiano Bucchi, *La scienza non è democratica ma lo diventa quando si applica nella società*. La Stampa, 20 dicembre 2017, reperibile su <https://mb.soc.unitn.it/articoli/>
+
+**• 19.00 – ALTE ENERGIE 3\
+Web interview with Sabine Hossenfelder:** *If we can’t test it, is it science?\
+*Following this morning’s reading group, we will interview Sabine Hossenfelder online.
+
+------------------------------------------------------------------------
+
+**Sabato 8 settembre**\
+
+**• 10.00 – ELEMENTI 3\
+**Presentazione della programmazione quotidiana di Scienceground.
+
+**• 10.30 – ALTE ENERGIE 4**\
+**Gruppo di lettura: *[Sette brevi lezioni di fisica](https://www.adelphi.it/libro/9788845929250)* di Carlo Rovelli**\
+A soli quattro anni dalla sua pubblicazione, *Sette brevi lezioni di fisica* è già un classico. Tuttavia, l’impegno di Carlo Rovelli come divulgatore viene da lontano: da quando rispolverò la sua passione per i filosofi greci. Uno in particolare: Anassimandro da Mileto.
+
+**Letture consigliate:**\
+*–* Carlo Rovelli, *Sette brevi lezioni di fisica* (Adelphi 2014).\
+*–* Carlo Rovelli,*Che cos’è la scienza. La rivoluzione di Anassimandro* (Mondadori 2017)\
+
+**11.30 – OUTREACH 1\
+Videointervista a Carlo Rovelli: Divulgare nell’era dell’infotainment\
+**L’editoria scientifica sta cambiando. Si accumulano libri che, rinunciando alla precisione dell’argomentazione, intrattengono il lettore con metafore, speculazioni, aneddoti. Questo tipo di “narrazione” avvolge la scienza in un alone di mistero quasi religioso. Altri libri invece vanno al cuore del ragionamento.
+
+**Letture consigliate:\
+***–* Richard Feynman, *Sei pezzi facili* (Adelphi 2000); *Sei pezzi meno facili* (Adelphi 2004)
+
+**• 15.00 – CRITTOGRAFIA\
+Cosa c’è dietro ai lucchetti verdi delle pagine web\
+**Quando mandiamo una mail o compiliamo un form con i dati della nostra carta di credito, il messaggio viaggia su una rete pubblica e chiunque è potenzialmente in grado di intercettarlo e modificarlo. Come è resa sicura la nostra comunicazione su internet e quali sono i limiti delle attuali strategie? Possiamo fidarci della tecnologia e di chi la gestisce?
+
+**• 16.00 – LAB STATISTICA 2\
+I film con Nicholas Cage causano l’annegamento?\
+**“Tutto ciò che sai è falso”: un motivetto ricorrente tra i complottisti amatoriali. In questo breve corso puoi diventare complottista PRO! E aggiornare la frase in: “Tutto ciò che sai non è vero”. Ups… ma non è esattamente lo stesso? E se fosse: “Tutto ciò che non sai può esser vero?”. Aiuto! In che senso un fatto è giusto o sbagliato? E di quali strumenti è necessario dotarsi per combattere “Big Data” e “Big Pharma”? Non troverete la risposta in questo laboratorio, ma in ogni caso la nostra non-risposta non è del tutto non-vera.
+
+**• 17.00 – STATISTICA 1\
+Gruppo di lettura: *[Statistics done wrong](https://www.statisticsdonewrong.com)* di Alex Reinhart\
+**In continuità con il laboratorio precedente, ci prepariamo ad intervistare Alex Reinhart autore di un manualetto brillante sull’uso e abuso dell’analisi statistica nelle scienze moderne.
+
+**Letture consigliate:\
+***–* Alex Reinhart, *Statistics done wrong* (No starch press, 2015)\
+*–* Il sito di Alex Reinhart è ricco di articoli <https://www.refsmmat.com/>
+
+**• 18.00 – STATISTICA 2\
+Web interview with Alex Reinhart: Falling prey of statistical fallacies\
+**“A few years ago I was an undergraduate physics major at the University of Texas at Austin. I was in a seminar course, trying to choose a topic for the 25-minute presentation all students were required to give. “Something about conspiracy theories,”, I told Dr. Brent Iverson, but he wasn’t satisfied with that answer. It was too focused and detailed. I studied the sheet of suggested topics in front of me. “How about scientific fraud and abuse?” he asked, and I agreed.”
+
+------------------------------------------------------------------------
+
+**Domenica 9 settembre**
+
+**• 10.00 – ELEMENTI 3\
+**Presentazione della programmazione quotidiana di Scienceground.
+
+**• 11.00 – SOCIOLOGIA 3\
+Harry Collins: The secret lives and histories of statistical data\
+**Are data objective? Where does the reputation of science come from? And is it in danger? Sociologist of science Harry Collins has long investigated this question, in many contexts: from the search of gravitational waves, to artificial intelligence.
+
+**References:\
+***–* Harry Collins, *Gravity’s ghost and big dog. Scientific discovery and social analysis in the XXIst Century* (Chicago Univ. Press, 2013)*–* Harry Collins, *Artifictional Intelligence: Against Humanity’s Surrender to Computers* (Wiley, 2018)
+
+**• 15.00 – OUTREACH 2\
+Riunione conclusiva\
+**La Piccola Comunità Scientifica Temporanea si riunisce per fare una valutazione dell’esperienza e per sciogliersi in un saluto finale. Il pubblico di Festivaletteratura è invitato alla riunione e a contribuire alla conversazione: con entusiasmo, ma con attenzione.
+
+------------------------------------------------------------------------
+
+*This project has received funding from Dyson, from the [European Union’s Horizon 2020 research and innovation programme](https://ec.europa.eu/programmes/horizon2020/en/) under the Marie Skłodowska-Curie grant agreements No 675440 – AMVA4NewPhysics and No 765710 – INSIGHTS, the innovation programme No 674979- NANOTRANS, and the project NanoThermo, ERC-2015-CoG Agreement No. 681456.*

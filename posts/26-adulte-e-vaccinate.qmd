@@ -1,0 +1,47 @@
+---
+title: "{#26} Adulte e vaccinate?"
+author: "ExTemporanea"
+date: 2022-04-06
+categories: ["Newslettera"]
+image: "/uploads/2022/02/vax1-1200x966.jpg"
+# source: www.extemporanea.eu/26-adulte-e-vaccinate (post id 3635)
+---
+
+![](/uploads/2022/02/vax1-1200x966.jpg){.featured-image}
+
+> «Non mi curo e non mi sono mai curato, anche se la medicina e i dottori io li rispetto. (Per di più sono anche superstizioso al massimo grado o per lo meno quanto basta per rispettare la medicina). Nossignori, non mi voglio curare, e non lo voglio appunto per cattiveria.»
+>
+> Fyodor Dostoevsky, *Memorie dal sottosuolo* (trad. Igor Sibaldi)
+
+*Stai leggendo la newsletter sporadica di eXtemporanea, una comunità ibrida che discute dello scientifico nella società, del sociale nelle scienze, e di tant’altro. Se non ricordi come ci hai conosciuto, forse il nostro sito [**scienceground.it**](/index.html) può aiutarti a recuperare le tracce. [**Qui**](/extemporanea.html) trovi i precedenti numeri.*
+
+Buongiorno pazienti impazienti!
+
+Dice Fyodor che per credere alla medicina ci vuole superstizione — come dimostra la [storia del dottor Semmelweis](/uploads/2020/02/fanzine_2-1.png) e dell’igienizzazione delle mani. Viceversa, per capire le convinzioni delle persone si può usare qualche grano di sale. Alla ricerca di un vaccino sulle mezze verità scientifiche spacciate a mezzo stampa.
+
+Ma bando alle ciance! Al suono di una voce amica vi lasciamo alle tante pietanze che stiamo cucinando, a partire dall’occasione di coinvolgervi personalmente nella libera lettura [***Linguistica per tutte***](/posts/linguistica-per-tutte.html): primo appuntamento [giovedì 14 Aprile alle 21:00](https://dudle.inf.tu-dresden.de/jhYCQ43YtQ/), il link verrà annunciato sulla pagina stessa e sul nostro [canale Telegram](https://t.me/extemporanea/).
+
+Una lingua con il bacio.
+
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="140" loading="lazy" src="https://archive.org/embed/dostoevsky_202203" width="500"></iframe>
+
+## Cosa bolle in pentola
+
+-   **Zerunizzazione!** Tre incontri di “alfabetizzazione scientifica” con ragazzi e ragazze di tre classi di una scuola superiore di Como. Abbiamo provato a capire come l’interazione fra scienza e società proceda attraverso processi di interpretazione, mediazione e traduzione. Due esempi pratici: il caso di come lo stesso risultato scientifico possa essere comunicato in modi diversi a seconda del taglio giornalistico scelto, e il caso di come diverse rappresentazioni degli stessi dati possano suggerire spiegazioni diverse dello stesso fenomeno.
+-   **La sindemia e altre storie.** Su CoViD siamo sempre state reticenti a esprimerci. Non che non ci abbiamo provato: le discussioni interne sono state accese, e più di una volta abbiamo inforcato la penna, ma il frullatore dei fatti impediva qualsiasi tipo di sedimentazione. Ora che la pandemia volge forse a un finale [poco telegenico](https://www.bmj.com/content/375/bmj-2021-068094), e che alcune di noi si preparano a partecipare al convegno [Tutta un’Altra Storia](http://tuttaunaltrastoria.info/), rompiamo il ghiaccio con un’**[intervista alla sociologa Jennifer A. Reich](https://jacobinitalia.it/la-sfida-del-dia)** a proposito del rifiuto dei vaccini.
+-   **Plastiche e microplastiche**. Si è recentemente chiusa una [consultazione pubblica della Commissione Europea](https://ec.europa.eu/environment/consultations/web-based-public-consultation-policy-framework-biobased-biodegradable-and-compostable-plastics_en) su plastiche e microplastiche. Nell’attesa dei risultati, ci prepariamo a interpretarli. Trovate sul webmagazine realizzato dal Master in Giornalismo e Comunicazione Istituzionale della Scienza dell’Università di Ferrara, [Agenda 17](https://www.agenda17.it/), un [nostro contributo](https://www.agenda17.it/2022/03/12/una-nuova-legislazione-europea-sulle-plastiche-con-il-parere-dei-cittadini/).
+
+<img src="/uploads/2022/02/vax2-300x250.jpg" class="alignnone wp-image-3050" width="690" height="575" />
+
+## Dal rusco linguacciuto: [*drosscape*](/posts/rho1-drosscape.html)
+
+**Territorio residuale**: «È il tentativo da un lato di concretizzare e dall’altro di sgravare il termine di partenza. Nel primo caso si nota come “paesaggio” abbia una connotazione troppo poetica che rischia di depistare il destinatario (cosa che peraltro succede spesso quando si parla di architettura del paesaggio). La parola “territorio” sembra invece più adatta alla concretezza e asprezza della realtà in questione.» [Continua…](/posts/rho1-territorio-residuale-drosscape.html)
+
+<img src="/uploads/2022/02/vax3-300x221.jpg" class="alignnone wp-image-3049" width="858" height="632" />
+
+## Consigli di lettura
+
+-   *«La grande intuizione del dopoguerra fu l’assoluta centralità della salute di fronte a un’Europa grande ospedale da campo. Nel terzo anno del Covid-19 nel nostro paese sembra che la lezione non sia stata imparata, a vedere la legge lombarda che privilegia i privati. Mentre infuria una nuova emergenza guerra.»* Potete proseguire la lettura [qui](https://sbilanciamoci.info/salute-e-guerra-una-lezione-al-contrario/).
+-   Che implicazioni ha l’utilizzo ripetuto e prolungato del gel idroalcoolico sulla nostra pelle? Fino a che punto previene la trasmissione di agenti patogeni? [Qui](http://cpncampus.com/biblioteca/files/original/505f7f26c9e63d8a69af7dce8ca966a4.pdf#page=68) un estratto da un manuale di microbiologia e [un articolo sul rapporto tra igiene e microbioma umano](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-017-0294-2).
+-   Trovate microplastiche in campioni di sangue umano. La notizia in italiano [qui](https://www.ansa.it/canale_scienza_tecnica/notizie/biotech/2022/03/24/le-microplastiche-finiscono-nel-sangue-ce-la-prima-prova-_c7b6b561-c4e8-4a80-bcf5-c33b1bf6bdfd.html). L’articolo del Guardian [in inglese](https://www.theguardian.com/environment/2022/mar/24/microplastics-found-in-human-blood-for-first-time?CMP=Share_AndroidApp_Other).
+-   Non viviamo solo un’epoca di enormi scarti antropogenici, ma anche relazionali. Stefano Dalla Casa parla con Marco Armiero di [*wastocene*](https://www.iltascabile.com/scienze/wasteocene/?fbclid=IwAR31kR9_Yj6v1ro1yoAmg4xL5h1jlCk21RvcLkgMaVmFf9SWYyf33o_iS_8).

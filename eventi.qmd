@@ -1,0 +1,8 @@
+---
+title: "Eventi"
+listing:
+  contents: "/events/*.qmd"
+  sort: "date desc"
+  type: table
+  fields: [date, title]
+---

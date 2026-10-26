@@ -1,0 +1,102 @@
+---
+title: "Di che materiale sono fatti i sogni (e gli altri pensieri)"
+author: "danilo"
+date: 2021-06-20
+categories: ["@Festivaletteratura", "Libere Letture"]
+keywords: ["autorganizzazione", "Donna Haraway", "intelligenza", "Laura Tripaldi", "materiali"]
+image: "/uploads/2021/06/Paric_LavenderFields_scaled-1200x810.jpg"
+# source: www.extemporanea.eu/di-che-materiale-sono-fatti-i-sogni (post id 1795)
+---
+
+![](/uploads/2021/06/Paric_LavenderFields_scaled-1200x810.jpg){.featured-image}
+
+## Libera Lettura di *Menti parallele* di Laura Tripaldi
+
+> Se la mente del ragno si estende nelle profondità della struttura microscopica delle fibre della sua seta, cosa sogna il ragno-cyborg che dorme nella sua tela bionica cablata di grafene? Quali vibrazioni di prede sconosciute raggiungono i neuroni nelle sue otto zampe? Come scorre l’informazione attraverso la nostra spina dorsale quando il nostro midollo si intreccia con i nanotubi di carbonio? Questre strane ibridazioni rivelano la labilità del confine che divide la nostra coscienza dal mondo che ci circonda, e gli oggetti che studiamo dal soggetto che li studia. Creando nuovi strumenti e ambienti completamente nuovi, la tecnologia dei nuovi materiali non si limita a farci scoprire una natura preesistente, che ci rivela man mano i propri segreti; al contrario, contribuisce attivamente alla costruzione di nuove realtà.\
+> Laura Tripaldi, *Menti parallele*
+
+<figure class="wp-caption aligncenter">
+<img src="https://codimd.s3.shivering-isles.com/demo/uploads/upload_5da0b509d15bd477d14adb9e1c9c53f9.jpg" title="Femmina di Oxyopes dumonti (lynx) spider, Antoine Franck " width="3200" height="2128" alt="Femmina di Oxyopes dumonti, Antoine Franck " />
+<figcaption>Fonte: https://www.nikonsmallworld.com/galleries/2019-photomicrography-competition/female-oxyopes-dumonti-lynx-spiderte)</figcaption>
+</figure>
+
+Quest’anno uno dei percorsi delle *Libere Letture* proposti da Festivaletteratura ci porta a confrontarci con le scienze dei materiali. Se vi sembra un argomento troppo arido a cui dedicare tempo in questa estate, sappiate che lo scopo dichiarato del libro che vi proponiamo è proprio quello di sorprendere. Come? Mostrando l’incredibile estensione e l’attualità delle implicazioni di questo campo *ibrido* del sapere, in bilico fra passato e futuro, chimica, fisica e biologia, ricerca avveniristica e applicazioni industriali. Cercheremo insieme di dipanare il filo che lega l’arte della *tessitura* alla *chimica* dei polimeri e ad altre tecnologie contemporanee, fino a contemplare l’idea che dai materiali innovativi possano emergere nuovi paradigmi di intelligenza.  Nel farlo, ci interrogheremo su cosa vuol dire produrre saperi scientifici nel mondo contemporaneo.
+
+**Menti Parallele**, il breve *saggio pop* uscito recentemente per Effequ, scritto da **Laura Tripaldi**, offre ampi spunti di riflessione su questi temi, declinati ora in chiave filosofica, ora mitologica oppure tecnico-scientifica. L’autrice, dottoranda in Scienze dei materiali all’Università di Milano-Bicocca, propone infatti una ricca trama di teorie, dibattiti e citazioni tratte da diversi campi d’indagine, accademica e non solo. [Qui trovate un’intervista](https://not.neroeditions.com/segnali-di-vyta/?fbclid=IwAR3t8lJIVNFjTCiJ--QfysszDeCU74gjiMZiA6UBzqD04NEKFMxpRhroF3k) per Medusa in cui l’autrice introduce il suo lavoro. Vorremmo approfondire con voi alcune tracce del libro, invitandovi a uno scambio di idee, letture, video, musiche, esperimenti…
+
+## Regole del gioco
+
+<figure class="wp-caption aligncenter">
+<img src="https://codimd.s3.shivering-isles.com/demo/uploads/upload_23919a69ad694d77ace87a7c81a671a9.jpg" title=" Schermo a cristalli liquidi, Alexey Marchenko" width="3200" height="2133" alt=" Schermo a cristalli liquidi, Alexey Marchenko" />
+<figcaption>Fonte: https://www.nikonsmallworld.com/galleries/2020-photomicrography-competition/liquid-crystals-in-a-mobile-lcd-screen</figcaption>
+</figure>
+
+La Libera Lettura di *Menti parallele* fa parte del programma di Scienceground 2021 al [Festivaletteratura di Mantova](https://www.festivaletteratura.it) e avremo tutta l’estate per confrontarci intorno a questo libro. Come partecipare?
+
+1.  Procurandovi il libro, per esempio a [questo link](https://www.bookdealer.it/libro/9788898837946/menti-parallele-scoprire-lintelligenza-dei-materiali).
+2.  **Entrando nel gruppo Telegram (ricevuto via email) per chiacchierare insieme**: sarà una chat informale per discutere, postare materiali e organizzarsi rapidamente. Il [canale Telegram di Extemporanea](https://t.me/extemporanea), invece, servirà a noi per comunicarvi novità e aggiornamenti, incluse le date degli streaming.
+3.  Arricchendo la discussione proprio **qui**, sulla pagina del blog: usate pure i commenti per elaborare le vostre riflessioni e suggerire altri materiali (video, brani musicali, ulteriori letture…) che vi sembrano interessanti.
+4.  Partecipando ai collegamenti **streaming**: nei primi due incontri ci confronteremo a voce sui percorsi di lettura che proponiamo di seguito, provando anche a dare un’idea di *cosa significa fare ricerca* negli ambiti toccati dal libro. Nell’ultimo incontro le riflessioni sviluppate insieme culmineranno in una videointervista collettiva all’autrice.
+
+## Percorsi e materiali di lettura (e non solo)
+
+Per vivacizzare la lettura del libro, proponiamo di seguito quattro chiavi di lettura.
+
+### 1. Tecnologie *soft* e scarti immaginari
+
+<figure class="wp-caption aligncenter">
+<img src="https://codimd.s3.shivering-isles.com/demo/uploads/upload_e1930507c5e7f8ce970b9d2e54e23543.jpg" title="Filamenti di nylon in una calza, Alexander Klepnev" width="3200" height="2133" alt="Filamenti di nylon in una calza, Alexander Klepnev" />
+<figcaption>Fonte: https://www.nikonsmallworld.com/galleries/2020-photomicrography-competition/nylon-stockings</figcaption>
+</figure>
+
+Parleremo di *cultura materiale* e tecnologie tessili, tradizionalmente rimosse dalla nostra memoria dell’evoluzione tecnologica: i tessuti e il legno non lasciano **tracce** paragonabili a quelle delle cosiddette tecnologie “dure” (fatte di pietra, metallo). Diventano così scarti dell’immaginario nella ricostruzione della storia delle tecnologie. Questo scarto riflette anche una divisione sessualizzata del lavoro materiale, essendo la tessitura prerogativa tipicamente femminile: dovremmo continuare a parlare solo di “età della pietra”, o piuttosto delle [tecnologie deperibili](https://www.chemistryworld.com/review/handmade-a-scientists-search-for-meaning-through-making/4013503.article) che la rendevano possibile?
+
+-   Volete esplorare altre tecnologie all’apparenza obsolete che potrebbero invece risultare determinanti per ridurre l’impatto ambientale dell’umanità? Vi suggeriamo di dare un’occhiata a [Low-tech magazine](https://solar.lowtechmagazine.com/it), un sito web statico, ottimizzato per limitare il consumo energetico e ospitato su un server autoprodotto alimentato a energia solare. Un esempio che ci è piaciuto è quello della [fermentazione](https://solar.lowtechmagazine.com/2017/02/vietnams-low-tech-fermentation-food-system-takes-advantage-of-decay.html), un’altra tecnologia “obsoleta” che risuona molto con le riflessioni di Tripaldi sulle tecnologie dimenticate della storia, spesso anche perché patrimonio di categorie sociali o popolazioni discriminate.
+-   Consigliamo vivamente il documentario [L’invenzione dei pantaloni](https://invidious.kavin.rocks/watch?v=Pl7siWwzibs) (in inglese). Partendo da un problema archeologico (la datazione di una tomba contenente i pantaloni più antichi della storia), si arriva ad interrogarsi sulla costruzione della credibilità scientifica di una datazione attraverso un intreccio di misure e ragionamenti, sulla coevoluzione fra clima, piante, umani e animali domestici, fino a mostrare quale valore conoscitivo possono avere ancora oggi delle tecniche artigianali di filatura. A questa matassa interdisciplinare si può aggiungere anche l’analisi della [storia dell’associazione fra pantaloni e genere](https://time.com/4363815/history-women-pants-hillary-clinton/).
+-   Laura Tripaldi ha esplorato più in dettaglio il rapporto fra tessitura e tecnologie digitali partendo da una rilettura della filosofa [Sadie Plant in un recente articolo uscito sul Tascabile.](https://www.iltascabile.com/scienze/sadie-plant/)
+
+### 2. Miti fondativi
+
+<figure class="wp-caption aligncenter">
+<img src="https://codimd.s3.shivering-isles.com/demo/uploads/upload_5a798efe9c945bee90b70472b1282e0a.jpg" title="Cellule cerebrali di topo cresciute in un labirinto microfluidico, Esmeralda Paric e Holly Stefen" width="3200" height="2160" alt="Cellule cerebrali di topo cresciute in un labirinto microfluidico, Esmeralda Paric e Holly Stefen" />
+<figcaption>Fonte: https://www.nikonsmallworld.com/galleries/2020-photomicrography-competition/mouse-brain-cells-grown-within-a-microfluidic-maze</figcaption>
+</figure>
+
+*Menti parallele* offre l’occasione di ripensare i miti dell’antichità classica relativi a intelletto, tecnologia, scienza: cosa raccontano *oggi* le vicende di Prometeo, Aracne, Icaro? Che influenza tangibile hanno avuto su come concepiamo la divisione dei ruoli nei nostri gruppi sociali?
+
+Ampliando il discorso, parleremo dei miti che alimentano la scienza dall’interno: ad esempio nel caso di [Eric Drexler](https://en.wikipedia.org/wiki/K._Eric_Drexler), del Foresight Institute e del premio Feynman. Una storia in cui a fianco a tecnologie avanzate e teorie sofisticate non mancherà la competizione, combattuta anche a suon di propaganda, fra comunità di ricerca diverse sulla possibilità di manipolare la materia in scala atomica.
+
+-   Laura Tripaldi ha pubblicato [un articolo che analizza questo tema più da vicino](https://www.iltascabile.com/scienze/materia-programmabile/).
+-   Rapper, (slam) poet, performer, **Kae Tempest** è Poeta della Nuova Generazione secondo la *Poetry Book Society* (UK), un prestigioso riconoscimento del suo talento con le parole. C’è chi fa paragoni con il Bardo, sicuramente è impossibile non lasciarsi toccare dal suo *flow*. Un’edizione italiana di *Brand New Ancients*, in cui Tempest rielabora miti classici per orientarsi in questo complesso presente postmoderno, è disponibile [qui](https://www.bookdealer.it/libro/9788833571423/antichi-nuovi-di-zecca-brand-new-ancients-testo-inglese-a-fronte). Per chi volesse lasciarsi trasportare sulle ali del suo accento londinese in volo con Icaro, rimandiamo [qui](https://invidious.kavin.rocks/watch?v=yv5fggapRwQ).
+-   Sul ruolo della retorica e delle strategie retoriche di propaganda nella storia della scienza, consigliamo di spulciare le argomentazioni, provocatorie ma per noi attualissime, contenute in *Contro il metodo* di **Paul K. Feyerabend**.
+-   Infine, un testo di riferimento fondamentale per un discorso critico sulle comunità scientifiche e i loro *modus operandi* è **Non siamo mai stati moderni** di **Bruno Latour**. Gli strumenti dell’antropologia, solitamente rivolti a un esotico Altro/altrove, vengono usati per leggere e indagare le nostre stesse pratiche, in particolare quelle dei laboratori, dei centri di ricerca, delle università. In fondo, si tratta di gruppi sociali come tutti gli altri, con i propri riti, miti, linguaggi…
+
+### 3. Pensare le menti: informazione, *sensing*, fenomeni collettivi
+
+<figure class="wp-caption aligncenter">
+<img src="https://codimd.s3.shivering-isles.com/demo/uploads/upload_44f09342795b30445429d5b002424efe.jpg" title="Laurent Formery, Muscoli e sistema nervoso di un giovane riccio di mare" width="1856" height="1856" alt="Laurent Formery, Muscoli e sistema nervoso di un giovane riccio di mare" />
+<figcaption>Fonte: https://static3.olympus-lifescience.com/data/Image/Landing-Directory/ioty2020/dl/ioty2020_honorable_france.jpg?rev=B232</figcaption>
+</figure>
+
+Tripaldi introduce i concetti di informazione e autorganizzazione, partendo dalla nascita della cibernetica e descrivendo poi l’insieme di conoscenze che vengono definite “teoria della complessità” (una parola-ombrello che racchiude teoria matematica dei sistemi dinamici, fisica e ingegneria delle reti, [modelli matematici](https://invidious.kavin.rocks/watch?v=HmCsEqd3oEo) e [sperimentali](https://www.pnas.org/content/115/27/6916) per studiare i processi di autorganizzazione della materia o lo scambio di informazione con l’ambiente). L’idea di questo percorso tematico è di contestualizzare alcune di queste conoscenze, ad esempio descrivendo il contesto storico in cui sono stati portati avanti i vari programmi scientifici, oppure esplorandone le connessioni con altri campi della cultura e rintracciandone alcuni degli esiti attuali (la teoria dei controlli e le macchine autonome, il *quantified-self*, le reti complesse e i social network ecc.).
+
+Infine, partendo dal testo tenteremo di indagare le interazioni che ci sono tra le teorie scientifiche e le idee su cui viene modellata la società. In particolare, ci soffermeremo sul ruolo che hanno (e che hanno avuto) le idee di [*fenomeno collettivo*](https://www.ted.com/talks/deborah_gordon_inside_the_ant_colony) e *autorganizzazione* nel nostro immaginario o sul modo con cui [cerchiamo soluzioni ai nostri problemi](https://en.wikipedia.org/wiki/Stochastic_optimization).
+
+-   Ecco un video musicale che ci ha fatto sorridere (e che è anche molto accurato!) su [come costruire un “nanobot”](https://invidious.kavin.rocks/watch?v=ObvxPSQNMGc). E per chi non vede l’ora di mettere le mani in pasta, una serie di video su come produrre i **giardini chimici** di cui si parla nel libro: [1](https://invidious.kavin.rocks/watch?v=jPJFU7i_CEI), [2](https://invidious.kavin.rocks/watch?v=iez_LDDyKG0), [3](https://invidious.kavin.rocks/watch?v=sAr7mvBjWq8).
+-   Raccogliamo qui altri due esempi visualmente efficaci di [auto-organizzazione](https://invidious.kavin.rocks/watch?v=PeHWqr9dz3c) e di comportamenti di sistemi [fuori equilibrio](https://invidious.kavin.rocks/watch?v=SRGf0Mq2Zwg).
+-   Un’altra direzione un cui si può approfondire questo percorso è quella legata alle questioni filosofiche relative a cosa sia una mente: quali sono le relazioni fra Cartesio, Kant, cibernetica e le [recenti teorie della cognizione](https://plato.stanford.edu/entries/embodied-cognition/#EmbVsTraCogSci)?
+-   La teoria delle reti complesse è stata (ed è tuttora) molto di moda, anche grazie a libri popolari come *Link* di Albert-László Barabási. Se volete una rapida introduzione ai concetti principali, [ecco un buon video introduttivo in italiano](https://invidious.kavin.rocks/watch?v=0nnO_gTXiFA). Ci interessa però anche riflettere sui possibili [esiti problematici di questo programma di ricerca](https://www.nature.com/articles/d41586-021-01169-7).
+
+### 4. Metodologie, pratiche e comunità nelle scienze
+
+<figure class="wp-caption aligncenter">
+<img src="https://codimd.s3.shivering-isles.com/demo/uploads/upload_461e2450353f15bed8d34c417e4a2887.jpg" title="Embrione di Octopus bimaculoides, Martyna Lukoseviciute e Dr. Carrie Albertin" width="3200" height="3200" alt="Embrione di Octopus bimaculoides, Martyna Lukoseviciute e Dr. Carrie Albertin" />
+<figcaption>Fonte: https://www.nikonsmallworld.com/galleries/2019-photomicrography-competition/octopus-bimaculoides-embryo</figcaption>
+</figure>
+
+Come si fa scienza oggi? Partiamo dalla bibliografia di *Menti parallele*, che conta diversi articoli scientifici molto recenti, alcuni disponibili per la lettura e altri dietro *paywall*: di che si tratta? Come si relazionano le comunità scientifiche alle società civili? Cosa ha di “scientifico” una teoria scientifica? Queste e altre domande sui **metodi** delle scienze ci accompagneranno lungo ciascuno dei percorsi di lettura. Di sotto un paio di approfondimenti a completare il quadro presentato finora.
+
+-   Un bel documentario che racconta — o meglio denuncia — lo “stato dell’arte” del mercato dell’editoria scientifica è [Paywall: The Business of Scholarship](https://invidious.kavin.rocks/watch?v=HM_nWsdbNvQ). Provate a indovinare quanto costa farsi pubblicare un articolo scientifico su una rivista prestigiosa come *Nature*: se ci siete andate anche solo vicine, complimenti vivissimi! Sullo stesso tema, e sempre in inglese, consigliamo la lettura di [questa inchiesta del Guardian](https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science).
+-   A Festivaletteratura avrete inoltre l’occasione di partecipare a un **laboratorio di traduzione collettiva** di un articolo di **Donna Haraway**, scienziata e filosofa femminista, sulle [*conoscenze situate*](https://www.jstor.org/stable/3178066). A partire dalle analisi delle femministe statunitensi sulla storia della scienza, Haraway interroga le categorie di “oggettività”, “neutralità” e “universalità” tanto care all’impresa scientifica moderna, rimettendole in discussione in favore di un posizionamento parziale, l’unico attendibile, che non scada in un relativismo assoluto — strizzando un occhio al già citato Latour. Se vi sentite perdute, sappiate che non siete sole! Siamo felici di proporre un momento di confronto sul testo originale (in lingua inglese), per soffermarci tanto su alcuni problemi di traduzione di lessico, che di contenuti, nel tentativo di abbozzare altri modi di “fare scienza”.
+
+#### Questi percorsi di lettura toccano solo alcuni fra i possibili fili della tela con al centro *Menti parallele*, e potranno crescere grazie alle interazioni che intreccerete voi! Noi non vediamo l’ora di cominciare 🙂

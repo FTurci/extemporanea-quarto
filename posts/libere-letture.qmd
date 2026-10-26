@@ -1,0 +1,9 @@
+---
+title: "Libere Letture"
+author: "ExTemporanea"
+date: 2022-03-11
+categories: ["Libere Letture"]
+# source: www.extemporanea.eu/libere-letture (post id 3340)
+---
+
+Ogni anno eXtemporanea seleziona alcuni libri (romanzi, saggi, pubblicazioni scientifiche) che ben si prestano ad una discussione sul ruolo sociale della scienza. Partendo da passaggi selezionati, ospiti e pubblico li discutono insieme alla ricerca di nuove e soprattutto *libere* letture.

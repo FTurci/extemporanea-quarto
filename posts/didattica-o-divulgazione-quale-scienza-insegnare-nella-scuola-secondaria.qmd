@@ -1,0 +1,93 @@
+---
+title: "Didattica o divulgazione: quale scienza insegnare nella scuola secondaria?"
+author: "Tomate"
+date: 2022-09-06
+categories: ["@Festivaletteratura"]
+image: "/uploads/2022/09/didattica.jpg"
+# source: www.extemporanea.eu/didattica-o-divulgazione-quale-scienza-insegnare-nella-scuola-secondaria (post id 3944)
+---
+
+![](/uploads/2022/09/didattica.jpg){.featured-image}
+
+## Invito alla discussione – OFF Scienceground 1.625 – Giovedì 8 alle 18.30, ARCI Virgilio, Mantova
+
+*Proponiamo una discussione aperta, stimolata da una breve presentazione, rivolta prevalentemente a insegnanti, a studenti e studentesse, e a ricercatrici e ricercatori. Il proponente è un insegnante con formazione da fisico che parla a partire dalla propria esperienza, quindi con i suoi esempi e il suo punto di vista, ma volenteroso di aprirsi e confrontarsi con altre discipline e approcci.*
+
+### 1. Uno studente domanda “Perché dobbiamo imparare la fisica?”
+
+La domanda che dà inizio a questa presentazione è quella, all’apparenza banale, che come insegnante mi sono sentito porre più volte. La risposta più soddisfacente che sono stato in grado di produrre, con tutti i suoi limiti, è la seguente:
+
+> *“Ogni materia e argomento non porta con sé le sole nozioni ma soprattutto una struttura concettuale, che quando appresa crea una struttura di pensiero. La classe dirigente dello Stato ha seguito un percorso di istruzione simile al vostro, quindi **imparare le materie proposte dal Sistema Educativo Nazionale porta lo studente ad avere un linguaggio e delle strutture cognitive simili alla classe dirigente del Paese**. Anche se si vuole criticare o ribaltare la gerarchia, è utile conoscerne i linguaggi”*
+
+Il limite principale di questa risposta, ispirata al pensiero di Don Milani, è la sua inattualità. La scuola purtroppo non è più centrale all’interno della società, la classe dirigente si forma altrove e **il tempo dell’apprendimento è sempre più visto come tempo rubato al tempo dell’informarsi**. Mi sento di aggiungere anche una battuta cinica, ma in parte veritiera, che gira tra gli insegnanti miei coetanei: ossia che l’insegnamento sia un **ammortizzatore sociale per laureati**.
+
+### 2. Didattica e divulgazione, formarsi e informarsi
+
+La **didattica** fornisce a studenti e studentesse strumenti per formulare e risolvere problemi complessi. Spesso segue un modello unidirezionale (dall’insegnante al discente), ma il discente può proporre critiche in merito ai contenuti, e la discussione è possibile in questo ambito. La didattica è dispendiosa in termini di tempo perchè va a creare delle strutture cognitive nelle menti. Per questo spesso è necessario un lavoro di semplificazione e riduzione di problemi complessi, che spesso però vengono affrontati con percorsi didattici ideati più di cinquanta anni fa.\
+Le solo innovazioni sono avvenute nelle forme e nei metodi ma non nei contenuti.
+
+La **divulgazione** offre una narrazione su percorsi di ricerca aperti, informa quindi i destinatari sulle ricerche attive presenti e future. Crea fascinazione e quindi consenso verso la comunità scientifica e i suoi modelli sociali. Il modello di comunicazione è unidirezionale, e il destinatario della divulgazione non sviluppa nuove forme di pensiero, ma raccoglie prevalentemente informazioni che possono averlo colpito o meno, anche in base alla propria personalità. Non è possibile proporre critiche perché la struttura del discorso divulgativo non è completa. Questo fa sì che se apprendiamo la scienza solo informandoci – e non formandoci — si và incontro a un approccio acritico verso le scoperte scientifiche, non diverso da modelli fideistici e autocratici di cui il discorso scientifico è stato spesso apertamente critico.
+
+*Un esempio che dà la cifra di come siano distinte didattica e divulgazione lo si trova nell’errore. Un insegnante che prova a ricavare una spiegazione, ricostruendola, può commettere degli sbagli e il momento in cui se ne rende conto e li corregge sono momenti molto formativi per gli studenti .Un divulgatore non puo’ permettersi nessuna incertezza se vuole fare buona divulgazione.*
+
+La missione della scuola sarebbe la didattica, ma su alcuni argomenti si fa didattica e su altri si fa divulgazione. Perché?
+
+-   Non sono stati individuati problemi chiave.
+-   Non è stata sviluppata una metodologia adeguata ad affrontarli.
+-   Gli argomenti sono troppo avanzati per essere semplificati.
+
+Il risultato è che si instaura un’idea di scienza come argomento irriducibilmente complesso, la cui discussione spetta all'”autorità scientifica” la cui autorevolezza, però, non è possibile né comprendere né criticare.
+
+### 3. Nuovi problemi e aggiornamenti ministeriali
+
+Nel 2012 con la riforma della Buona Scuola si è avuto un aggiornamento nei programmi ministeriali che ha portato a inserire la fisica del ‘900 nei programmi scolastici, non solo dei licei scientifici.
+
+Sono stati introdotti:
+
+-   Relatività ristretta;
+-   Fisica Quantistica (Quantizzazione della luce);
+-   Fisica Quantistica (Radiazione da Corpo Nero);
+-   Fisica Nucleare (Fissione e Fusione);
+-   Cenni di Cosmologia e Fisica delle Particelle.
+
+Bisogna sottolineare che nella tradizione della pubblica istruzione italiana, di reame e di repubblica, si segue un approccio storico consequenziale nel presentare le materie agli studenti. Anche questi “nuovi” argomenti sono stati scelti secondo questo criterio. Le principali critiche che farei sono due e sono distinte:
+
+-   La ricostruzione storica del processo scientifico è spesso approssimativa, se non addirittura mitologica. In particulare si trascurano i fattori sociali che hanno portato all’affermarsi di questa o quella teoria scientifica e si dimentica il ruolo fondamentale di teorie che, a distanza di decenni, si sono rivelate perdenti ma hanno contribuito alla formazione dei concetti. Inoltre è data spesso enfasi ai raggiungimenti individuali, che sono spesso figli di un revisionismo riduzionista e non danno una rappresentazione articolata del processo scientifico e del ruolo delle comunità.
+-   Non si è tagliato il programma in modo significativo per fare spazio al nuovo: si è semplicemente operato aggiungendo. Sono abbastanza sicuro che quando Giovanni Gentile scrisse i programmi della scuola pubblica italiana abbia riflettuto e discusso a lungo su quali argomenti selezionare, costretto a fare molte rinunce.
+
+Infine, la scelta degli argomenti è anche discutibile. Un’alternativa sarebbe potuta essere incentrata su quelle fisiche meno “pure” ma che hanno importanza per i nuovi problemi della società.
+
+-   Statistica e indagini demoscopiche
+-   Informatizzazione di massa e esplosione dei dati.
+-   Network Science (Internet e social networks)
+-   “Intelligenza Artificiale” e apprendimento automatico.
+
+### 4. Obiettivi degli aggiornamenti
+
+1.  Creare consenso verso gli investimenti contemporanei nella ricerca
+2.  Invogliare gli studenti ad iscriversi alle materie scientifiche
+
+Inoltre un insegnamento divulgativo anziché didattico porta lo studente a riconoscersi subordinato verso un’autorità scientifica che poi diventerà autorità in ogni campo, autorità tecnica e quindi prima economica e poi politica.
+
+### 5. Esempi di cattiva didattica
+
+Una buona didattica della fisica deve prima suscistare e poi soddisfare la curiosità spontanea dello studente nel dare una spiegazione a ciò che lo circonda, che sia il funzionamento di uno strumento artificiale o un fenomento naturale. Questo si ottiene insegnando ad osservare, ossia a misurare le condizioni di partenza o sperimentali del fenomeno che vogliamo studiare.
+
+Due tipologie di didattiche che ritengo sbagliate per opposte ragioni sono le seguenti:
+
+-   **L’insegnamento della fisica attraverso il formalismo e le formule**. *Esempi:* Leggi di Keplero a partire dalla conservazione del momento angolare senza evidenze sperimentali e osservazioni. Il formalismo termodinamico.
+-   **L’insegnamento della fisica attraverso il solo stupore** proponendo fenomeni in cui non sono chiare le condizioni iniziali e di misura. *Esempi:* Combustione di una candela sottovetro isolata dall’acqua, gli esperimenti di Galvani sulle rane.
+
+### 6. Proposte di didattica della fisica moderna
+
+Non voglio per questo rifiutarmi di insegnare la fisica del XX secolo proposta dal ministero e nello specifico credo che questi nuovi argomenti siano un terreno molto fertile per una didattica della fisica nuova, ad esempio i seguenti percorsi didattici che sono stati già oggetto di sperimentazioni in Italia e all’estero.
+
+-   La **Relatività Ristretta** come esempio di rivoluzione scientifica secondo Khun e quindi di cambio di paradigma. Il problema da porre allo studente è: Quando e come è che avviene un cambio di prospettiva, una rivoluzione storica? Che processo si innesca? Concetti di: Condizioni di validità, approssimazioni, limiti di un modello, precisione di misura, coesistenza di due modelli diversi che danno luogo alla stessa approssimazione (quindi misure).
+-   La **Fisica Quantistica**: Il problema dell’interpretazione, la distanza ontologica tra modello e realtà, le scelte interpretative come scelte sociopolitiche, e ancora l’oggetto quantistico o la dualità onda-aprticella (ancora due modelli diversi che danno luogo alle stesse misure).
+
+### 7. Proposta di discussione
+
+-   Come rispondete a una classe scolastica che chiede “Perché devo imparare l’elettrostatica?”
+-   Si possono fare ragionamenti simili per altre materie, come la matematica, la biologia, la chimica etc.
+-   Il futuro della scienza nelle scuole sta nella storia o nell’interdisciplinarietà?
+-   Perché nell’ultimo mezzo secolo non siamo riusciti a sviluppare una didattica dei problemi contemporanei?

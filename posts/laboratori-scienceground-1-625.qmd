@@ -1,0 +1,90 @@
+---
+title: "Laboratori @ Scienceground 1.625"
+author: "Tomate"
+date: 2022-08-10
+categories: ["@Festivaletteratura"]
+image: "/uploads/2022/08/sg13.jpg"
+# source: www.extemporanea.eu/laboratori-scienceground-1-625 (post id 3884)
+---
+
+![](/uploads/2022/08/sg13.jpg){.featured-image}
+
+### Misurare le metamorfosi ambientali (a cura di AUGMan, laboratorio su due giorni)
+
+##### Venerdì 9 e sabato 10, dalle 17.15 alle 19.30, Cappella del Mago
+
+In questo laboratorio su due giorni, si ragionerà sui cambiamenti a livello fisico e chimico che avvengono comunemente in un habitat terrestre, per costruire gli strumenti con cui misurarli e ragionare sulle osservazioni, a partire da sistemi diversi (con AUGMAN e Marco Bartoli).
+
+Il laboratorio è realizzato su due giorni:
+
+-   giorno 1: principi del monitoraggio ambientale, principi di Arduino e sensoristica, il monitoraggio ambientale con Arduino (alcune semplici applicazioni)
+-   Giorno 2: monitoraggio su diverse scale ambientali (laghi di Mantova, ambienti chiusi, microcosmi), applicazione del metodo scientifico, osservazioni e conclusioni.
+
+L’accesso al secondo giorno sarà consentito solo a chi ha frequentato il primo giorno o abbia già conoscenze del sistema ARDUINO.
+
+Età: dai 13 anni in su\
+Numero di partecipanti: 20
+
+<img src="/uploads/2022/08/sg1-300x139.jpg" class="alignnone size-medium wp-image-3869" width="300" height="139" />
+
+### Gli ingredienti della sostenibilità: laboratorio di metamorfosi alimentari
+
+##### Giovedì 8, dalle 14.30 alle 16.30; venerdì 9, dalle 9.30 alle 11.30. Cappella del Mago
+
+Dalle *madeleine* di Proust al pane di Silone, il cibo non è mai stato solo un insieme di ingredienti di cui alimentarsi. La questione della sicurezza alimentare, del resto, è una preoccupazione sempre più impellente dati i cambiamenti climatici che stanno interessando il nostro pianeta. Quali sono le trasformazioni a cui va incontro il cibo che mangiamo? E perché? Cerchiamo di indagarlo in questo laboratorio, che ben si *abbina* all’evento dibattito con Fabio Ciconte e Alberto Grandi.
+
+Ripetizioni: 2\
+Età: dagli 8 anni in su\
+Numero di partecipanti: 20
+
+<img src="/uploads/2022/08/sg3-300x120.jpg" class="alignnone size-medium wp-image-3867" width="300" height="120" />
+
+### Come cambia l’informazione? Laboratorio di comunicazione scientifica
+
+##### Giovedì 8 dalle 17 alle 19; Sabato 10, dalle 9 alle 11. Cappella del Mago
+
+Si consiglia la partecipazione a entrambi.
+
+La pandemia ha inevitabilmente aumentato l’interesse verso la letteratura scientifica, le cui forme e strutture possono però essere poco note a chi non se ne occupa. Questo laboratorio si svolgerà su due giorni.
+
+Giorno 1: andremo a esplorare i *processi* di costruzione dei fatti scientifici, a partire dai luoghi in cui si sviluppano i saperi: laboratori universitari, ma anche garage e sponde di lago dove possiamo praticare la “citizen science”. Che vuol dire fare ricerca? Di quali strumenti possiamo dotarci?
+
+Giorno 2: Come vengono tradotti i *fatti scientifici* in prodotti di comunicazione?\
+Da un unico fatto scientifico possono, e forse devono, svilupparsi informazioni per pubblici e scopi diversi. Non sempre in maniera coerente. Andiamo ad analizzare alcune narrazioni delle scienze.
+
+Età: dai 15 anni in su\
+Numero di partecipanti: 20
+
+<img src="/uploads/2022/08/sg5-300x74.jpg" class="alignnone size-medium wp-image-3865" width="300" height="74" />
+
+### Il giardino del vicino è sempre quello più fresco
+
+#### Associazione HIMBY- Hotinmybackyard
+
+#### Barbara Aiolfi, Mauro Van Aken, Monica Cellini, Nives Ladina, Maria Benciolini.
+
+##### I laboratori saranno venerdì 9, sabato 10 e domenica 11 dalle 14 alle 17, in Cappella del Mago. La durata di ogni laboratorio è di 3 ore (con pausa). Preferita partecipazione al ciclo di tre laboratori consecutivi.
+
+> «Il cambiamento climatico è in se stesso agente di metamorfosi, è agente di quella trasformazione più radicale, ha già cambiato il nostro modo di essere nel mondo \[…\] La metamorfosi non è cambiamento sociale, non è trasformazione, non è evoluzione, non rivoluzione, non è crisi \[…\] È una modalità di cambiamento della natura dell’esistenza umana. Finché il cittadino non ha i mezzi per rendere visibile una minaccia invisibile alla propria vita, tutto il potere di definizione dei rischi globali risiede nelle mani delle istituzioni»
+>
+> U. Beck, *La metamorfosi del mondo* (Laterza, 2017)
+
+I cambiamenti climatici sono percepiti come qualcosa di troppo distante, tecnico, complesso, o angoscioso per diventare una leva generativa di azioni e pensiero individuali e collettivi. E se invece si potessero attivare i saperi e le esperienze locali di chi partecipa a un ciclo di laboratori?
+
+In questo percorso assembliamo una cassetta di attrezzi e un alfabeto sociale per discernere il groviglio di aspetti sociali, culturali e scientifici della crisi climatica.
+
+#### 1. Spacchettamento della crisi climatica
+
+Cos’è la natura, per noi? Esistono altre ecologie? Districhiamo un primo groviglio sui molteplici aspetti culturali, simbolici, emotivi, e ambientali.
+
+#### 2. Atmosfera e dimensioni emotive
+
+Come leggiamo e diamo senso, o rendiamo impensabile, a un cielo che ci cade sulla testa? Quale è il coinvolgimento atmosferico nelle culture? Con quali metafore condividiamo o meno le intense dimensioni emotive e i dilemmi della crisi climatica?
+
+#### 3. Parliamo di CO2/carbonio…
+
+Come possiamo parlare di CO2 nei nostri contesti locali? Come leggere assieme l’apparato simbolico del fossile e del gran festival del carbonio?\
+Parliamo di CO2 nella nostra vita sociale e nelle nostre rappresentazioni e percezioni dell’atmosfera e dell’ambiente, nelle nostre forme di consumo e nell’economia e festival del carbonio in crisi.
+
+Età: dai 18 anni in su\
+Numero massimo di partecipanti: 20

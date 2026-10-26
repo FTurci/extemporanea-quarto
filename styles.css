@@ -1,0 +1,24 @@
+.featured-image {
+  width: 100%;
+  height: auto;
+  margin-bottom: 1.5rem;
+}
+
+main img {
+  max-width: 100%;
+  height: auto;
+}
+
+.aligncenter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+main iframe {
+  max-width: 100%;
+}
+
+.navbar-brand img {
+  max-height: 40px;
+}

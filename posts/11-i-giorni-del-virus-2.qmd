@@ -1,0 +1,25 @@
+---
+title: "{#11} I giorni del virus /2"
+author: "ExTemporanea"
+date: 2019-04-26
+categories: ["Varie&eventuali"]
+# source: www.extemporanea.eu/11-i-giorni-del-virus-2 (post id 1119)
+---
+
+<figure class="wp-block-gallery columns-3 is-cropped">
+<ul>
+<li><figure>
+<img src="/uploads/2020/04/2.png" class="wp-image-1120" width="346" height="346" />
+</figure></li>
+<li><figure>
+<img src="/uploads/2020/04/1.png" class="wp-image-1121" width="346" height="346" />
+</figure></li>
+<li><figure>
+<img src="/uploads/2020/04/3.png" class="wp-image-1122" width="346" height="346" />
+</figure></li>
+</ul>
+</figure>
+
+<figure class="wp-block-image size-large">
+<img src="/uploads/2020/05/Frame-1024x576.jpg" class="wp-image-1141" width="1024" height="576" />
+</figure>

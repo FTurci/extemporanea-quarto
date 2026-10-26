@@ -1,0 +1,55 @@
+---
+title: "{λ2} Come costruire un calcolatore con LEGO e biglie"
+author: "ExTemporanea"
+date: 2022-01-31
+categories: ["Laboratori"]
+image: "/uploads/2022/01/1-1-1200x306.jpg"
+# source: www.extemporanea.eu/λ2-come-costruire-un-calcolatore-con-lego-e-biglie (post id 2863)
+---
+
+![](/uploads/2022/01/1-1-1200x306.jpg){.featured-image}
+
+###### Protocollo di laboratorio
+
+*Il bit è il più piccolo pezzo di informazione. Quando scriviamo un messaggio su WhatsApp, o scattiamo una foto con lo smartphone, non stiamo facendo altro che modificare un certo numero di bit secondo una successione di calcoli. Concetti un po’ astratti: in pratica, di cosa è fatto il bit? E cosa vuol dire “lanciare un programma”? In questo laboratorio impareremo a costruire il più semplice dei calcolatori usando il lego e lanciando biglie come fossero programmi informatici, per iniziare a capire che cosa succede nel cuore dei nostri smartphone.*
+
+#### Scopo
+
+L’obiettivo del laboratorio è far comprendere come una semplice operazione binaria può essere eseguita da un ingranaggio meccanico. Questo porta a riflettere su vari aspetti fondamentali della computazione, tra cui la scalabilità e i limiti materiali della tecnologia.
+
+#### Partecipanti
+
+Età consigliata 9-13.
+
+#### Materiali e costi
+
+-   Pezzi LEGO, come indicati in [questo file](https://e1.pcloud.link/publink/show?code=XZNHppZp1AGphxbptYOlwHYGrOzYhoUCHJV). I pezzi possono essere acquistati singolarmente online su vari siti a un costo costo inferiore a 100 € ogni 15 persone partecipanti (per esempio [qui](https://www.lego.com/it-it/page/static/pick-a-brick) e [qui](https://www.brickowl.com/catalog/lego-part)).
+
+## <img src="/uploads/2022/01/2-1-227x300.png" class="alignnone wp-image-2864" width="849" height="1123" />
+
+#### Descrizione
+
+Il laboratorio si divide in tre momenti, uno teorico (30-40′), uno pratico (1h), e un momento conclusivo di discussione (20’+).
+
+1\) **Introduzione alla codifica binaria**. Si discute sul perché usiamo convenzionalmente dieci cifre, se esistano altri sistemi di rappresentazione (e.g. sessagesimale, i numeri romani etc.), e su come sarebbero i numeri in altre convenzioni bizzarre (per esempio in base 7?!). Si porta l’attenzione sul meccanismo fondamentale del riporto, che marca la differenza tra la notazione romana e quella araba. Infine si affronta la codifica binaria e si approfondisce la somma.\
+2) **Costruzione dell’addizionatore**. Lə partecipanti vengono divisə in gruppi di 2-3 persone. Alla loro postazione sarà stato preparato il materiale LEGO adatto a costruire un *binary adder* secondo le istruzioni del file, ma **non** saranno datə loro istruzioni precise su cosa fare. L’obiettivo è quello di riprodurre meccanicamente l’esito delle operazioni binarie descritte sopra, inventandosi strategie per realizzare il meccanismo di riporto.
+
+4\) **Discussione**. Secondo la nostra esperienza, i gruppi di partecipanti confluiscono alla stessa soluzione, fatto salvo per la scelta chirale. Quindi è possibile ragionare insieme sulla componiblità dei loro manufatti e sulla standardizzazione delle soluzioni ingegneristiche. Inoltre è possibile spiegare il fenomento dell’*overflow* e quindi affrontare il tema della finitezza delle risorse computazionali. Infine, posto che il meccanismo dell’addizione è rigido e noioso, ci si può porre la questione di come creare una macchina più capace.
+
+#### Realizzazioni
+
+-   Hackspace, Festivaletteratura 2017: <https://archivio.festivaletteratura.it/occorrenze/6511-just-do-bit-hackspace-festivaletteratura-n-2017-09-07-018>
+-   Suzzara, Festival delle Scienze 2018:\
+    <http://www.comune.suzzara.mn.it/servizi/notizie/notizie_fase02.aspx?ID=73461>
+-   Scuola Elementare Fortuzzi, Classe V A, autunno 2018
+-   Brescia 2021
+
+#### Considerazioni
+
+Una volta esposta l’idea e l’obiettivo nella prima parte, a meno di richieste dirette consigliamo a chi conduce il laboratorio di interferire il minimo possibile nella seconda parte per lasciare spazio alla massima creatività possibile. Per esempio, spesso succede che alcunə partecipanti usino il materiale per giocare e creare manufatti di propria ispirazione. Come eXtemporanea incoraggiamo fortemente queste pratiche, perché vogliamo che i nostri laboratori stimolino diversi tipi di intelligenza, anche lontane dallo scopo presunto del nostro laboratorio.
+
+ 
+
+#### Referenze
+
+<https://woodgears.ca/marbleadd/>

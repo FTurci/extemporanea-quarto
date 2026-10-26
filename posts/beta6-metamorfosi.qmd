@@ -1,0 +1,53 @@
+---
+title: "{β6} Metamorfosi"
+author: "Tomate"
+date: 2022-08-10
+categories: ["Bibliografie"]
+image: "/uploads/2022/08/sg16.jpg"
+# source: www.extemporanea.eu/β6-metamorfosi (post id 3893)
+---
+
+![](/uploads/2022/08/sg16.jpg){.featured-image}
+
+Selezione bibliografica a cura di Alessandro Sarti per la [biblioteca d’Area del CNR di Bologna](https://demo.hedgedoc.org/T2S5_HtLSaCUJmgTdJKBiw?both).
+
+#### Ovidio, *Metamorfosi*
+
+Divenire albero, divenire donna, divenire animale, divenire minore, divenire altro: è il libro piu’ antico e forse piu’ contemporaneo sulla trasformazione delle forme e sull’invenzione di nuovi spazi di possibilità. Soprattutto quando ogni possibilità di pensiero sembra svanire e nessuna soluzione si profila all’orizzonte, la metamorfosi diventa un gesto importante di immaginazione materiale.
+
+#### J.W.Goethe, *Morfologia 2 vol.*
+
+Sul concetto di forma come organismo e di organismo come campo di forze. Questo libro è all’origine della fenomenologia della Gestalt, dove il campo visivo è soprattutto campo di forze ma contemporaneamente essere organico. Fenomenologia della percezione e scienza del vivente si fondono in questo fondamentale trattato di estetica.
+
+#### E.Haekel, *Art forms in nature*
+
+Un libro da sfogliare nel grande formato per il puro piacere di osservare la molteplicità delle forme del vivente e le soluzioni bizzarre e affascinanti che l’evoluzione naturale ha saputo trovare. Una lettura leggera e di sorvolo per arrivare forse ad intuire un concetto per niente scontato: la natura è portatrice di eventi singolari ancor piu’ che un dispositivo nomologico depositario di leggi immutabili. La natura è evento e continua trasformazione.
+
+#### A.Turing, *The chemical basis of morphogenesis*
+
+Alan Turing, dopo aver inventato la macchina logica per eccellenza, nell’ultima fase della sua vita scrive un articolo, un unico articolo che supera la sua stessa invenzione del calcolatore. Si tratta di uno studio che mostra come emergono le forme da substrati omogenei. Per esempio come si formano le macchie sulla pelle degli animali: i pois del ghepardo, le striscie della zebra, le chiazze della mucca. E’ un lavoro straordinario di superamento della logica attraverso la morfologia, dell’algoritmo attraverso la morfogenesi, dell’automatismo della macchina attraverso la trasformazione continua delle forme. Chi ama le immagini troverà una versione illustrata ed ampliata di questo articolo in “The algorithmic beauty of sea shells ” di Hans Meinhardt.
+
+#### R. Thom, *Stabilità strutturale e morfogenesi*
+
+Un libro fondamentale che definisce la morfogenesi come il passaggio da uno stato stabile a un altro di un sistema dinamico. A differenza dei sistemi fisici tradizionali in cui la dinamica è fissata, si introduce qui la possibilità di variare la traiettoria dinamica sempre all’interno di uno spazio di possibilità dato a priori. L’insieme degli stati stabili è chiamato modello (o struttura) e il dispositivo di stabilizzazione, cioè di passaggio da uno stato a un altro è chiamato catastrofe. Catastrofe è per esempio una rivoluzione, come passaggio da un sistema di potere (stabile) a un nuovo sistema di potere (sempre stabilizzato). Questo libro, scritto dal grande matematico francese René Thom, costituisce uno tentativi piu’ importanti e di ampio respiro per far dialogare tra loro scienze dure e scienze dell’uomo.
+
+#### J.Petitot, *Morfogenesi del senso*
+
+Jean Petitot, matematico e semiologo, spiega in questo libro che dietro i fenomeni della significazione ci sono delle dinamiche di trasformazione precise, che possono essere studiate con la teoria delle catastrofi di René Thom. La significazione sarebbe cioè organizzata in strutture che non sono altro che l’insieme dei bacini stabili di una dinamica. Cosi’ per esempio il segno di Saussure diventa una struttura con due bacini stabili, il quadrato semiotico di Greimas diventa una dinamica con quattro bacini stabili e la formula canonica del mito di Levi Strauss una dinamica con sei bacini stabili. Si tratta del libro di riferimento dello strutturalismo dinamico e piu’ precisamente della semiotica strutturale.
+
+#### Aby Warburg, *L’Atlas Mnémosyne*
+
+… o anche: come si puo’ narrare l’intera storia dell’arte organizzando i materiali come degli assemblaggi visivi. Si tratta di 63 pannelli che contengono costellazioni di opere d’arte provenienti dal medio oriente, dall’antichità europea e dal Rinascimento italiano e che formano una specie di mappa della biblioteca di Aby Warburg che nel 1929 conteneva piu’ di 350.000 volumi. E contemporaneamente si tratta di una mappa concettuale della storia delle immagini, un atlante figurato composto come un organismo in perenne mutazione che Aby Warburg non ha smesso di riorganizzare plasticamente per l’intera sua vita, per esprimere con la prossimità visiva il suo percorso estetico e concettuale.
+
+#### G.Simondon, *L’individuazione psichica e collettiva*
+
+Non solo le forme fisiche emergono da sistemi di forze, ma anche il vivente, l’umano e il sociale. L’individuo non esiste come ente determinato ma solo come processo di individuazione in continua trasformazione e mai finito. Un libro contro le derive identitarie verso un’idea di divenire eterogeneo e collettivo a tutti i livelli: fisico, biologico, psichico e transindividuale.
+
+#### G.Deleuze & F.Guattari, *Mille piani*
+
+Cos’è una forma nuova? “Mille piani” è il libro che si interroga sulle dinamiche della creazione, alla ricerca di un divenire libertario, che sa riconoscere gli automatismi e li supera per immaginazione. Oltre le dinamiche fisiche e le strutture, verso un pensiero della mutazione delle forme e insieme dei suoi spazi di possibilità. Il “divenire altro” delle metamorfosi di Ovidio e del greco Nicandro diventa qui una “eterogenesi”, alla luce delle conoscenze contemporanee sulle dinamiche materiali. Si tratta di un manuale di composizione delle forze in assemblaggi e costellazioni eterogenee per dare luogo a delle dinamiche mutevoli e non necessariamente stabilizzate. Se la rivoluzione è il paradigma delle dinamiche strutturali, l’insurrezione immaginativa è il segno delle dinamiche eterogenetiche.
+
+#### F.Vercellone, S.Tedesco, *Glossary of Morphology*
+
+Un glossario contemporaneo con piu’ di cento lemmi di morfologia, da dinamica a epigenesi, da strutturalismo a eterogenesi.\
+Eccone alcuni: Aesthetics, Analogy, Morphology, Attractors, Chreod, Development/Evolution, Device, Diagrams, Dynamic System, Eidetics, Emergence, Enactivism, Epigenesis, Epigenetic Landscape, Figuration/Figure/Form, Formation, Fractal Generation/Genealogy, Gestalt/GestaltTheory, Graph, Heterogenesis, Historical Form of Art , Homology, Horizon, Icon, Identity, Incarnation, Individuation, Life, Metamorphosis, Metaphor, Morpheme, Morphology, Ontogeny/Phylogeny, Organ/Organic, Perception, Phenomenology, Plasticity, Representation, Shape, Space/Place, Structural Morphodynamics, Structure/Structuralis, Umwelt, Vision, Form of, Visualization/Visibility.

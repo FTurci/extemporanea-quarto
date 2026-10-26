@@ -1,0 +1,77 @@
+---
+title: "{#10} I giorni del virus /1"
+author: "ExTemporanea"
+date: 2020-03-26
+categories: ["Newslettera"]
+image: "/uploads/2020/03/04.png"
+# source: www.extemporanea.eu/10-i-giorni-del-virus-1 (post id 1095)
+---
+
+![](/uploads/2020/03/04.png){.featured-image}
+
+In questo numero:
+    - Un abbraccio (da un metro-e-mezzo)
+    - Letture consigliate
+    - Partecipa!
+    - La Grande Estinzione e altre storie
+
+> “Io so di scienza certa che ciascuno la porta in sé, la peste, e che nessuno, no, nessuno al mondo ne è immune. E che bisogna sorvegliarsi senza tregua per non essere spinti, in un minuto di distrazione, a respirare sulla faccia d’un altro e a trasmettergli il contagio. Il microbo, è cosa naturale. Il resto, la salute, l’integrità, la purezza sono un effetto della volontà e d’una volontà che non si deve mai fermare. L’uomo onesto, colui che non infetta quasi nessuno, è colui che ha distrazioni il meno possibile. ”
+>
+> Albert Camus, *La Peste*
+
+Cari lettori,
+
+per questa volta rinunciamo ai nostri abituali convenevoli “sopra le righe”.
+
+Vorremmo poter dare un contributo discreto all’elaborazione di quello che sta avvenendo. Per il momento, il meglio che possiamo fare è proporre una lista di letture consigliate e commentate.
+
+Stiamo anche cercando di predisporre alcuni strumenti online ad accesso libero in cui instaurare delle discussioni al tempo stesso informate e informali: [BachecaCOVID](https://riot.im/app/#/room/#bachecaCOVID:matrix.org) vorrebbe ospitare le impressioni e i pensieri di medici e operatori sanitari in prima linea; [ET – Literature Digest #4](https://demo.codimd.org/6gR1gHSBTXWo89yeptGKqg?both#) raccoglie una bibliografia scientifica ragionata (un altro progetto collaborativo di raccolta bibliografica si può trovare su [a questo indirizzo](https://lost.abbiamoundominio.org/2020/covid19materiali.html)). Sentitevi liberi di condividere questi link con chi pensate possa partecipare alla discussione in maniera costruttiva, nel rispetto reciproco.
+
+Nel frattempo continuiamo a nutrire i nostri progetti creativi. Ce n’è uno in particolare che si addice ai tempi della reclusione sul web. Si chiama Algoritmo Umano, e proprio come Skynet in Terminator ha la spiccata tendenza a prendere il sopravvento, allargando il suo esercito a sempre più terminali e unità. Ora vuole arruolare anche voi! Mandando qualche parola, qualche sillaba, qualche sospiro di riflessione su di un qualcosa che vi definisce – ma al negativo.
+
+Per concludere vi proponiamo anche un esempio di scrittura collettiva eseguita dall’Algoritmo Umano per il blog [La Grande Estinzione](https://lagrandestinzione.wordpress.com/). Un blog che, come Sarah Connor per Terminator, l’Algoritmo Umano segue ossessivamente, ma che fatica a trovare. Forse ha sbagliato indirizzo.
+
+Vi salutiamo abbracciandovi a un metro e mezzo di distanza.
+
+~~ExTemporanea~~ Algoritmo Umano
+
+*\[Illustrazione di [Andrea De Franco](https://www.andreadefranco.com/)\]*
+
+## Coronavirus digest #1
+
+Ecco le nostre letture consigliate:
+
+-   **[*Impact of non-pharmaceutical interventions (NPIs) to reduce COVID-19 mortality and healthcare demand*](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf), Imperial College COVID-19 Response Team, 16/03/20.** Ad oggi forse la migliore analisi epidemiologica disponibile. Delinea chiaramente la distinzione tra strategie di 1) Mitigazione e 2) Soppressione, e i rispettivi rischi e benefici.
+-   **[*History in a Crisis—Lessons for Covid-19*](https://www.nejm.org/doi/full/10.1056/NEJMp2004361#), Jones, David S, New England Journal of Medicine (2020).** Su quello che possiamo imparare dalla storia della passate pandemie. “Le società e i loro cittadini l’importanza relativa dei rischi per la falute che affrontano.”
+-   ***[A fiasco in the making? As the coronavirus pandemic takes hold, we are making decisions without reliable data](https://www.statnews.com/2020/03/17/a-fiasco-in-the-making-as-the-coronavirus-pandemic-takes-hold-we-are-making-decisions-without-reliable-data/)*, John P.A. Ioannidis, 17/03/20.** Nonostante siamo nell’epoca dei dati, la qualità dei dati sul coronavirus non consente facili conclusioni. Una proposta: fare in tamponi in maniera randomizzata.
+-   **[*Crisanti: “Epidemia di coronavirus in Italia? Numeri inesatti. Male contenimento e monitoraggio di positivi’’*](https://www.globalist.it/science/2020/03/22/crisanti-epidemia-di-coronavirus-in-italia-numeri-inesatti-male-contenimento-e-monitoraggio-di-positivi-2054890.html?fbclid=IwAR0Zon0ULGapunLhzFa-lu_fAXa7VUDAEaIdrJrsiJ_3T98-1X1iT1vb8lY), 22/03/20.** Intervista ad Andrea Crisanti professore di epidemiologia e virologia dell’Azienda Ospedaliera dell’ Università di Padova, su epidemiologia, raccolta dei dati, raccolta dei tamponi.
+-   **[*Il vaso di Pandora, il Coronavirus e gli ospedali “fabbriche della salute”*](https://ilgiornaledellarchitettura.com/web/2020/03/04/il-vaso-di-pandora-il-coronavirus-e-gli-ospedali-fabbriche-della-salute/), Giorgina Barbara Piccoli, 04/03/20** Considerazioni sull’industrializzazione della salute e su ospedali monoblocco vs. a padiglioni. L’autrice è Capo del servizio nefrologia presso il Centro ospedaliero di Le Mans (Francia) e ricercatrice del Dipartimento di Scienze cliniche e biologiche dell’Università di Torino
+-   **[*Monologo del virus*](https://lundi.am/Monologue-du-virus), autore anonimo, 19/03/20**. Il virus stesso prende parola, e si mette a criticare la società umana: non è Covid-19 ad ucciderci, anzi a ben vedere senza quelli come lui, i virus, non ci sarebbe nemmeno la vita… è l’organizzazione della nostra esistenza collettiva a produrre le catastrofi.
+-   **[*What the Fukushima meltdowns taught us about how to respond to coronavirus*](https://thebulletin.org/2020/03/what-the-fukushima-meltdowns-taught-us-about-how-to-respond-to-coronavirus/#), Azby Brown and Sean Bonner, 13/03/20**. Confronto tra il disastro di Fukushima e l’attuale pandemia. Emerge che una delle criticità in comune è la comunicazione dell’emergenza.
+-   **[*Da dove è arrivato il Coronavirus, e dove ci porterà?*](https://www.infoaut.org/approfondimenti/da-dove-e-arrivato-il-coronavirus-e-dove-ci-portera), 16/03/20**. Intervista a Rob Wallace, autore di *Big farms make Big Flu* che spiega le possibili varie origini “antropoceniche” di questa pandemia.
+
+## Algoritmo Umano – la notte scura dell’anima
+
+Scriveva Cesare Pavese: “Si combatte soprattutto per non essere qualcosa, per liberarsi. Chi non ha grandi ripugnanze non combatte.” E Montale: “Non domandarci la formula che mondi possa aprirti,/sì qualche storta sillaba e secca come un ramo./codesto solo oggi possiamo dirti,/ciò che non siamo, ciò che non vogliamo.” Con più leggerezza Fellini elencava le cose che non gli piacevano (e quelle che gli piacevano):
+
+![](https://i2.wp.com/www.anonimacinefili.it/wp-content/uploads/2020/01/fellini-non-mi-piace-mi-piace-1024x795.jpg?resize=1024%2C795&ssl=1)
+
+Gli amici di [Passaporto Nansen](https://www.passaportonansen.it/) ci propongono di scrivere un altro articolo, dopo [la prima esperienza](/posts/questo-articolo-e-stato-generato-da-un-algoritmo-umano.html). Abbiamo pensato di fare un elenco delle cose che ci definiscono al negativo: quello che non ci piace, che non vogliamo, e che potrebbe farci combattere. Specie al tempo del coronavirus.
+
+Ne verrà fuori un articolo altalenante. A tratti esageratamente compiaciuto della sua paludata seriosità. E poi, subito, leggero. Che magari alterna periodi lunghi, dalle complesse perifrasi che, in un gioco di incastri di subordinate, a volte talmente arbitrari da sembrare inutili, si perdono. A frasi incisive. Poche parole. Un sospiro. Ah.
+
+Potete scrivere quello che vi passa per la testa [in questo file condiviso](https://demo.codimd.org/WfkMnncuR4a1wJ2Bd6l_gQ), su cui potrete vedere in *real time* l’evoluzione dell’articolo. Oppure mandate qualche considerazione all’indirizzo mail scienceground@festivaletteratura.it.
+
+Sarà nostro impegno amalgamare tutti i vostri pensieri e farne uscire qualcosa di nuovo e diverso.
+
+## La Grande Estinzione e altre storie
+
+> «Quando dopo un miliardo di anni di storia evolutiva i cianobatteri impararono a estrarre elettroni dall’acqua, l’atmosfera fu lentamente invasa del residuo di reazione, un pericoloso gas tossico: l’ossigeno. Durante la “Grande Ossidazione” sappiamo che qualche cellula imparò prima a proteggersi, poi a utilizzare l’ossigeno, e infine a respirare. Da lì è un passo alla comparsa della specie umana.
+>
+> Oggi già esistono batteri e organismi in grado di metabolizzare la plastica e gli altri prodotti degli idrocarburi. Forse saranno loro a far partire una nuova vita, in una nuova atmosfera, quando l’*endling* umano avrà già da lungo calcato il suolo terrestre. In bocca al lupo a tutti loro!
+>
+> L’estinzione delle specie certo ci spaventa. Specie della nostra. Ma forse più della fine stessa ci preoccupa il *come* finiremo. Matteo Meschiari, ne *La Grande Estinzione* (2020), denuncia l’estinzione di un immaginario collettivo come strumento di sopravvivenza. O forse direttamente della collettività.
+>
+> Che cosa sta sparendo? E cosa compare al suo posto? Basta davvero un gioco che ribadisca che c’era un immaginario condiviso, lo si può ancora ricostruire, è divertente e necessario farlo insieme? Saranno le distanze culturali, generazionali, materiali a prevalere, o magari la vocazione intrinsecamente ibrida dei nostri paesaggi?»
+>
+> *\[…prosegue su [La Grande Estinzione](https://lagrandestinzione.wordpress.com/2020/02/18/algoritmo-umano-colpisce-ancora-dubbie-le-sorti-del-mondo/?fbclid=IwAR1_C8bZbo6xN7y8GAdN9om0p8wyegwYwaqlHnofSoULB7Kt1BStj7XJZJY)\]*

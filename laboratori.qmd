@@ -1,0 +1,28 @@
+---
+title: "Laboratori"
+# source: www.extemporanea.eu/laboratori (post id 2663)
+---
+
+Una delle principali attività di eXtemporanea è l’elaborazione di laboratori. Qui pubblichiamo i nostri protocolli, descritti in maniera tale da poter essere replicati in ogni contesto. Non esitate a scriverci per qualsiasi informazione.
+
+#### **Just do bit!**
+
+Ciclo di laboratori propoto a Hackspace – Scienceground 0. Ci proponiamo l’idea di decostruire e ricostruire il computer a partire da alcuni suoi principi chiave.
+
+[**{λ1} Come costruire porte logiche con il domino**](/posts/lambda1-come-costruire-porte-logiche-con-il-domino.html)
+
+[**{λ2}** **Come costruire un calcolatore con LEGO e biglie**](/posts/lambda2-come-costruire-un-calcolatore-con-lego-e-biglie.html)
+
+#### **Intelligenze meccaniche **
+
+[**{λ3} Come insegnare a delle scatole a giocare**](/posts/lambda3-come-insegnare-a-delle-scatole-a-giocare.html)
+
+[**{λ4} Come allenare un algoritmo umano**](/posts/lambda4-come-allenare-un-algoritmo-umano-di-intelligenza-artificiale.html)
+
+#### **Rusco linguacciuto **
+
+Visita la [pagina dedicata](/rusco-linguacciuto.html).
+
+#### **Zerunizzazioni**
+
+####

@@ -1,0 +1,18 @@
+---
+title: "{ϱ1} Territorio residuale (drosscape)"
+author: "ExTemporanea"
+date: 2022-03-11
+categories: ["Rusco linguacciuto"]
+# source: www.extemporanea.eu/ϱ1-territorio-residuale-drosscape (post id 3343)
+---
+
+Proposta di traduzione della parola inglese *[drosscape](/posts/rho1-drosscape.html).*
+
+-   -   *Motivazioni*: è il tentativo da un lato di concretizzare e dall’altro di sgravare il termine di partenza. Nel primo caso si nota come “paesaggio” abbia una connotazione troppo poetica che rischia di depistare il destinatario (cosa che peraltro succede spesso quando si parla di architettura del paesaggio). La parola “territorio” sembra invece più adatta alla concretezza e asprezza della realtà in questione. Allo stesso tempo, la scelta di utilizzare “residuale” vuole alleggerire tale realtà dall’immaginario negativo connesso al mondo dei rifiuti e delle scorie per sottolinearne piuttosto l’idea di stratificazione da cui esso ha origine. Scegliendo una parola priva di forti connotazioni negative e anche piuttosto evocativa, si vuole porre l’accento sulla carica potenziale di tale luogo, invece di sottolinearne le criticità.
+    -   *Concetti chiave*: modellare, rivestire, riprogrammare, altro modo di immaginare, deindustrializzazione, non intrinsecamente negativo
+    -   *Formazione della parola*: Composizione
+    -   *Elementi che la compongono*: Dross (sostantivo) + Landscape (sostantivo)
+    -   *Traduzione dei singoli elementi*: Dross = rifiuto / scarto / scorie + Landscape = paesaggio / veduta / panorama
+    -   *Casi simili e loro traduzione*: moonscape = paesaggio lunare, townscape = paesaggio urbano, seascape = paesaggio marino
+    -   *Strategia scelta*: parola polirematica
+    -   *Possibilità scartate*: paesaggio, sito, rifiuto, scorie, scarto, reiectario, scartorio, residuaggio

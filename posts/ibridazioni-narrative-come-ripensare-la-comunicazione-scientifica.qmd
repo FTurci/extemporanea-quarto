@@ -1,0 +1,54 @@
+---
+title: "Ibridazioni narrative: come ripensare la comunicazione scientifica"
+author: "ExTemporanea"
+date: 2020-01-21
+categories: ["Varie&eventuali"]
+image: "/uploads/2019/11/7.png"
+# source: www.extemporanea.eu/ibridazioni-narrative-come-ripensare-la-comunicazione-scientifica (post id 782)
+---
+
+![](/uploads/2019/11/7.png){.featured-image}
+
+\[*Il 13 Settembre 2019 siamo stati invitati a proporre un panel al congresso dell’Associazione Di Italianistica, quest’anno dedicato a scienza e letteratura. Questa la nostra proposta*\]
+
+> *“Il buco dell’ozono sulle nostre teste, la legge morale dentro di noi”*\
+> Bruno Latour, *Non siamo mai stati moderni*, Elèuthera (2015)
+
+Nel suo saggio di antropologia simmetrica *Non siamo mai stati moderni* Bruno Latour critica la visione moderna del mondo suddiviso in strutture pure e disgregate quali natura e società, auspicando per contro il pieno riconoscimento degli ibridi che ci circondano. L’idea ispira il progetto di conversazione scientifica “Scienceground”, avviato dai proponenti di questo panel nel contesto del Festivaletteratura di Mantova con l’obiettivo di presentare la scienza come fenomeno sociale complesso. A partire da questa esperienza concreta di incontro tra mondo della scienza e mondo della letteratura, il panel intende avviare un discorso metodologico sulla comunicazione scientifica, su cosa significhi (e non significhi) “divulgare”, e su come sancire una nuova alleanza: tra scienziati ed umanisti \[Ilya Prigogine, Isabelle Stengers, La nuova alleanza, Einaudi (1999)\]. Il panel si propone quindi di indagare il ruolo che lingua e letteratura possono avere nell’arricchimento del dialogo sulla scienza, e quello che la scienza può avere nella narrazione ed interpretazione del sociale. In particolare i temi affrontati saranno: la declinazione di generi e stili narrativi quali la narrative non fiction e il fanta-ecologico; appropriazione e distorsione reciproche di linguaggi (quello letterario da parte del “divulgatore”, quello tecnico-scientifico in altri contesti); come il campo del sapere scientifico possa relazionarsi con il resto della società e guadagnare fiducia superando contestualmente l’idea di una scienza come “dispensatrice di verità”.
+
+**Discussant**:
+
+-   Alessandro Della Casa, segreteria organizzativa Festivaletteratura;
+-   Dario Maestripieri, Department of Comparative Human Development, University of Chicago;
+
+------------------------------------------------------------------------
+
+## I linguaggi scientifici e la politicità delle scienze oggi
+
+### Mattia Galeotti (Università degli Studi di Trento)
+
+*Il ruolo della Scienza, nel dibattito pubblico, è sempre più quello di strumento di validazione dell’azione governamentale attraverso una retorica della necessità e della verità. Il punto cieco di questo dispositivo si trova nelle relazioni e dipendenze tra assunti scientifici, descrizione del mondo e performatività sul reale, nella constatazione cioè che l’ “oggettività” scientifica è la risultante di rapporti storici e sociali. Rispetto alla pervasività di dispositivi algoritmici nella società, Yarden Katz utilizza in un articolo del 2017 la nozione di “vision from nowhere”, riferendosi all’insieme di narrazioni che invisibilizzano i principi etici, politici, organizzativi, veicolati da queste tecnologie. Ci sembra impellente la necessità di uno “svelamento” che permetta di tradurre il dibattito scientifico nelle alternative politiche, sociali, normative, che sono implicite ad ogni ipotesi tecnica e ad ogni formalizzazione matematica. In questo senso risulta interessante sia un approfondimento sui linguaggi scientifici, che un recupero della narrativa distopica di fantascienza, laddove le estremizzazioni coerenti di tendenze già in atto, possono mettere in luce le fratture epistemologiche e filosofiche tra diverse visioni del mondo che coesistono nel presente in maniera conflittuale.*
+
+## Il sociologo e il matematico
+
+### Paulo Fernando Lévano (Università degli Studi di Bologna)
+
+Il presente intervento vuole abbozzare una genealogia di quelle posizioni che fanno parlare, in riferimento al pensiero di Bruno Latour, di una svolta semiotica in studi sociali della scienza. Dopo aver individuato a grandi linee due linee di forza, il Programma Forte della Sociologia della Conoscenza Scientifica di David Bloor e la Filosofia dell’Informazione di Michel Serres, la domanda centrale a cui si cercherà di fornire risposta è: la storia della scienza è un genere letterario? Prendendo a mani piene dalle indagini storico-scientifiche di Bloor e Serres, la discussione cercherà di mettere in rilievo alcuni aspetti del rapporto tra scienza e letteratura che permettono di parlare di rivalità mimetica.
+
+## “Eppure questa storia non finisce qui”: Levi e la prospettiva crossover dell’umanista-scienziato
+
+### Lucia Faienza (Università degli Studi dell’Aquila)
+
+Nel secondo Novecento italiano l’esperienza umana e letteraria di Primo Levi offre un punto di osservazione originale, per non dire unico, per quello che riguarda l’intersezione tra letteratura e scienza. Per Levi, infatti, il proprio lavoro di scienziato non è un’attività parallela e disgiunta da quella letteraria, ma offre una struttura formale e filosofica di interpretazione della realtà che ritorna nella produzione letteraria: se questa prospettiva è esplicita ne Il sistema periodico, nel quale ogni racconto prende il nome da un elemento chimico, tornerà stabile in tutta l’opera. Diverse sono infatti le modalità in cui il sottotesto scientifico “contamina” la narrativa dell’autore, a più livelli di costruzione simbolica: dalla straniatura fantastica di Storie naturali, all’antologia biografica della Ricerca delle radici, alla silloge-reportage de L’altrui mestiere.
+
+Nel corso di questo intervento si intende analizzare l’opera di Levi mettendo in evidenza soprattutto i seguenti punti:
+
+-   La scienza come costrutto metaforico nel discorso letterario
+-   La prospettiva scientifica nel contesto della narrazione della tragedia
+-   La metodologia dello sguardo dell’uomo di scienza e la costruzione del discorso culturale
+
+## Postumanesimo e fantascienza: l’immaginario della sesta estinzione
+
+### Simona Micali (Università degli Studi di Siena)
+
+Attraverso l’analisi del dibattito contemporaneo sulla nozione di postumano, l’intervento punta a mettere in luce il valore euristico della speculazione fantascientifica, che si offre come un laboratorio teorico per sperimentare potenzialità, implicazioni e rischi della scienza e della società contemporanei. Infatti, sin dalla sua etichetta di genere – science fiction – la fantascienza mette in evidenza la propria natura ibrida, di immaginazione scientificamente fondata e al tempo stesso di messa in questione della scienza e della tecnologia per mezzo dell’immaginazione narrativa. In questa prospettiva, il discorso sul postumano – inteso come condizione socioantropologica, proposta politica, tema dell’immaginario speculativo – costituisce un campo ideale in cui mettere alla prova la natura sperimentale e interdisciplinare della science fiction, nonché di evidenziarne il valore etico e politico.

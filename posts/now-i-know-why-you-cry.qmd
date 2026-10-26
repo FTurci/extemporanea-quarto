@@ -1,0 +1,31 @@
+---
+title: "Now I know why you cry"
+author: "ExTemporanea"
+date: 2019-11-15
+categories: ["Varie&eventuali"]
+# source: www.extemporanea.eu/now-i-know-why-you-cry (post id 612)
+---
+
+Molti dei percorsi di Scienceground si occupano di AI, Intelligenza Artificiale, di come funziona, e di come i suoi meccanismi complicati (ma spesso non complessi) rischiano di confermare pregiudizi umani e rinforzare meccanismi coercitivi. Siamo stati invitati dai ragazzi del Laboratorio L’Isola, a Bologna, per fare una chiacchierata e imparare a leggere insieme l’enorme letteratura a disposizione. Uno dei nostri articoli di riferimento è
+
+> Yarden Katz, *Manufacturing an Artificial Intelligence Revolution*, disponibile su [SSRN 3078224](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3078224), 2017.
+
+Inoltre ci stiamo preparando con Harry Collins, *Artifictional Intelligence*, e un paio di manuali pratici di machine learning.
+
+<figure class="wp-block-image">
+<img src="/uploads/2019/11/nowiknow.jpg" class="wp-image-613 aligncenter" width="533" height="298" />
+</figure>
+
+### Aperitivo scientifico c/o Laboratorio L’Isola, Bologna
+
+Se l’intelligenza è un tratto che distingue l’uomo rispetto alle altre specie viventi, dovrà essere frutto di un artificio, o di un errore evolutivo. Ecco allora che fantastichiamo di algoritmi che eseguono il pensiero umano e di macchine inanimate che si ribellano per un errore di programmazione. In questo laboratorio discuteremo della cosidetta “Intelligenza Artificiale”: come funzionano gli algoritmi di analisi dei big data, quali modelli dell’intelligenza umana presuppongono, e quali contesti sociali sono sottoposti al dispiegamento di questo strumento. E di come mai, di fronte al pianto di un bambino, Terminator-Schwarzenegger afferma: it’s something I can never do.
+
+## A seguire cena sociale e concerti
+
+##### ALESSANDRO BARO E FEDERICO BERTOLUCCI
+
+##### QUETZAL
+
+Batteria e sintetizzatori – Chitarra acustica e voce
+
+Chitarra elettrica e vocesfumature folk rock e cantautorale

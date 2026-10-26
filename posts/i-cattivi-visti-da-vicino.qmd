@@ -1,0 +1,44 @@
+---
+title: "I cattivi, visti da vicino"
+author: "ExTemporanea"
+date: 2020-05-01
+categories: ["@Festivaletteratura"]
+keywords: ["Microbi", "olobionti", "Semmelweis", "Spillover"]
+image: "/uploads/2019/08/005.jpg"
+# source: www.extemporanea.eu/i-cattivi-visti-da-vicino (post id 1117)
+---
+
+![](/uploads/2019/08/005.jpg){.featured-image}
+
+**Rapporti umani con i microbi**
+
+L’attualità dell’emergenza sanitaria in Italia e nel mondo ci vede testimoni e al contempo combattenti di una guerra: la guerra al virus. Chi non la combatte in prima linea è comunque tenuto a rispettare una prassi tutta nuova; ma la guerra, probabilmente, non sarà una guerra lampo. Festivaletteratura ha ospitato, a Scienceground, numerosi incontri tra lavagne, laboratori e gruppi di lettura, il cui filo conduttore erano i microbi. Qui abbiamo raccolto sei contributi, riuniti in quattro gruppi tematici, per tentare di raffigurarci il nostro rapporto con questi esseri: che ci fanno ammalare e fermentano la birra, che mettono in crisi nazioni e digeriscono i nostri cibi. E con i quali forse sarà necessario scendere a patti, sostituendo la lotta con la diplomazia.
+
+*\[prosegue su [www.festivaletteratura.it](https://archivio.festivaletteratura.it/percorsi-tematici/i-cattivi-visti-da-vicino-rapporti-umani-con-i-microbi)\]*
+
+<a href="#" aria-expanded="false" onclick="showhide_toggle(&#39;pressrelease&#39;, 1117, &#39;&#39;, &#39;&#39;); return false;"></a>
+
+**Filologia patogena**\
+Ci sono un pangolino, un pipistrello, un serpente e un mucchio di altri animali in un mercato affollato. Non è una barzelletta, ma una delle tante storie che David Quammen, scrittore di scienza e di viaggi, ha raccolto in “Spillover”, scritto nel 2012 e uscito in Italia nel 2014 per Adelphi. La storia somiglia in modo sinistro a qualcosa che ora ci riguarda molto da vicino. E la storia vede un virus, magari il “nostro” virus, saltare alternativamente da un animale all’altro e da un animale all’uomo. Quel formidabile salto di specie si chiama proprio *spillover*.\
+Quammen ripercorre nel testo la storia di quelle malattie che saltano da un non-umano all’uomo, le zoonosi, e lo fa cacciandosi fin dentro il cuore della giungla, per ricostruire come un filologo la versione perduta della malattia. Come molti libri di avventura, “Spillover” è un bel volume e a Festivaletteratura ne abbiamo ripreso alcuni stralci in un gruppo di lettura. Abbiamo cercato di capirne gli strumenti narrativi, come se fosse un romanzo, e abbiamo cercato di raccontarne i passaggi scientifici, come se fosse un saggio scientifico. “Spillover” è entrambe le cose. E questa commistione ci permette di comprendere meglio quel lessico di parole come *zoonosi*, *virus a rna*, *droplet* che nelle ultime settimane abbiamo imparato ad usare, o a ripetere.
+
+**Non siamo mai stati soli**
+
+Ce lo sentiamo ripetere come un mantra da settimane: lavatevi le mani. Una precauzione che oggi diamo per scontata, ma ripercorrendo la storia di come i microbi sono entrati nel nostro immaginario, ci si rende conto che non è sempre stato così. Lo ha capito a sue spese Ignác Semmelweis, medico ungherese che si è scontrato con l’assurdità di cui si rivestiva quel gesto, oggi così scontato, in un *mondo senza microbi*, la Vienna di metà ottocento. Da qui parte la storia che abbiamo provato a raccontare nella nostra prima [*fanzine*](https://festlettweb.s3.eu-central-1.amazonaws.com/MICROBIZINE-20191219-LOW.pdf), una storia che parla di come i microbi sono entrati nel nostro mondo, e non solo nel nostro: dai vaccini di Luis Pasteur agli *zemi* delle popolazioni amerindie e i loro sciamani.
+
+[**\[link fanzine per semmelweis\]**](https://festlettweb.s3.eu-central-1.amazonaws.com/MICROBIZINE-20191219-LOW.pdf)
+
+**Se i batteri controbattono**
+
+Lavarsi le mani è fondamentale per difendersi dai patogeni – non tutti i microbi lo sono – ma non basta. Tra le difese più efficaci di cui disponiamo spiccano i vaccini di Luis Pasteur, altro personaggio che abbiamo imparato a conoscere a Scienceground, e gli antibiotici. Questi ultimi sono protagonisti di un problema di cui si parla troppo poco, ancora meno in questi giorni (gli antibiotici sono infatti inefficaci contro i virus), ma che può avere e avrà conseguenze devastanti se non lo si affronta. Verrà il tempo in cui finiremo i farmaci? Ne abbiamo parlato diffusamente con figure di spicco: Dame Sally Davies, che ha ricoperto nel Regno unito la carica di *Chief Medical Officer*, il principale consulente medico del governo e coordinatore di tutti i direttori della sanità pubblica; Angelo Pan, direttore dell’unità Malattie infettive dell’ASST di Cremona; Maria Paola Landini, docente di microbiologia dall’Università di Bologna e direttrice scientifica dell’ IRCCS Istituto Ortopedico Rizzoli.
+
+[**\[link davies\]**](https://archivio.festivaletteratura.it/oggetti/5778-verso-la-fine-delle-medicine-scienceground-n-2019-09-07-155)\
+[**\[link pan\]**](https://archivio.festivaletteratura.it/oggetti/5760-prevenire-le-infezioni-resistenti-agli-antibiotici-lavagne-scienceground-n-2019-09-07-lav-1100)\
+[**\[link landini\]**](https://archivio.festivaletteratura.it/oggetti/5804-resistenza-agli-antibiotici-strutturare-la-sanita-lavagne-scienceground-n-2019-09-07-lav-2100)
+
+**Filosofia *nella* biologia**\
+Per vincere una guerra, occorre innanzitutto conoscere il proprio avversario. La lavagna tenuta da una delle nostri ospiti, Lynn Chiu, filosofa *nella* biologia, ha trattato proprio il tema della guerra coi microbi, ma ci ha illustrato che in realtà non è così facile distinguere tra “buoni” e “cattivi”. In biologia la capacità benefica o dannosa di un organismo dipende dalle relazioni che esso stabilisce con l’ambiente che lo circonda. Una cellula cancerosa, rimossa dall’ambiente in cui prolifera, perde la sua tossicità. Così come un virus, costretto al salto di specie (lo *spillover*), può tramutarsi da innocuo commensale a patogeno.
+
+Non solo è molto arduo discernere tra bene e male (alla faccia del soluzionismo), ma neppure la distinzione tra “noi” e “loro” è ben posta, in questa guerra. Il microbioma, cioè l’insieme dei microbi che abitano il nostro corpo e ne costituisce la maggioranza delle cellule, dialoga in maniera continua con il sistema immunitario. È proprio questa fitta interazione tra microbi e linfociti a regolare la nostra risposta immunitaria, al punto che il microbiologo Thomas Pradeu propone di partire da qui per ripensare il concetto stesso di identità biologica. E se identità ed individualità non vanno di pari passo in biologia, la sfida è immaginare definizioni nuove per il nostro organismo. Una è quella di “olobioma”, proposta da Donna Haraway: un insieme di ecosistemi in cui il sistema immunitario non svolge tanto il ruolo di soldato in vedetta, quanto quello di abile diplomatico.
+
+[**\[link lynn\]**](https://archivio.festivaletteratura.it/oggetti/5825-microbes-good-and-or-evil-lavagne-scienceground-n-2019-09-08-lav-1100)

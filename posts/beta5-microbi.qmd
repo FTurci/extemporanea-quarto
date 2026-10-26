@@ -1,0 +1,23 @@
+---
+title: "{β5} Microbi"
+author: "ExTemporanea"
+date: 2022-03-04
+categories: ["Bibliografie"]
+image: "/uploads/2022/03/20220225_164835-011-1200x1202.jpeg"
+# source: www.extemporanea.eu/β5-microbi (post id 3258)
+---
+
+![](/uploads/2022/03/20220225_164835-011-1200x1202.jpeg){.featured-image}
+
+*Selezione bibliografica per la [biblioteca d’Area del CNR di Bologna](https://demo.hedgedoc.org/T2S5_HtLSaCUJmgTdJKBiw?both)*
+
+Questo percorso riprende alcuni dei testi presentati all’edizione 1.5 di Scienceground (Festivaletteratura 2019), dedicata proprio ai “microbi”. La scoperta del mondo biologico alla scala microscopica è stata una rivoluzione non solo nel mondo scientifico, anche per le numerose implicazioni in ambito medico, ma anche a livello antropologico e sociale, introducendo nuove modalità (oggi ben note a seguito della diffusione di SARS-CoV2) di concepire la malattia, le relazioni, le classi sociali.
+
+-   *Selected papers in molecular biology*: una selezione di articoli in inglese e francese di Jacques Monod in cui si mostra la nascita della biologia molecolare a partire dalla microbiologia, e quindi il passaggio da uno studio macroscopico e osservativo dei microbi alla realizzazione del loro potenziale come organismi utili tecnicamente al lavoro degli scienziati.
+-   *The pasteurization of France*: la scienza non è un racconto avulso dagli interessi socio-culturali del contesto storico in cui si sviluppa. Il successo di Pasteur come fondatore della microbiologia medica ne è una dimostrazione.
+-   *Mosquito trails*: i microbi possono causare malattie e nel farlo interagiscono con l’insieme delle credenze sociali e culturali della popolazione che colpiscono. La febbre dengue è solo un caso studio di questo “entanglement”.
+-   *Microbes and other shaman beings*: non c’è un solo modo di fare scienza, non esistono definizioni assolute: il voler imporre un punto di vista si chiama colonialismo. L’antropologo e biologo César Giraldo Herrera racconta i microbi come pensati dalla tradizione sciamanica sudamericana.
+-   *How to survive a plague*: una malattia infettiva non è descritta solo dai meccanismi biologici e molecolari di contagio e diffusione, ma anche dall’interazione col vissuto personale e culturale di chi la contrae. Questa interrelazione genera la necessità di nuovi modi di fare ricerca e trovare soluzioni, come in questo racconto di lotta e ricerca militante su AIDS e HIV negli Stati Uniti.
+-   *The drugs don’t work*: a volte i limiti della scienza e della ricerca sono dati dallo stesso sfruttamento che si fa dei loro prodotti. E’ il caso degli antibiotici, di cui l’uso smodato e spesso non necessario ha reso inevitabilmente inefficaci gli effetti, compromettendo pericolosamente la funzionalità della maggior parte delle pratiche mediche.
+
+*\[Immagine di Francesca Maccari\]*

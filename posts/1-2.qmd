@@ -1,0 +1,47 @@
+---
+title: "{#1} A proposito di Scienceground"
+author: "ExTemporanea"
+date: 2019-05-08
+categories: ["Newslettera"]
+# source: www.extemporanea.eu/1-2 (post id 98)
+---
+
+## 
+
+> *«Che il linguaggio purificato della scienza, o persino il linguaggio più ricco e purificato della letteratura, debbano mai essere adeguati a ciò che viene dato dal mondo e dalla nostra esperienza è, nella natura stessa delle cose, impossibile. Accettando allegramente questo fatto, avanziamo insieme, uomini di lettere e uomini di scienza, sempre più lontano nelle regioni dell’ignoto, in continua espansione.»*
+>
+> Aldous Huxley, *Literature and Science* (traduzione nostra)
+
+Ciao!
+
+Se ricevi questa newsletter aperiodica significa che sei amico di qualcuno che negli ultimi due anni ha lavorato duramente per realizzare Scienceground, uno spazio dedicato alla conversazione aperta su scienza, tecnologia e società.
+
+Se non ti va di prendere parte a questa conversazione, ci scusiamo: in calce a questa mail troverai un link per disiscriverti. Ma ti chiediamo per favore di farci sapere perché te ne vuoi andare.
+
+<img src="/uploads/2019/06/1-1-300x200.jpg" class="alignnone wp-image-39" width="530" height="353" />
+
+La prima edizione ufficiale di Scienceground si è svolta nel Settembre 2018 a Festivaletteratura, il più importante festival letterario in Italia. Festivaletteratura ha luogo a Mantova ogni anno attorno al secondo weekend di Settembre, ed il suo programma è ricco e variegato – dovresti [darci un’occhiata](http://www.festivaletteratura.it)!
+
+------------------------------------------------------------------------
+
+**Perché la scienza in un festival letterario?** Ecco una risposta semplice. Quando gli scienziati si incontrano, comunicano i risultati della loro ricerca tramite passaparola: proprio come si tramandano favole e saghe. Oppure usano un complesso sistema crittografico, chiamato “scrittura”. Gli scritti sono spesso cartacei, o visualizzabili su schermi digitali. A seconda del destinatario e dell’occasione, questi scritti si articolano in vari generi: troviamo le comunicazioni rapide (racconti), gli articoli scientifici (saggi), le monografie (romanzi). Ci sono anche blog scientifici (diari pubblici), forum specialistici (epistolari), e a volte c’è pure della poesia nella scienza…
+
+La conversazione scientifica è una forma di letteratura, con il proprio linguaggio, caratteristiche stilistiche, mercato di riferimento, tendenze etc. E così come in passato ci siamo alfabetizzati per tenere il passo con i cambiamenti della società, i tempi sono maturi per diventare zerunizzati!
+
+E la risposta difficile? È quella che stiamo cercando a Scienceground…
+
+<img src="/uploads/2019/06/2-1-300x200.jpg" class="alignnone wp-image-40" width="534" height="356" />
+
+Durante la prima edizione di Scienceground abbiamo realizzato un fitto programma di attività che ruotavano attorno ad una parola chiave: i dati. Nella bellissima cornice della chiesa sconsacrata di Santa Maria della Vittoria, per cinque giorni abbiamo svolto attività di ogni tipo: laboratori, conversazioni con il pubblico, interviste dal vivo e sul web, una biblioteca scientifica, etc. L’obiettivo era quello di mettere a contatto il pubblico con concetti, sia di base che avanzati, di probabilità e statistica, analisi dei big data, apprendimento automatico (machine learning), stato dell’arte nella fisica delle alte energie, e molto altro. Soprattutto, abbiamo tentato di trasmettere la ricchezza e la complessità dell’impresa scientifica. Il programma completo delle attività si può trovare [qui](https://www.festivaletteratura.it/it/racconti/scienceground-il-programma-completo-delle-attivita).
+
+------------------------------------------------------------------------
+
+Un po’ alla volta racconteremo più nel dettaglio le varie attività. Per il momento, qui puoi dare un’occhiata al file [.pdf](https://www.dropbox.com/s/9o932xfwoifmujg/Scienceground_Presentazione-Cern-correct-2.pdf?dl=0) della presentazione del progetto che un nostro rappresentante ha mostrato al CERN, in occasione dell’Open Workshop on Effective Outreach. In quell’occasione abbiamo anche partecipato al dibattito stimolato dall’intervento di James Beacham, che ha contestato il concetto stesso di “outreaching” (che ci prendiamo la libertà di tradurre con “divulgazione”). Qui di seguito ne riportiamo un estratto, ma consigliamo di leggere tutto il [discorso](https://jbbeacham.com/lavoielactee/2018/9/19/abolish-outreach-talk-at-a-workshop-on-effective-outreach-at-cern-2018-september-19):
+
+> “Quindi che cosa conta come “outreach”? E cosa no? Qual è il vostro obiettivo quando fate divulgazione? Volete infondere conoscenza a coloro che non ce l’hanno confortarvi del vostro privilegio? O si tratta di interagire con altri esseri umani curiosi che usano la logica e la ragione proprio come la usiamo noi, ma che forse non hanno avuto la possibilità di farlo in modo controllato – come abbiamo fatto noi? Siete paternalistici e gerarchici quando invece dovreste essere collegiali e orizzontali? Quando fate divulgazione, *da dove* comunicate? È un luogo reale, o un atteggiamento acculturato, una prospettiva sulla scienza e sull’apprendimento che inconsciamente plasma il modo in cui concepite ed eseguite sia la vostra ricerca che i vostri impegni con il pubblico?”
+
+<img src="/uploads/2019/06/3-1-300x200.jpg" class="alignnone wp-image-41" width="542" height="361" />
+
+Scienceground è un progetto giovane e sperimentale, aperto a ogni tipo di contributo. Abbiamo bisogno degli occhi, delle orecchie, delle mani, delle menti e dell’entusiamo di chiunque voglia migliorare il discorso pubblico sulla scienza. Quindi, se pensi di avere buoni suggerimenti o vuoi contribuire di persona a Scienceground, fatti sentire!
+
+ET

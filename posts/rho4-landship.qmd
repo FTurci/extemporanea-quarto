@@ -1,0 +1,30 @@
+---
+title: "{ϱ4} Landship"
+author: "ExTemporanea"
+date: 2022-02-02
+categories: ["Rusco linguacciuto"]
+image: "/uploads/2022/02/rl4-1200x389.jpg"
+# source: www.extemporanea.eu/ϱ4-landship (post id 2927)
+---
+
+![](/uploads/2022/02/rl4-1200x389.jpg){.featured-image}
+
+> “C’è un’affinità tra i suffissi \[inglesi\] *-scape* e *-ship*, e possiamo quindi pensare al paesaggio (*landscape*) sia come qualcosa che è incorniciato, delimitato e scenografico, ma anche come a un concetto molto più grande, che parla di relazioni con la terra, utilizzo del suolo e pratiche agricole che si fondano sulla condivisione. Il paesaggio diventa allora *landship*, ed è un’appartenenza non a un luogo o a una nazionalità astratta, ma l’appartenenza agli insiemi di pratiche che permettono il benessere umano ora e, naturalmente, nel futuro.”
+>
+> Tim Waterman, [“Waste and Frugality”](https://media.ed.ac.uk/media/LSS3_Tim+Waterman+and+Vittoria+Di+Palma/1_3c8bmo56/203059903), *Landscape Seminar Series*, Edinburgh School of Architecture and Landscape Architecture (17/03/2021)
+
+La cittadinanza, spesso concepita come qualcosa di unico, monolitico e limitato, può anch’essa essere manipolata, e invece di essere vista come qualcosa che si può praticare e verificare, è al contrario spesso vista come un diritto di nascita o come qualcosa che è dato o reclamato.\
+\[…\] È importante inquadrare i requisiti per la cittadinanza in modi diversi dallo *ius sanguinis* (diritto di nascita, etnia) e trovare modi più etici di valutarla. Il letterato ambientalista Gary Snyder, nel promuovere la sua idea di cittadinanza, cerca di legare l’appartenenza a paesaggi “sostanziali”, chiedendo di non dare per scontati terreni e pratiche abitative, ma di includere nell’idea di cittadinanza i rapporti delle comunità con la terra, sulla base di un discorso di giustizia e democrazia del paesaggio. La terra, scrive, «è qualcosa a cui le persone appartengono, come a una *res publica*».\
+Ciò che accomuna paesaggio e cittadinanza è innanzitutto, forse sorprendentemente, un suffisso. Come Olwig spiega nel suo libro *I significati del paesaggio*, il suffisso inglese *-scape* significa “forma” e veicola il significato di creare e scolpire, da un lato, mentre dall’altro è anche «affine al suffisso *-ship*, che conferisce un carattere più astratto, nel senso di una condizione come l’amicizia o la sapienza», o nel senso di una qualità o uno stato, «come nel caso della fratellanza o del senso di appartenenza a una città».
+
+Fonte: Tim Waterman, “Introduction: Landships”, in [*Landscape Citizenships*](https://www.routledge.com/Landscape-Citizenships/Waterman-Wolff-Wall/p/book/9780367478827) edited by Tim Waterman, Jane Wolff, Ed Wall, Routledge (2021)\
+Tradotto liberamente
+
+**Approfondimenti:**
+
+Tim Waterman, [“Waste and Frugality”](https://media.ed.ac.uk/media/LSS3_Tim+Waterman+and+Vittoria+Di+Palma/1_3c8bmo56/203059903), *Landscape Seminar Series*, Edinburgh School of Architecture and Landscape Architecture (17/03/2021)
+
+### Traduzioni proposte
+
+-   [Ecumenità](/posts/rho4-ecumenita-landship.html)
+-   [Territorianza](/posts/rho4-territorianza-landship.qmd)

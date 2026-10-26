@@ -1,0 +1,22 @@
+---
+title: "{ϱ2} Coltivazione di dati (data mining)"
+author: "Tomate"
+date: 2022-08-15
+categories: ["Rusco linguacciuto"]
+image: "/uploads/2022/08/rl4-1200x389.jpg"
+# source: www.extemporanea.eu/ϱ2-coltivazione-di-dati-data-mining (post id 3932)
+---
+
+![](/uploads/2022/08/rl4-1200x389.jpg){.featured-image}
+
+Proposta di traduzione di [*data-mining*](/posts/rho3-data-mining.html).
+
+-   *Motivazioni*: Per tradurre “”data-mining”” ho pensato all’atto di scavare nel senso di scavo archeologico, quindi di ricerca, e alla parola “”miniera””. Ho pensato che forse chi conosce le miniere e il lavoro in miniera avrebbe una suggestione più puntuale della mia. Ho guardato anche come questa parola è tradotta in francese e poi ho letto i significati della parola “”miniera””, che contiene di per sé il concetto di ricerca, di scavo, e di grande ricchezza che ci racconta il termine “”data-mining””. Però il termine inglese va oltre, implica uno sfruttamento della risorsa “”dati”” (e molto proficuo).\
+    Casualmente ho scoperto che parlando di miniera si parla di “”coltivazione”” del giacimento e questo mi è sembrato molto interessante, perché un giacimento che resta inutilizzato non produce ricchezza, così come una montagna, o una miniera, di dati. Invece è proprio la coltivazione del giacimento che fa la differenza e penso sia lo stesso per il “”data-mining””. Infatti noi stessi non ci rendiamo conto della ricchezza che rappresentano i nostri dati: allora li scartiamo e li regaliamo a chi li sa coltivare. “
+-   *Concetti chiave*: Ricerca e uso, risorse, dati.
+-   *Formazione della parola*: Composizione
+-   *Elementi che la compongono*: Data e mining, da to mine.
+-   *Traduzione dei singoli elementi*: Dati e estrazione
+-   *Nelle altre lingue*: Il francese ha diverse traduzioni: exploration de données, fouille de données, forage de données, prospection de données. Mi sembra che anche lo spagnolo vada nella stessa direzione.
+-   *Strategia scelta*: perifrasi
+-   *Possibilità scartate*: Estrazione di dati, miniera di dati, studio dei dati

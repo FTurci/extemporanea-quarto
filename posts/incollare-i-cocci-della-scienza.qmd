@@ -1,0 +1,26 @@
+---
+title: "Incollare i cocci della scienza"
+author: "ExTemporanea"
+date: 2021-08-04
+categories: ["@Festivaletteratura"]
+image: "/uploads/2020/08/cropped-upload_18a5a7a63b4434f192c0281f9c183ef7.png"
+# source: www.extemporanea.eu/incollare-i-cocci-della-scienza (post id 1947)
+---
+
+![](/uploads/2020/08/cropped-upload_18a5a7a63b4434f192c0281f9c183ef7.png){.featured-image}
+
+> perché se in pezzi vivono le cose\
+> solo agli attrezzi devono le pose\
+> che tu disprezzi e dici scivolose
+>
+> Gabriele Frasca, *Rame* (1984)
+
+Dal 2017, Scienceground è un progetto scientifico di Festivaletteratura. Uno spazio aperto e sperimentale di dialogo e riflessione sulle scienze, sede di laboratori, percorsi di lettura partecipata, incontri informali, e altro ancora. Scienceground è animato eXtemporanea, una comunità che si interroga sul complesso legame fra scienza e società.
+
+La sindemia in corso è stata uno *stress test*. È – di nuovo – crollata la narrazione del “metodo scientifico” come algoritmo per la produzione di un sapere che idealmente si autocorregge e porta verità e progresso. L’accavalarsi della crisi climatica, virale ed economica ha reso invece evidente le sue fragilità e contraddizioni, rendendo ancora più difficile (e cruciale) trovare nuovi modi di raccontarle e discuterle. Per questo Scienceground è nato e cresciuto in un festival letterario. La nostra sfida – su un terreno scivoloso! – è quella di usare una varietà di attrezzi diversi, compresa la critica letteraria, per sfuggire ai rischi dello spezzettamento dei saperi, e per imparare a leggere quei particolari generi letterari (articoli, report etc.) che chi fa scienza usa per comunicare.
+
+Siamo convinte che la narrazione appiattita della scienza offra il fianco a tifoserie, radicalizzazioni e strumentalizzazioni. Mentre la nostra idea è che, tramite l’impegno collettivo, sia possibile contrastare la dicotomia tra scienza/tecnologia e società/cultura, costruendo nuovi spazi di dialogo dove partecipare senza troppe pose.
+
+Scienceground offre al pubblico del festival un spazio informale in cui si passa senza soluzione di continuità da laboratori pluridisciplinari a letture collettive, al confronto con ospiti dal mondo della ricerca. Vogliamo coinvolgere le persone sia nell’attività scientifica che nella sua discussione, sconfinando nella *citizen science*, la scienza agìta dalla cittadinanza: per esempio alla scorsa edizione abbiamo sperimentato con adulti e bambine un protocollo per l’analisi delle microplastiche disperse nelle acque dei laghi di Mantova.
+
+Per allenarsi al meglio alla creazione di Scienceground, la comunità eXtemporanea ogni anno sceglie una parola chiave. Il progetto si è evoluto a partire dall’unità minima di informazione (*Bit*) nel 2017 per soffermarsi nel 2018 sul ruolo dei *Dati* e della statistica nel processo di elaborazione delle conoscenze scientifiche, spaziando dal *machine learning* alla fisica nucleare. Nel 2019 – su suggerimento dell’antropologo Bruno Latour – siamo passate alla materia vivente e abbiamo puntato il microscopio sui *Microbi*. Da lì abbiamo ampliato lo sguardo fino ad includere, nel 2020, gli *Ecosistemi* in tutta la loro complessità. Quest’anno ci concentreremo invece sugli *Scarti*.

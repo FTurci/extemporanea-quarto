@@ -1,0 +1,19 @@
+---
+title: "Scienceground"
+subtitle: "Conversations on science and society"
+lang: en
+listing:
+  contents: "posts/*.qmd"
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  page-size: 15
+  feed: true
+  fields: [image, date, title, author, categories, description]
+page-layout: full
+title-block-banner: true
+---
+
+[About us](about-us.qmd) · [eXtemporanea news](extemporanea-news.qmd) · [Italiano](../index.qmd)

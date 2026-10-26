@@ -1,0 +1,56 @@
+---
+title: "{#3} In onda!"
+author: "ExTemporanea"
+date: 2019-06-15
+categories: ["Newslettera"]
+# source: www.extemporanea.eu/3-in-onda (post id 159)
+---
+
+> *«Ero consapevole di molti eventi per cui non avevo spiegazioni. Il parto con una dilatazione prolungata portava pressoché inevitabilmente alla morte. Le pazienti che partorivano prematuramente o per strada non si ammalavano mai, e ciò contraddiceva la mia convinzione che le morti fossero dovute a cause endemiche. La malattia appariva sequenzialmente tra i pazienti della prima clinica. I pazienti nella seconda clinica erano più sani, sebbene gli individui che vi lavoravano non fossero più abili o coscienziosi nelle loro mansioni. La mancanza di rispetto manifestata dai dipendenti verso il personale della prima clinica mi rese così infelice che la vita mi sembrò inutile. Tutto era in discussione; tutto sembrava inspiegabile; tutto sembrava incerto. Solo il grande numero di morti era una realtà inconfutabile.»*\
+> Ignaz Semmelweis, *The Etiology, Concept and Prophylaxis Of Childbed Fever* [1](http://www.socialmedicine.info/index.php/socialmedicine/article/viewFile/178/353) (traduzione nostra)
+
+Ciao!
+
+Ricevi questa newsletter aperiodica perché sei ancora amico di un membro di ExTemporanea, l’equipaggio che cerca di creare un condotto spazio-temporale che connette le particelle elementari e l’analisi sociale. Puoi saperne di più [qui](/posts/1-2.html) e [qui](/posts/2-2.html).
+
+Se ne hai avuto abbastanza ci scusiamo: per cancellarti premi il tasto giusto in fondo alla pagina. Ma per favore dacci un consiglio su come evitare di essere insopportabili.
+
+------------------------------------------------------------------------
+
+Stiamo preparando un programma ricco e variegato di attività di Scienceground alla prossima edizione del Festivaletteratura, Mantova 4-8 Settembre, che è stata presentata ufficialmente in un incontro pubblico tenutosi lo scorso giovedì a Mantova. Mentre attendi con ansia il programma scientifico completo, [qui](https://www.festivaletteratura.it/en/tales/the-authors-of-festivaletteratura-2019) puoi dare una sbirciatina all’elenco (ancora in aggiornamento) ad alcuni degli autori che parteciperanno al festival, e [qui](https://www.festivaletteratura.it/it/racconti/guida-a-festivaletteratura-2019) puoi avere anche una panoramica sul programma. Avviso di spoiler: il tema principale di Scienceground 1.5 è trapelato, lascia stare quest’ultima pagina se vuoi aspettare una nostra comunicazione ufficiale…
+
+<img src="/uploads/2019/06/9-300x200.jpg" class="alignnone wp-image-161" width="602" height="401" />
+
+Nel frattempo siamo fieri di annunciare: habemus situm! Su [scienceground.it](/en/index.html) raccoglieremo report, contributi, discussioni etc.
+
+Quindi, senza ulteriori indugi, siamo pronti per iniziare la nostra prima attività online. Lo scorso mese abbiamo proposto di leggere *Il dottor Semmelweis* di Louis-Ferdinand Céline. È ora di farci due chiacchiere. Ecco le istruzioni per partecipare alla conversazione:
+
+1.  Se non hai ancora letto il libro, fallo in questi prossimi giorni! È una lettura veloce…
+2.  Condividi la tua opinione [qui](/posts/semmelweis-di-l-f-celine.html).
+
+Per il momento, riuniremo in un singolo post la discussione in un misturotto di Italiano e Inglese. Se sei pratico di entrambe le lingue, per favore traduci i tuoi commenti (il primo commento sarà moderato, e se sei benintenzionato allora i successivi fileranno via più lisci…e se sei un bot sarà meglio che tu abbia un quoziente di intelligenza artificiale molto elevato!).
+
+<img src="/uploads/2019/06/12-300x200.jpg" class="alignnone wp-image-162" width="605" height="403" />
+
+L’embrione di Scienceground è stato allevato *in vivo* alla 21esima edizione di Festivaletteratura nel Settembre 2017. Abbiamo stabilito la nostra piccola comunità in Santa Maria della Vittoria, una bella chiesa rinascimentale sconsacrata, dove per cinque giorni abbiamo intrattenuto ogni sorta di attività sulla pratica e sui fondamenti del calcolo: workshop, conversazioni, lezioni, etc… Si chiamava **Hackspace**, ma ora ci piace riferirci retroattivamente a **Scienceground 1**. Abbiamo costruito porte logiche, un sonar Arduino, abbiamo discusso della crittografia, e molto altro ancora.
+
+<img src="/uploads/2019/06/11-300x200.jpg" class="alignnone wp-image-163" width="603" height="402" />
+
+Uno dei workshop di Hackspace sta ancora circolando nelle scuole elementari e nei festival. Abbiamo costruito il computer meccanico più semplice (un sommatore binario meccanico a 10 bit) con il LEGO. [Qui](https://github.com/alexallmont/ILW2015/blob/master/Session%201%20-%202%20bit%20adders.pdf) puoi trovare istruzioni precise e [qui](https://www.youtube.com/watch?v=jLercOsKE8A) qualche spiegazione. È interessante capire cosa riesce a fare questa macchina. L’input nel sommatore binario è la rappresentazione di un numero da zero a tre espresso in cifre binarie:
+
+    zero = 00
+     uno = 01
+     due = 10
+     tre = 11
+
+0 sta per “non inserire la sfera” e 1 per “inserire la sfera”. Da notare che nel sistema binario 01+01=10, cioè, si “riporta”, proprio come nel sistema decimale sommando sette + tre si ha una cifra nulla e si “riporta” per ottenere dieci.
+
+Questo è esattamente ciò che fa questa macchina: “riporta” fino a due cifre nel sistema binario (non molto! Dobbiamo ammetterlo…). Tuttavia per quanto banale possa sembrare, questo meccanismo è una caratteristica saliente dell’intero concetto di computazione. Il messaggio chiave da cogliere è che un apparato meccanico può eseguire calcoli, ovvero, trasformare un input di informazione in un output di risultato.
+
+Nei nostri workshop noi non forniamo istruzioni precise ai partecipanti, ma li stimoliamo a ragionare su come tradurre meccanicamente l’operazione di “riporto” con i pochi pezzi di LEGO che forniamo loro. È straordinario osservare come i bambini superino sistematicamente gli adulti, e a volte se ne escono addirittura con soluzioni innovative a cui non avevamo pensato noi stessi.
+
+<img src="/uploads/2019/06/2-1-300x200.jpg" class="alignnone wp-image-40" width="600" height="400" />
+
+ExTemporanea è una comunità giovane e in crescita, e ora abbiamo anche un sito nuovo fiammante dove puoi far sentire la tua voce. Non essere timido! Partecipa alla discussione, proponi un tema tu stesso, e resta sintonizzato!
+
+ET

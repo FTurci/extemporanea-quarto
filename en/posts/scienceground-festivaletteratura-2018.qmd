@@ -1,0 +1,200 @@
+---
+title: "@Festivaletteratura2018"
+author: "ExTemporanea"
+date: 2018-09-01
+categories: ["@Festivaletteratura"]
+lang: en
+# source: www.extemporanea.eu/en/scienceground-festivaletteratura-2018 (post id 141)
+---
+
+<figure class="aligncenter">
+<img src="https://www.festivaletteratura.it/img/1716_1692_Scienceground_sito.png?w=1200&amp;h=600&amp;fit=crop&amp;s=093203995e8901fd490e24ec164de985" />
+</figure>
+
+> *“Science \[…\] nowadays is beset by raids on its epistemological grounding from academia, a backlash from religion, an attack on its professionalism from free-market ideology, and scorn from those who think a simple life without technology is the only salvation for the human race. \[…\] But science \[…\] has the potential to provide an object lesson in how to make good judgments in a society beset by technological dilemmas. For more than three hundred years the old-fashioned values of science have seeped into Western societies like the air we breathe. Imagine a society without any place at all for the cultural authority of science. It would have surrendered all responsibility to politics, market forces, or competing modes of revelation, and it would be a dystopia—at least as anyone who prefers thinking things through to force would see it.*
+>
+> Harry Collins, *Science as a Reflection of Society*.
+
+------------------------------------------------------------------------
+
+For the **whole duration of Festivaletteratura** a temporary research group composed of university students, Ph.D. candidates, university and industry researchers will occupy the deconsecrated church of [Santa Maria della Vittoria](https://www.festivaletteratura.it/it/2018/luoghi/chiesa-di-santa-maria-della-vittoria) and give life to [SCIENCEGROUND](https://www.festivaletteratura.it/it/racconti/scienceground-terreno-per-il-confronto-scientifico-al-festival). In part a *playground* where you can play with probability, statistics and mathematical logic and in part a meeting point where you can understand the *background* and the dilemmas of those who do research, or study to become researchers. It is also partly an *underground* channel through which you can intercept scientific discourse without filters, in all of its complexity: a signal that is otherwise very difficult to capture in the background noise of the society of entertainment, where science is often reduced to a passing piece of news. **Workshops, mathematical and smart computer games, reading groups, live** and **web interviews** (our online guests include Carlo Rovelli, Harry Collins, Peter Woit, Alex Reinhart and Sabine Hossenfelder), **a podcast**, **a library with a collected bibliography:** these are just some of the tools with which the young researchers will engage in a process of self-teaching and will guide the public through their itineraries. **The starting point: the word “data” in all of its acceptations.** From data-mining to big data, from statistics to machine learning, from objective fact to personal opinion. Always with a healthy skeptical aptitude.
+
+------------------------------------------------------------------------
+
+**THEMES**
+
+#probablity #statistics #bigdata #algorithms #machinelearning #theoreticalphysics #science#in#society #sociology#of#science
+
+**ON-GOING EVENTS**
+
+**BIBLIO\
+Scientific library**
+
+On the shelves: a selection of scientific monographs and educational publications. On the tables are piles of scientific articles, paperwork and notes.
+
+**SOCIOLOGY 1\
+Podcast: Voices from science**
+
+A microphone in hand, a few volunteers wander around the city, capturing voices from all scientists attending the festival. No heroic stories or outstanding achievements, just human thoughts. Like a crayfish, science moves on carefully, looking down on the floor it is stepping on. What is the role of a scientist? A custodian of centuries-old methodologies, or a pioneer creating others? If science is a social activity, to what extent are its paths influenced by unpredictable fashions? Finally, given the rigor of the methods, a scientist in a lab coat has become a symbol of credibility and certainty. Behind the social figure, aren’t all scientists facing insecurity and perplexity towards their own work? Is truth actually “truth”?
+
+**LAB PROBABILITY\
+The bank always wins. How to get statistics wrong.**
+
+If your heart ever bursts when a lottery ball is falling down; if you feel dizzy every time you see a % sign; if you are looking for a remedy against misleading gambling adds: we have a solution for you. Instead of hurriedly taking a blood test, or running to the nearest game table, come and try our probability lab. Dice and cards in hand, roulette spinning, we will understand statistics through practice. All bets are on!
+
+*In collaboration with Museum of Balì*
+
+**LAB MACHINE LEARNING\
+How did you come to know this? Inside the minds of our computers**
+
+The technologies we are using on a daily basis suggest content to us based on our habits. To do this in an efficient way, they use advanced statistical techniques called *machine learning.* Through concrete examples, this lab will illustrate how these algorithms work and engage the public in a discussion around the role machines play in our society, today and tomorrow.
+
+**Suggested reading:**\
+*– R2D3*, an experiment in expressing statistical thinking <http://www.r2d3.us/>\
+– Frank Pasquale,*The Black Box Society: The Secret Algorithms That Control Money and Information* (Harvard University Press 2017)\
+– Grégoire Chamayou, *Teoria del drone* (Derive e Approdi 2014)
+
+------------------------------------------------------------------------
+
+**DAILY EVENTS**
+
+**Wednesday 5 September**
+
+**• 16.00 – PHYSICS 1\
+Is information physical, or is physics an opinion?**\
+Do the pages of a book contain a precise amount of information, or does it depend on the reader? And how much information does our DNA contain? If entropy is a measure of the chaos in the world, who decides how messy a bedroom is: the mother or the child? With some chalk and a blackboard, we’re off to discover theoretical physics!
+
+**Suggested reading:**\
+*–* Erwin Schrödinger, *Che cos’è la vita* (Adelphi 1995)\
+*–* James V. Stone, *Information Theory. A Tutorial Introduction* (Sebtel Press 2015)
+
+**• 19.00 – LAB STATISTICA 1\
+Do green peas make us fall off a skateboard?**\
+It seems that appearing on the cover of Sports Illustrated magazine brings bad luck: many of the sportsmen photographed embark on a downward spiral afterwards. But is it really extraordinary, or is there a simple explanation? In this workshop we will try to understand statistical fallacies, that is, those special tricks our brain plays when we are confronted with information patterns. We will also deal with how these same fallacies trouble the production and interpretation of scientific knowledge.
+
+**Suggested reading:**\
+*–* Ben Goldacre, *La cattiva scienza* (Mondadori Bruno, 2013)\
+*–* Alex Reinhart, *Statistics done wrong* (No starch press, 2015)
+
+------------------------------------------------------------------------
+
+**Thursday 6 September**
+
+**• 10.00 – ELEMENTS 1**\
+Presentation of the daily schedule of Scienceground.
+
+**• 11.00 – METHODS 1**\
+**“An American study says that…” Scientific papers – wait what?**“\
+Newspapers and TV programmes are thick with science columns and dedicated sections, but where does the news come from? (Rightly) considered hard and expensive, scientific papers get to the public filtered by a complex system of intermediation. In a world that is ever more a victim of fake news, is it possible to approach this kind of literature in an autonomous and critical manner?
+
+**Suggested reading:**\
+*–* Ben Goldacre*,* *Bad Science* (Fourth Estate, 2008)\
+*– Scientific Studies: Last Week Tonight with John Oliver (HBO),* *<https://www.youtube.com/watch?v=0Rnq1NpHdmw>\
+–* BMJ’s *How to read a paper* *<https://www.bmj.com/about-bmj/resources-readers/publications/how-read-paper>*
+
+**• 15.30 – DATA SCIENCE 1**\
+**Reading group: *Weapons of Maths Destruction* by Cathy O’Neal**\
+Statistical models and mathematical algorithms are more and more pervasive. Despite being regarded as objective tools, they often feed off the same prejudices which affect human decision-making, blindly reinforcing them in an unregulated manner. If this happens, we are dealing with “weapons of math destruction”, as Cathy O’Neal calls them in her eponymous book. The dangers? More social inequality and even a threat to democracy. Prior to the coverage of the news on all the international press, the book (published in 2016) was already citing Cambridge Analytica and its use of data collected through Facebook. Dr. Giuseppe De Nicolao, professor of Identification of Models and Data Analysis at the University of Pavia will guide us in the reading.
+
+**Suggested reading:**\
+*–* Cathy O’Neal, *Weapons of Math Destruction* (Crown Books, 2016)\
+*–* Jerry Z. Muller, *The tyranny of metrics* (Princeton University Press 2018)
+
+**• 20.00 – HIGH ENERGY 1**\
+**Web interview with Peter Woit:** ***Quo vadis high-energy physics?**\
+*Sixteen years after Peter Woit’s paper *String Theory: An Evaluation* appeared on Cornell’s public archive, String Theory is still alive and kicking, and still “not even wrong,” a phrase by which Pauli dismissed a friend’s theory that made no experimental prediction. Some argue String Theory requires to re-think the scientific method, some say it is a dead end. What is the future of theoretical physics, and what are the social repercussions of the parabola of String Theory?
+
+**Suggested reading:**\
+*–* Peter Woit, *Not even wrong* (Basic Books, 2006).\
+– Tommaso Dorigo, *Anomaly! Collider Physics and the Quest for New Phenomena at Fermilab* (World Scientific Publishing Company, 2016).
+
+------------------------------------------------------------------------
+
+**Friday 7 September**
+
+**• 10.00 – ELEMENTS 2**\
+Presentazione della programmazione quotidiana di Scienceground.
+
+• **10.30 – HIGH ENERGIES 2**\
+**Reading group: Lost in Math by Sabine Hossenfelder**\
+In science, theory and experimental evidence should go together. Yet many of the most accredited hypothesis of theoretical physics have not yet been empirically proven and perhaps never will be. Can we still talk about science? And why, according to Sabine Hossenfelder, is the search for beauty a part of the crisis?
+
+**Suggested reading:**\
+*–* Sabine Hossenfelder, *Lost in Math. How beauty leads physics astray* (Basic Books, 2018)
+
+**• 16.00 – SOCIOLOGY 2**\
+**Let’s not call it all fake news! Conversation with Massimiano Bucchi.**\
+How much do we really know about science and technology and why are we often distrustful of data, results, and standpoints coming from experts? What channels do we use and who do we trust the most when gathering information on scientific content? These are some of the questions we will try to answer by exploring, with Massimiano Bucchi, the dynamics which regulate the complicated and often ambivalent relationship between public opinion and science.
+
+**Suggested reading:**\
+– Observa Science in Society, *Annuario Scienza Tecnologia e Società. Edizione 2018*, a cura di Giuseppe Pellegrini (Il Mulino 2018).\
+– Massimiano Bucchi, *Scienza e Società, introduzione alla sociologia della scienza* (Raffaello Cortina Editore. 2010).\
+– Massimiano Bucchi, *Sono lo scienziato, risolvo i problemi*. La Stampa, Tuttoscienze, 25 luglio 2018, reperibile su <https://mb.soc.unitn.it/articoli/>\
+– Massimiano Bucchi, *La scienza non è democratica ma lo diventa quando si applica nella società*. La Stampa, 20 dicembre 2017, reperibile su <https://mb.soc.unitn.it/articoli/>
+
+**• 18.00 – HIGH ENERGIES 3**\
+Web interview with Sabine Hossenfelder: *If we can’t test it, is it science?\
+*Following this morning’s reading group, we will interview Sabine Hossenfelder online.
+
+------------------------------------------------------------------------
+
+**Saturday 8 September**
+
+**• 10.00 – ELEMENTS 3**\
+Presentation of the daily schedule of Scienceground.
+
+**• 10.30 – HIGH ENERGIES 4**\
+**Reading group: *Seven Brief Lessons on Physics*by Carlo Rovelli**\
+Just four years after its publication, *Seven Brief Lessons on Physics*is already considered a classic. In spite of that, Carlo Rovelli’s dedication to the public understanding of science comes from afar: from when he dusted off his passion for Greek philosophers. One in particular: Anaximander of Miletus.
+
+**Suggested reading:**\
+*–* Carlo Rovelli, *Seven Brief Lessons on Physics* (Penguin books, 2014).\
+*–* Carlo Rovelli,*Che cos’è la scienza. La rivoluzione di Anassimandro* (Mondadori 2017)\*
+
+**11.30 – OUTREACH 1**\
+**Video interview with Carlo Rovelli: Divulgation in the era of “infotainment”**\
+Scientific publishing is changing. We are swarmed with books which, abandoning the precision of reasoning, focus on entertaining the reader with metaphors, speculation, anecdotes. This type of narration envelops science in an almost religious aura of mystery. Other books, on the contrary, go directly to the heart of the issue.
+
+**• 15.00 – CRIPTOGRAPHY**\
+**What is behind those green padlocks on web pages?**\
+When we send an email or fill a form with our credit card data, our message travels via a public network and anybody is potentially capable of intercepting it and modify it. How did internet communication become safe and what are the limits of our modern strategies? Can we trust the technology and those who manage it?
+
+**• 16.00 – LAB STATISTICS 2**\
+**Do Nicholas Cage movies cause drowning?**\
+“Everything you know is false”: a recurrent leitmotif among amateur conspiracy theorists. In this brief lecture you can become a professional conspiracy theorist! And update the phrase to: “Everything you know is not right”. Wait… isn’t that exactly the same? What about: “Everything you don’t know might be true?”. Help! In what sense is a fact true? And what tools do we need to fight the likes of “Big Data” and “Big Pharma”? You will not find the answer in this workshop, but in any case the absence of evidence is not the evidence of absence.
+
+**• 17.00 – STATISTICS 1**\
+Reading group: *[Statistics done wrong](https://www.statisticsdonewrong.com/)* by Alex Reinhart\
+Following the previous lab, we get ready to interview Alex Reinhart, author of a brilliant book on the use and abuse of statistics in science.
+
+Suggested reading:\
+*–* Alex Reinhart, *Statistics Done Wrong* (No starch press, 2015)\
+*–* Alex Reinhart’s website <https://www.refsmmat.com/>
+
+**• 18.00 – STATISTICS 2**\
+Web interview with Alex Reinhart: Falling prey of statistical fallacies\
+“A few years ago I was an undergraduate physics major at the University of Texas at Austin. I was in a seminar course, trying to choose a topic for the 25-minute presentation all students were required to give. “Something about conspiracy theories,”, I told Dr. Brent Iverson, but he wasn’t satisfied with that answer. It was too focused and detailed. I studied the sheet of suggested topics in front of me. “How about scientific fraud and abuse?” he asked, and I agreed.
+
+In retrospect, I’m not sure how scientific fraud and abuse is a narrower subject than conspiracy theories, but it didn’t matter. After several slightly obsessive hours of research, I realized that scientific fraud isn’t terribly interesting — at least, not compared to all the errors scientists commit unintentionally.”
+
+------------------------------------------------------------------------
+
+**Sunday 9 September:**
+
+**• 10.00 – ELEMENTS 3**\
+Presentation of the daily schedule of Scienceground.
+
+**• 11.00 – SOCIOLOGY 3**\
+Harry Collins: The secret lives and histories of statistical data\
+Are data objective? Where does the reputation of science come from? And is it in danger? Sociologist of science Harry Collins has long investigated this question, in many contexts: from the search of gravitational waves, to artificial intelligence.
+
+**References**:\
+*–* Harry Collins, *Gravity’s ghost and big dog. Scientific discovery and social analysis in the XXIst Century* (Chicago Univ. Press, 2013)*–* Harry Collins, *Artifictional Intelligence: Against Humanity’s Surrender to Computers* (Wiley, 2018)
+
+**• 15.00 – OUTREACH 2**\
+Wrap Up Meeting\
+The Small Temporary Scientific Community will gather to evaluate the experience and say our goodbyes. The guests of Festivaletteratura are invited to the meeting and to contribute to the conversation, with enthusiasm and care.
+
+------------------------------------------------------------------------
+
+*This project has received funding from [Dyson Italia](https://www.dyson.it/) and from the [European Union’s Horizon 2020 research and innovation programme](https://ec.europa.eu/programmes/horizon2020/en/) under the Marie Skłodowska-Curie grant agreements No 675440 – AMVA4NewPhysics and No 765710 – INSIGHTS, the innovation programme No 674979- NANOTRANS, and the project NanoThermo, ERC-2015-CoG Agreement No. 681456.*

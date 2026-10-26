@@ -1,0 +1,46 @@
+---
+title: "{#1} About Scienceground"
+author: "ExTemporanea"
+date: 2019-05-08
+categories: ["Newsletter"]
+lang: en
+# source: www.extemporanea.eu/en/1-about-scienceground (post id 103)
+---
+
+> *«That the purified language of science, or even the richer purified language of literature should ever be adequate to the givenness of the world and of our experience is in the very nature of things, impossible. Cheerfully accepting the fact, let us advance together, men of letters and men of science, further and further into the every-expanding regions of the unknown.»*
+>
+> Aldous Huxley, *Literature and Science*
+
+Hi!
+
+If you receive this mail it means you’re friend with someone who in the past two years worked hard to create Scienceground, a space for open conversation on science, technology, and society.
+
+If you feel you don’t belong here, our apologies: at the bottom of this email you can find a button to unsubscribe. But please let us know why you decided to leave.
+
+<img src="/uploads/2019/06/1-1-300x200.jpg" class="alignnone wp-image-39" width="530" height="353" />
+
+The first official release of Scienceground came to life in September 2018 at Festivaletteratura, the most important literature festival in Italy. Festivaletteratura takes place in Mantova yearly around the second weekend of September, and it features a rich and varied program – [check it out](http://www.festivaletteratura.it)!
+
+------------------------------------------------------------------------
+
+**Why science at a literature festival?** Here is the easy answer. When scientists meet, they communicate the results of their scientific research by word-of-mouth: much like fairy tales are told. Otherwise they use a complex system of encryption, called “writing”. Writings are most often engraved on paper or displayed on digital screens. According to the target and style, such collections of printed words fall into several different genres: rapid communications (short stories), papers (articles), reviews and monographs (novels). There are scientific blogs (public diaries), specialized forums (epistolaries), and sometimes there’s also poetry in science…
+
+Scientific conversation is a form of literature, with its own language, stylistic features, market, trends etc. And just like some time ago we had better go literate to keep up with impeding social changes, time is ripe we also go scientifically-literate.
+
+What about the difficult answer? That’s what we are after at Scienceground…
+
+<img src="/uploads/2019/06/2-1-300x200.jpg" class="alignnone wp-image-40" width="539" height="359" />
+
+During Scienceground 2 we ran a tight program of activities built around a keyword: data. For five days we organized all sorts of activities: laboratories, conversations, live and web interviews, a scientific library, etc. The objective was to get the audience in contact with fundamental and advanced concepts in probability and statistics, big data analysis, machine learning, state-of-the-art high-energy physics, and much more. Most importantly, we wanted to communicate a rich and complex view of the scientific enterprise. The full program of activities can be found [here](https://www.festivaletteratura.it/it/racconti/scienceground-il-programma-completo-delle-attivita).
+
+------------------------------------------------------------------------
+
+Little by little we will leak out more details about the activities. For the moment, you can take a look at the [.pdf](https://www.dropbox.com/s/9o932xfwoifmujg/Scienceground_Presentazione-Cern-correct-2.pdf?dl=0) file of the presentation of the project that a spokesperson delivered at CERN, on the occasion of the stimulating Open Workshop on Effective Outreach organized by the scientific collaboration AMVA4NewPhysics. There we also attended the thought-provoking seminar of James Beacham, who challenged the very notion of “outreaching”. Here is an extract, but we suggest reading [the whole piece](https://jbbeacham.com/lavoielactee/2018/9/19/abolish-outreach-talk-at-a-workshop-on-effective-outreach-at-cern-2018-september-19) :
+
+> “So what counts as outreach? And what does not? What is your goal when you “do outreach”? Is it to give knowledge to the uninformed, to make yourself feel good about your privilege? Or is it to engage with other curious humans who use logic and reason just like we do but perhaps haven’t had the chance to do it in a controlled way like we have? Are you paternalistic and hierarchical when you should be collegial and horizontal? When you are *reaching out*, what are you *in*? Is it a real place or is it an acculturated attitude or perspective on science and learning that unconsciously shapes the way you view and execute both your research and your engagements with the public? Should you even be *in* there?”
+
+<img src="/uploads/2019/06/3-1-300x200.jpg" class="alignnone wp-image-41" width="537" height="358" />
+
+Scienceground is a young and experimental project, open to contributions of all kinds. We need the eyes, ears, hands, minds and enthusiasm of all the people who want to improve the public conversation on science. So, if you think you have good suggestions, or if you want to contribute on person, make yourself heard!
+
+ET

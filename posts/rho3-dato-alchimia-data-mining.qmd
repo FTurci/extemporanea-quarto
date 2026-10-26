@@ -1,0 +1,23 @@
+---
+title: "{ϱ3} Dato-alchimia (data mining)"
+author: "Tomate"
+date: 2022-08-15
+categories: ["Rusco linguacciuto"]
+image: "/uploads/2022/08/rl4-1200x389.jpg"
+# source: www.extemporanea.eu/ϱ3-dato-alchimia-data-mining (post id 3930)
+---
+
+![](/uploads/2022/08/rl4-1200x389.jpg){.featured-image}
+
+Proposta di traduzione di [*data-mining*](/posts/rho3-data-mining.html).
+
+-   *Motivazioni*: La parola “alchimia” evoca subito il concetto di scoperta. Oltre a questo, la traduzione “dato-alchimia” può risultare adatta perché la pratica alchemica prevedere non solo processi di estrazione ma anche di trasformazione delle materie prime coinvolte e condivide con il data mining anche il carattere fortemente interdisciplinare, concetti che risultano invece mancanti nella traduzione più comune di “estrazione”. Da non sottovalutare anche il valore simbolico che tale parola assume nell’immaginario comune, che può certamente aiutare a valorizzare la preziosità del risultato finale
+-   *Concetti chiave*: interdisciplinare, estrazione, scoperta, trasformazione
+-   *Formazione della parola*: Composizione
+-   *Elementi che la compongono*: Data (sostantivo) + mining (sostantivo / verbo)
+-   *Traduzione dei singoli elementi*: Data = dei dati + Mining = attività mineraria / attività estrattiva / scavare a fondo
+-   *Nelle altre lingue*:\
+    exploration / fouille / forage / prospection de données (francese) = esplorazione / scavo / perforazione / prospezione di dati, minería / exploración de datos (spagnolo) = estrazione / esplorazione di dati, Prospecção de dados (portoghese) = prospezione di dati, Extragerea de cunoștințe din date (rumeno) = estrazione di conoscenza di dati, kunnskapsfunn i databasar\
+    (norvegese) = risultati della conoscenza di dati
+-   *Strategia scelta*: Composizione
+-   *Possibilità scartate*: statistico, estrazione, elaborazione

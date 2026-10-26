@@ -1,0 +1,70 @@
+---
+title: "{#25} La newsletter che verrà"
+author: "ExTemporanea"
+date: 2022-02-28
+categories: ["Newslettera"]
+image: "/uploads/2022/02/25_1-1200x804.jpg"
+# source: www.extemporanea.eu/25-la-newsletter-che-verra (post id 3200)
+---
+
+![](/uploads/2022/02/25_1-1200x804.jpg){.featured-image}
+
+> «Vedi caro amico cosa si deve inventare\
+> Per poter riderci sopra»
+>
+> Lucio Dalla, *L’anno che verrà*
+
+*Stai leggendo la newsletter sporadica di eXtemporanea, una comunità ibrida che discute dello scientifico nella società, del sociale nelle scienze, e di tant’altro. Se non ricordi come ci hai conosciuto, forse il nostro sito [**scienceground.it**](/index.html) può aiutarti a recuperare le tracce. [**Qui**](/extemporanea.html) trovi i precedenti numeri.*
+
+Care amiche, vi scriviamo:
+
+l’anno vecchio non smette mai di finire, ma noi già abbiamo delle grosse novità!
+
+Come comunità abbiamo a lungo parlato di parlare di *linguaggio*: eppure lo parliamo “naturalmente”! Anche voi vi sentite bombardate dagli interventi perentori su quali sono i giusti termini da usare? E come noi siete insofferenti ai toni esagerati — ma neppure vi accontentate di rimanere neutrali? È giunto il momento di capire di cosa stiamo parlando: per questo vi invitiamo a una libera lettura condivisa.
+
+Coordinate più precise qui sotto, nella nuova rubrica **Cosa bolle in pentola**, in cui d’ora in poi cercheremo di aggiornarvi sulle tante attività pubbliche che organizziamo, a cui partecipiamo, o che ci sembrano interessanti.
+
+A fianco dei tradizionali **Consigli di lettura**, la newsletter-che-verrà sarà arricchita da qualche breve rubrica. Oggi **Dal rusco linguacciuto** recupereremo proposte di traduzione di parole straniere nuove, difficili, o inusuali: partiamo con *drosscape*. In **Old but goldies** recuperiamo qualche vecchio percoso, alla luce dell’inquietante attualità.
+
+Per la prima volta poi vi facciamo anche sentire una delle nostre voci:
+
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="30" loading="lazy" src="https://archive.org/embed/Cavazzoni" width="500"></iframe>
+
+Speriamo un giorno di sentire anche le vostre: l’anno che sta arrivando tra un anno passerà, ed è meglio parlarne invece di nutrire silenziosi pensieri sospettosi. Noi ci stiamo preparando, e questa è la novità!
+
+Avete suggerimenti? Scriveteci a extemporanea@tuta.io
+
+*(Illustrazioni di Alberto Motolese)*
+
+<img src="/uploads/2022/02/25_2-300x128.jpg" class="alignnone wp-image-3205" width="747" height="318" />
+
+## Cosa bolle in pentola
+
+-   ***Linguistica per tutte***. Cos’è ‘sto benedetto *linguaggio*? Lo sappiamo usare, d’accordo, a volte anche molto bene… Ma oltre le norme che ci hanno inculcato a scuola, come funziona? Ci addentriamo in un fitto dibattito con **Edward Sapir & Benjamin Lee Whorf** e con **Andrea Moro**, in due o più appuntamenti online. [Qui ulteriori dettagli e istruzioni per partecipare](/posts/linguistica-per-tutte.html).
+-   ***Epistemologie — Indagine, critica e costruzione di senso nel campo tecnico e scientifico***. Parteciperemo a un interessante corso presso la libreria Punto Input di Bologna, in particolare animando la terza lezione su turchi meccanici e intelligenze artefatte. Tutte le informazioni e i dettagli per l’iscrizione li trovate sull’[evento Facebook](https://fb.me/e/2Tb0IISYS) e scrivendo alla libreria (formazione.input@gmail.com). Per un po’ di informazioni aggiuntive vi linkiamo la [locandina](https://www.dropbox.com/s/4klmek02p8aghez/epistemologie-2.pdf?dl=0) e [gli abstract](https://www.dropbox.com/s/5x25l5mgdq6ss5z/epistemologie_info-corso.pdf?dl=0) del corso. Un’ottima occasione per approfondire tanti temi che ci stanno a cuore: «frammentare e toccare con mano il significante “scienza”, per studiare le tensioni e le varie storicità che lo compongono».
+-   **Microplastiche: a *neverending story***. Nelle due scorse edizioni di Scienceground abbiamo [ragionato con voi](https://2021.festivaletteratura.it/scienceground/laboratori/microplastiche/) sulle implicazioni e le modalità di comunicazione del problema delle microplastche in acqua, presentando un [protocollo di ricerca](https://2020.festivaletteratura.it/scienceground/eventi/tre-lezioni-di-sopravvivenza-acqua-dolce-3/) (in collaborazione con [Globe Italia](https://globeitalia.it/index.php/mmpt-blog) e [Deakin University](https://www.deakin.edu.au/)). Purtroppo non è ancora tempo per smettere di parlarne: la Commissione Europea ha lanciato una [consultazione pubblica](https://ec.europa.eu/environment/consultations/web-based-public-consultation-policy-framework-biobased-biodegradable-and-compostable-plastics_en) su bioplastiche e plastiche biodegradabili/compostabili. Parteciperemo con nuove riflessioni: vi aggiorniamo nella prossima newsletter!
+-   Eduardo Yalán Dongo (Universidad de Lima, Universidad Peruana de Ciencias Aplicadas), **Introduzione alla semiotica del consumo**: seminario di ecosofia di [ubi minor](https://ubiminorblog.wordpress.com/), 3 marzo h 15, aula 3 di via Zamboni 38, Bologna (online: teams, scrivere a ubiminor.seminari@gmail.com)
+-   **Come vivremo? (Ammesso e non concesso che vivremo)**, incontro con Franco “Bifo” Berardi, Lunedì 28 h 21, Alchemilla Via Santo Stefano 43, Bologna
+
+<img src="/uploads/2022/02/25_3-300x156.jpg" class="alignnone wp-image-3207" width="762" height="397" />
+
+## Old but gold
+
+**Venti di guerra**. La situazione geopolitica europea e mondiale ci riporta alla mente (ahinoi) alcuni ragionamnenti che avevamo fatto su Scienza, guerra, società. Se cercate anche voi qualche spunto salvifico, [qui](https://archive.org/details/scienza-guerra-societa_202102/) trovate le registrazioni agli eventi che nel 2020 organizzammo al Palazzo Ducale di Genova, con la collaborazione dell’Università di Genova e di colleghi e colleghe che con noi si preoccupavano dei risvolti bellici delle proprie attività di ricerca. Se preferite la lettura ai podcast, [ecco](/posts/scienza-guerra-societa-bibliografia.html) una piccola bibliografia di supporto.
+
+<img src="/uploads/2022/02/25_4-300x99.jpg" class="alignnone wp-image-3203" width="786" height="259" />
+
+## Dal rusco linguacciuto: [*drosscape*](/posts/rho1-drosscape.html)
+
+**Paesaggio relitto**: «Mi è arrivata una suggestione da Baudelaire e dai suoi relitti (“les épaves”), che sono scarti ma non assumono la connotazione negativa di scarto, anzi, sono potenzialmente portatori di un rinnovamento». [Continua…](/posts/rho1-paesaggio-relitto-drosscape.html)
+
+<img src="/uploads/2022/02/25_5-300x72.jpg" class="alignnone wp-image-3204" width="835" height="200" />
+
+## Consigli di lettura/ascolto
+
+-   Elia Faso, [*Da Luca Rastello c’è ancora da imparare…*](https://gliasinirivista.org/luca-rastello-insegna-ancora/), Gli Asini Rivista
+-   Paul Kingsnorth, *Savage Gods*, Two Dollar Radio, 2019. [In questo podcast](https://soundcloud.com/theclearingpodcast/paul-kingsnorth-and-charles-foster-on-savage-gods) un’intervista all’autore sui temi del libro.
+-   Antoniette Rouvroy e Bernard Stiegler, [*Il regime di verità digitale. Dalla governamentalità algoritmica a un nuovo Stato di diritto*](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiY0561mZb2AhX8SvEDHdByCQ4QFnoECAsQAQ&url=http%3A%2F%2Fwww.ladeleuziana.org%2Fwp-content%2Fuploads%2F2016%2F12%2FRouvroy2.pdf&usg=AOvVaw2Xr25wr69eUXpDWtxB9kyE), La Deuleziana N . 3 / 2016 – La vita e il numero
+-   AAVV, [*Un decalogo per interpretare correttamente la mortalità da Covid-19*](https://www.scienzainrete.it/articolo/decalogo-interpretare-correttamente-mortalit%C3%A0-da-covid-19/maria-giulia-gatti-giuliano), Scienza in Rete: «L’ultimo punto di questo decalogo rappresenta una sfida per il futuro. Ovvero un’esortazione a occuparsi non più solo dei morti per Covid-19, ma anche degli effetti indiretti della pandemia.»
+-   David Robertson and Peter Doshi, [*The end of the pandemic will not be televised*](https://www.bmj.com/content/375/bmj-2021-068094), BMJ 2021; 375
+-   Robert Musil, [*Sulla stupidità*](https://www.ibs.it/sulla-stupidita-libro-robert-musil/e/9788877682970), conferenza del 1937 per la Lega austriaca del lavoro.

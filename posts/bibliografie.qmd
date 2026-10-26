@@ -1,0 +1,11 @@
+---
+title: "Bibliografie"
+author: "ExTemporanea"
+date: 2022-03-11
+categories: ["Bibliografie"]
+# source: www.extemporanea.eu/bibliografie (post id 3334)
+---
+
+I libri sono parte fondamentale del nostro metabolismo. Li raccogliamo in bibliografie ragionate. Alcune di queste bibliografie sono consultabili presso la Biblioteca d’Area del CNR di Bologna.
+
+[Qui](/posts/un-bastimento-carico-di.html) raccontiamo meglio il progetto, [qui](https://www.zotero.org/groups/2536502/scienceground-cnr/library) è possibile consultare la selezione, qui consultare tutta la documentazione.

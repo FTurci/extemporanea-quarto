@@ -1,0 +1,19 @@
+---
+title: "{#12} I giorni del virus /12"
+author: "ExTemporanea"
+date: 2018-05-21
+categories: ["Varie&eventuali"]
+# source: www.extemporanea.eu/12-i-giorni-del-virus-12 (post id 1207)
+---
+
+<figure class="wp-block-gallery columns-1 is-cropped">
+<ul>
+<li><figure>
+<img src="/uploads/2020/05/bByepewNTZZwKhVZwJQnwcKj.png" class="wp-image-1208" width="800" height="600" />
+</figure></li>
+</ul>
+</figure>
+
+<figure class="wp-block-image size-large">
+<img src="/uploads/2020/05/copertina2-1024x497.png" class="wp-image-1210" width="1024" height="497" />
+</figure>

@@ -1,0 +1,23 @@
+---
+title: "{ϱ2} Greenwashing"
+author: "ExTemporanea"
+date: 2022-02-02
+categories: ["Rusco linguacciuto"]
+image: "/uploads/2022/02/rl2-1200x331.jpg"
+# source: www.extemporanea.eu/ϱ2-greenwashing (post id 2921)
+---
+
+![](/uploads/2022/02/rl2-1200x331.jpg){.featured-image}
+
+Si parla di *greenwashing* per indicare le pratiche adottate da quelle aziende od organizzazioni interessate ad acquisire una reputazione «verde», ossia ecologica, senza che vi corrisponda un modo di operare sostanzialmente diverso da quello degli altri soggetti (concorrenti) rispetto ai quali esse si vogliono differenziare. Le origini di questa strategia risalgono agli anni ’70 e ’80, quando vi si ricorreva per distogliere l’attenzione dell’opinione pubblica e dei media dall’impatto ambientale negativo (talvolta veri e propri disastri) di alcune attività produttive.\
+\[…\] Il *greenwashing* è ciò che si potrebbe definire un «marketing ecologico di facciata», i cui sforzi sono orientati – prevalentemente attraverso attività di comunicazione – a una modifica della reputazione aziendale senza incidere realmente sulla sostenibilità ambientale dei processi produttivi adottati o dei prodotti realizzati.\
+\[…\] L’obiettivo è la rivendicazione da parte dell’azienda di qualità ambientaliste a cui non corrispondono azioni concrete, ad esempio utilizzando messaggi e immagini ad hoc o pubblicizzando donazioni e accordi con associazioni.\
+\[…\] Occorre comunque riconoscere che le attività di greenwashing non sono sempre il risultato di malafede o atteggiamenti opportunistici, ma in molti casi dipendono da una mancanza di competenze in materia di management ambientale.
+
+Fonte: Carlo Alberto Pratesi, [“Greenwashing”](https://www.aggiornamentisociali.it/articoli/greenwashing/), *Aggiornamenti Sociali* 01, 63-66 (2011)
+
+### Traduzioni proposte
+
+-   [Ambientalismo di convenienza](/posts/rho2-ambientalismo-di-convenienza.html)
+-   [Ecocrisia](/posts/rho4-ecocrisia-greenwashing.html)
+-   [Ecoabluzione / ecoablusionismo](/posts/rho2-ecoabluzione-ecoabluzionismo-greenwashing.html)

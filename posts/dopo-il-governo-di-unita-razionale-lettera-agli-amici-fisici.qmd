@@ -1,0 +1,62 @@
+---
+title: "Dopo il governo di unità razionale (lettera agli amici fisici)"
+author: "ExTemporanea"
+date: 2020-04-30
+categories: ["DiarioDalBordo"]
+keywords: ["fisica", "modelli matematici", "statistica"]
+image: "/uploads/2020/04/2-1.png"
+# source: www.extemporanea.eu/dopo-il-governo-di-unita-razionale-lettera-agli-amici-fisici (post id 1131)
+---
+
+![](/uploads/2020/04/2-1.png){.featured-image}
+
+*Matteo Polettini per Slow News*
+
+> “Da un pezzo me ne sono accorto.\
+> La ragione è sempre\
+> dalla parte del torto.”\
+> Giorgio Caproni, *Tutte le poesie* (Milano, Garzanti 2013)
+
+Solo pochi mesi fa: nonostante le informazioni sull’epidemia dalla Cina, l’Italia ha tardato a reagire. Solo poche settimane fa: nonostante le notizie dall’Italia, gli Stati Uniti hanno tardato a reagire. Solo pochi giorni fa: la Svezia ha reagito, ammettendo un ritardo. Eccetera.
+
+Perché la montagna di dati e testimonianze elaborati da personale medico, ricercatori, agenzie nazionali e internazionali riesce solo a fatica a tramutarsi in azione – nonostante i prodotti della scienza siano senza orma di dubbio informazione, cioè *forma mentis* della nostra epoca? Quali elementi della costruzione della conoscenza le impediscono di tradursi in fiducia – portandoci a barattare l’autorevolezza per l’autorità?
+
+A partire da queste domande iniziamo a buttare giù qualche appunto, più per infittirle che per risolverle con delle risposte estemporanee. Se, magari nutriti dai [contributi dei lettori di Slow News](https://demo.codimd.org/sK5eL30wQjSaElPGeiDzJg?both), i pensieri affollandosi dovessero trovare un ordine e la penna continuare a scorrere, chiederemo di nuovo ospitalità su queste pagine. Senza fretta, *ça va sans dire*.
+
+*\[Prosegue su [Slow News](https://www.slow-news.com/dopo-il-governo-di-unita-razionale/)\]*
+
+<a href="#" aria-expanded="false" onclick="showhide_toggle(&#39;pressrelease&#39;, 1131, &#39;&#39;, &#39;&#39;); return false;"></a>
+
+Partiamo proprio da quella parola: “costruzione”. L’idea che i fatti di scienza possano essere costruzioni (e che per estensione la natura sia almeno in parte artificiale) è un’espressione che per lo più fa inorridire i miei colleghi fisici. [Quei pensatori che hanno usato questo tipo di perifrasi](https://www.iltascabile.com/scienze/latour-scienze-intervista/?fbclid=IwAR3oVz3jcTabpHb_p8Dcs5Plk50zq95WPMD7l9cdpYhu_mqxOMdMX7Xjtqk), il più delle volte per evitare di essere dogmatici nella descrizione dei meccanismi interni del funzionamento della ricerca, sono stati a lungo dileggiati (ma raramente letti). Forse perché la si è percepita *passivamente* come una mancanza di rispetto nei confronti delle proprie pratiche e credenze, e in particolare nei confronti di uno dei miti fondativi della scienza moderna, quello dell’oggettività. E da lì ci si è imbarcati in una battaglia di retroguardia per salvaguardare la propria materia o allearla in maniera posticcia alle nuove discipline emergenti (le scienze della vita, la *data science* etc.), le quali da canto loro sono state ben felici di assumere la postura riduzionista che alla fisica ha guadagnato tanti gloriosi successi – dalla predizione del movimento degli astri a quella della collisione delle particelle elementari.
+
+Pensiamo però che la situazione in cui siamo tutti coinvolti, che cambierà il mondo della produzione della realtà scientifica in maniere difficili da immaginare, ci permetta di rileggere questa frase sotto un’altra luce. Proprio in questi giorni paradossali di appello unanime all'”unità razionale” (oltre che nazionale), proponiamo invece:
+
+1\) di pensare *attivamente* in termini di “costruzione di un fatto scientifico”, piuttosto che di “espressione della natura”;\
+2) di rinunciare all’oggettività autoritaria per un’autorevole soggettività;\
+3) di ascoltare le ragioni e i metodi di chi la pensa molto diversamente (e non solo per creare “collaborazioni”, ma “con-fusioni”).
+
+Questa è anche una scelta di campo.
+
+La prima facile osservazione è che COVID-19 non è un “fatto di natura”, ma il prodotto della nostra interazione con molti altri attori non-umani (il virus, il pipistrello, il cielo sorvolato dalle compagnie *low-cost* etc.), spesso connotata da pratiche industriali di appropriazione della biosfera che hanno tratto dal discorso scientifico la loro legittimazione. Ma lasciamo questo punto da parte.
+
+La considerazione per noi più cogente è invece offerta dalla confusione globale nel reperimento e interpretazione di informazioni valide sul virus, all’epoca in cui non mancano certo dati e strumenti di analisi semi-automatizzata, con relativa profusione di narrazioni volte a ispirare l’impressione del controllo. Invece la disponibilità di *database* di ogni tipo, dalla mobilità personale alle sequenze geniche, nobilmente messi a disposizione della collettività, rivela un’impotenza di fondo: l’impossibilità di coinvolgere tutta l’umanità o gran parte di essa ad uno o più progetti di mappatura.
+
+Sono bellissime le visualizzazioni dati [del progetto Nextstrain](https://nextstrain.org/ncov) che tracciano globalmente la filogenesi del virus, e sia chiaro: il sequenziamento continuo è fondamentale per monitorare le mutazioni potenzialmente patogene, al fine di individuare una migliore risposta terapeutica. Ma quale ente o organismo potrà mai assicurarsi che ogni piccolo ospedale del nord Italia si metta a retrotrascrivere e sequenziare diligentemente l’RNA per poi fornire i dati a questo particolare database? Il rischio è che questa banca dati pubblica, rimanendo abbozzata o incompleta, venga impiegata per fare estrapolazioni improprie. Come la [ricerca dell'”RNA-0″](https://www.nejm.org/doi/full/10.1056/NEJMc2001468), che ha riprodotto a livello scientifico la stessa [nevrosi popolare della ricerca del “paziente-0”](https://tomate.wordpress.com/2020/03/02/una-storia-inventata/). Così si rischia di non riuscire più a distinguere la discussione scientifica da quella da bar di paese che si svolge quotidianamente sui giornali nazionali.
+
+Nextstrain e il suo abuso sono solo un esempio, ma sono tantissimi i database, molto meno accurati di Nextstrain, assoldati come le reclute in guerra: abborracciati, partiti da ipotesi diverse, incollati l’uno all’altro con lo scotch, inviati senza una chiara prospettiva di tornare – spesso fantomatici *deliverables* utili a solleticare le fantasie dei funzionari delle istituzioni che finanziano la ricerca scientifica, ma che spesso non distinguono quest’ultima da un dentifricio, o da un prodotto finanziario.
+
+Anche se ben raccolti, la condivisione dei dati nel nome della sacrosanta ma controversa *open science* pone poi dilemmi metodologici. Come a forza di mirar le stelle si intravedono delle figure mitologiche, così a forza di rovistare in una banca dati si trovano dei *pattern*. Ottimi per formulare ipotesi da supportare poi con delle procedure indipendenti e dati freschi, ma non certo tornando a osservare la stessa fetta di cielo ad ogni giro di sole: l’uso ripetuto e individuale degli stessi dati per trarre conclusioni o tirare a scommettere ne depaupera il valore. E questa è solo una delle tantissime [fallacie statistiche](https://www.statisticsdonewrong.com) da cui nessun organo di autocontrollo ci sta proteggendo – portandoci a fare, più che un’astrofisica, un’astrologia del virus.
+
+Insomma non è mai stato più lampante di oggi che la cosiddetta “natura” da sola non parla, ma deve essere interrogata, e che la qualità della risposta dipende dalla struttura della domanda. Anzi, tanta parte della risposta è *nella* domanda. Da dove parte il virus? Come si diffonde? Quali agenti possono contrastarlo? Quali possono imitarlo e scaturire in noi una risposta immunitaria? Qual è la sua infettività/morbosità/viralità? E’ debellabile? Ognuno di questi quesiti origina da un diverso modello della realtà, che applichiamo all’occorrenza come fosse un filtro fotografico. Nonostante riconduciamo le rispettive pratiche conoscitive sotto l’unico cappello della “scienza”, la loro intersezione è spesso molto esigua (un virologo ed un epidemiologo hanno molto meno in comune di quello che abitualmente è dato intendere).
+
+Inoltre, le domande a cui siamo abitualmente esposti non sono le uniche possibili. Uno sciamano amerindio, nel complesso delle sue pratiche soggettive – danze, infusioni, canti, incisioni cutanee etc. – [di fronte ad uno “spirito” sconociuto potrebbe chiedersi](/posts/intesseremondi.html): Che cosa vuole da me? Che cosa posso dargli? E cosa posso riceverne? Come posso conviverci? Per quanto ci sembrino astruse, queste domande potrebbero avere pieno diritto nella nostra medicina il giorno in cui, per esempio, la malattia diventasse endemica, il vaccino risolvi-tutto tardasse, e si dovessero cercare pratiche e strumenti “conviviali” – un termine con cui il critico della modernità Ivan Illich, rifiutando un impossibile ritorno al passato, cercava di coniugare l’avanzamento tecnologico con le esigenze di una comunità che, oggi, include anche gli attori non-umani. Di fatto, oggi il medico professionista in gamba, destreggiandosi tra esami diagnostici automatizzati, conversazioni interpersonali con il paziente e con le persone a lui vicine, le montagne di dati ministeriali, e le tante pratiche rituali che scandiscono la somministrazione della salute, assomiglia più a uno *data-shaman* che non a uno *data-scientist* – quanto di più lontano dal miraggio del “metodo scientifico”, altro mito fondativo della nostra tribù.
+
+Formulare domande, articolare ipotesi sensate, e – eccoci! – “costruire” un fatto scientifico è compito precipuo della *comunità* degli scienziati, non del singolo “scienziato eroe” che lotta contro le avversità per far valere la verità – una figura che tanta pubblicistica ha costruito come esempio di condotta intellettuale e morale. La domanda riceverà una risposta tanto più chiara e netta quanto più essa sarà seria e forte: cioè, “vera” nel senso che è condivisa da una comunità. Qualsiasi fisico sperimentale che abbia lavorato all’affinamento dei metodi d’analisi di grandi esperimenti sa bene che è la collegialità che garantisce la credibilità di una scoperta, non la sua verità intrinseca. Un criterio sociologico, non scientifico o metafisico.
+
+Pensare in termini di costruzione di un fatto scientifico ci mette nella disposizione di organizzare collettivamente il *contesto* in cui si possa formare un consenso stabile, e non produrre il *contenuto* in sè, che siano ulteriori dati o un’elaborazione di quelli esistenti. Ora che tanti di noi sono [coinvolti in progetti di analisi di dati](/posts/la-modellizzazione-matematica-dellepidemia-usi-e-abusi.html) ([qui](https://docs.google.com/forms/d/e/1FAIpQLScXC56q2tPgz0WbPrhP7WareiclfxfaKQFI0ZbXg4FkKan5iQ/viewform), [qui](https://www.epidemicdatathon.com), [qui](https://crowdfightcovid19.org/volunteers), [qui](https://epcced.github.io/ramp/), [qui](https://covid19challenge.mit.edu), e in Italia [qui](https://www.facebook.com/groups/PhysicistsAgainstSARSCoV2/) etc.), ricordiamoci che la materia che stiamo interrogando riflette la nostra domanda, e che, al contempo, la domanda che poniamo riflette le nostre aspirazioni, ideologie, aspettative, come individui o come membri della società. Che forma devono avere delle istituzioni che possano al tempo stesso convogliare il nostro desiderio di conoscenza, e impedirci di peccare di superbia?
+
+Per concludere. Interiorizziamo il fatto che la scienza è la fabbrica della percezione di una natura che non è mai stata più palesemente ibrida con l’umano: questa è la nostra forma di *empowerment*. Porsi questo problema è uno strumento per evitare che la nostra disciplina diventi preda del cinismo di chi queste domande fondamentali non se le è mai poste, e già sta mettendo la freccia a destra proponendosi per progetti di *governance* globale basati su dati presunti “oggettivi”.
+
+Se incontrate di queste persone, il nostro consiglio è di cambiare aria, in entrambi i sensi.
+
+*Il plurale usato in questo articolo non è maiestatis. L’autore, Matteo Polettini, ricercatore in fisica, è tra i processori dell’Algoritmo Umano, un percorso di esplorazione di procedure di scrittura collettiva e individuale sperimentato dalla comunità [ExTemporanea](/index.html). Questo articolo attinge creativamente dall’elaborazione comune.*

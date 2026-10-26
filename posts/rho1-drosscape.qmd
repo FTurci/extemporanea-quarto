@@ -1,0 +1,34 @@
+---
+title: "{ϱ1} Drosscape"
+author: "ExTemporanea"
+date: 2022-02-02
+categories: ["Rusco linguacciuto"]
+image: "/uploads/2022/02/rl1-1200x395.jpg"
+# source: www.extemporanea.eu/ϱ1-drosscape (post id 2919)
+---
+
+![](/uploads/2022/02/rl1-1200x395.jpg){.featured-image}
+
+*\[Il Rusco linguacciuto è un gioco proposto da eXtemporanea\]*
+
+Secondo Berger, *drosscape*, come concetto, implica che gli scarti, o rifiuti, possano diventare paesaggio, se modellati o rivestiti e riprogrammati per un riutilizzo adattivo. Berger prosegue spiegando che questo fenomeno emerge da due processi primari. In primo luogo, i *drosscape* si sviluppano come un sottoprodotto della rapida urbanizzazione e della crescita urbana incontrollata. In secondo luogo, questi spazi nascono come conseguenza di sistemi economici e produttivi dismessi. Per urbanistica, architettura e design, i *drosscape* possono offrire un altro modo creativo di immaginare la progettazione dello spazio e del paesaggio in una città. Secondo Berger, “il riutilizzo adattivo di questo paesaggio di scarto rappresenta una delle grandi sfide di progettazione infrastrutturale del ventunesimo secolo”.
+
+Questi luoghi di scarto sorgono grazie alla deindustrializzazione e alla crescita industriale, la quale ha sostituito le vecchie tecnologie con quelle nuove, portando alla “distruzione creativa”, o all’abolizione dell’obsoleto. Questo concetto riqualifica anche il cosiddetto *urban sprawl*, la dispersione urbana, spiegando che la crescita industriale e il successo dei centri urbani causano inevitabilmente tale movimento “orizzontale”, ma che tale fenomeno non è intrinsecamente negativo. Ancora una volta, ciò richiederà un nuovo modo di pensare, poiché generalmente temiamo la crescita rapida e disordinata di una città e disprezziamo il paesaggio creato dall’uomo. Una volta individuati tali paesaggi, sarà compito delle professionalità più varie integrare e riutilizzare questi spazi nel mondo urbano.
+
+Fonte: [Wikipedia](https://en.wikipedia.org/wiki/Drosscape)\
+Tradotto liberamente
+
+**Approfondimenti:**
+
+Carlo Gasparrini, [“Waste, Drosscape and Project in the Reverse City”](http://recycleitaly.net/estratto/waste-drosscape-and-project-in-the-reverse-city/), *Re-Cycle Italy* 08, 47 (2014)
+
+*[Il territorio degli scarti e dei rifiuti](https://issuu.com/recycleitaly/docs/7406)*, a cura di Rosario Pavia, Roberto Secchi e Carlo Gasparrini, *Re-Cycle Italy* 08, 47 (2014)
+
+\_[Drosscape. Progetti di trasformazione nel territorio dal mare a Roma](https://issuu.com/recycleitaly/docs/26_re-cycle_drosscape)\_, a cura di Roberto Secchi, Maurizio Alecci, Andrea Bruschi e Paola Guarini, *Re-Cycle Italy* 26 (2016)
+
+Vittoria Di Palma, [“Waste and Frugality”](https://media.ed.ac.uk/media/LSS3_Tim+Waterman+and+Vittoria+Di+Palma/1_3c8bmo56/203059903), *Landscape Seminar Series*, Edinburgh School of Architecture and Landscape Architecture (17/03/2021)
+
+### Traduzioni proposte
+
+-   [Paesaggio relitto](/posts/rho1-paesaggio-relitto-drosscape.html)
+-   [Territorio residuale](/posts/rho1-territorio-residuale-drosscape.html)

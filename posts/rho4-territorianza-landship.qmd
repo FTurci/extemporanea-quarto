@@ -1,0 +1,20 @@
+---
+title: "{ϱ4} Territorianza (Landship)"
+author: "Tomate"
+date: 2022-08-15
+categories: ["Rusco linguacciuto"]
+image: "/uploads/2022/08/rl2-1200x331.jpg"
+# source: www.extemporanea.eu/ϱ4-territorianza-landship (post id 3922)
+---
+
+![](/uploads/2022/08/rl2-1200x331.jpg){.featured-image}
+
+Proposta di traduzione di [*landship*](/posts/rho4-landship.html).
+
+-   *Motivazioni*: Ho scelto di tradurre landship con un unico neologismo e per derivazione, proprio per conservare l’affinità tra i suffissi -scape e -ship. Ho pensato alle pratiche legate alla terra e al fatto che chiamiamo generalmente ciò che le caratterizza un “legame con il territorio”. Quindi per tradurre l’elemento “Land” ho pensato a “territorio” e ho aggiunto il suffisso relazionale che indica la cittadinanza, ma anche l’appartenenza. Inizialmente non mi sembrava suonasse benissimo, ma più ci penso più mi sembra che potrebbe essere una nuova parola.
+-   *Concetti chiave*: Il concetto di territorio, come qualcosa a cui apparteniamo invece di qualcosa che ci appartiene, e l’affinità tra i suffissi -scape e -ship.
+-   *Formazione della parola*: Composizione
+-   *Elementi che la compongono*: Land; citizenship
+-   *Traduzione dei singoli elementi*: Land = Terra; Citizenship = cittadinanza
+-   *Nelle altre lingue*: Non ho trovato altre traduzioni
+-   *Strategia scelta*: Derivazione

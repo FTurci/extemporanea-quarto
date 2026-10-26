@@ -1,0 +1,19 @@
+---
+title: "Newsletter"
+lang: en
+# source: www.extemporanea.eu/en/extemporanea-news (post id 126)
+---
+
+If the numbers seem funny you’re quite right to be concerned! The truth is that we don’t translate  every newsletter we send out (originally in Italian) into English. You can subscribe [here](https://festivaletteratura.us17.list-manage.com/subscribe?u=f72f8f5a3f5c9ff0059b7cec2&id=99ff8a981c) to stay relatively up to date.
+
+[{#10} The days of the virus /1](/en/posts/6-living-with-the-trouble.html)
+
+[{#6} Living with the trouble](/en/posts/6-living-with-the-trouble.html)
+
+[{#4} Scienceground 1.5: Microbes](/en/posts/4-scienceground-1-5-microbes.html)
+
+[{#3} On air!](/en/posts/3-on-air.html)
+
+[{#2} Reading Semmelweis](/en/posts/2-reading-semmelweis.html)
+
+[{#1} About Scienceground](/en/posts/1-about-scienceground.html)

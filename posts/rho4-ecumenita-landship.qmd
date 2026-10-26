@@ -1,0 +1,20 @@
+---
+title: "{ϱ4} Ecumenità (Landship)"
+author: "Tomate"
+date: 2022-08-12
+categories: ["Rusco linguacciuto"]
+image: "/uploads/2022/08/rl5-1200x385.jpg"
+# source: www.extemporanea.eu/ϱ4-ecumenita-landship (post id 3912)
+---
+
+![](/uploads/2022/08/rl5-1200x385.jpg){.featured-image}
+
+Proposta di traduzione della parola inglese *[landship](/posts/rho4-landship.html).*
+
+-   *Motivazioni*: in geografia antropica, l’ecumène è la parte della Terra dove l’uomo trova condizioni ambientali che gli consentono di fissare permanentemente la sua dimora e di svolgere normalmente le sue attività. Anche se questo concetto non è presente nel linguaggio comune, lo è però quello di “ecumenico/ecumenismo”, perche è legato alla tradizione cristiana, e richiama valori universali di unione e comunità. Ecumene mi sembra quindi il concetto più adatto per veicolare questo senso di appartenenza. Se ad esso si aggiunge il suffisso -ità, preso ad esempio da “sostantivi di appartenenza” come “nazionalità”, si ottiene un composto che riecheggia la parola “comunità”, che è poi il senso ultimo che vorrei esprimere.
+-   *Concetti chiave*: relazione con la terra, condivisione, appartenenza, pratiche
+-   *Formazione della parola*: Composizione
+-   *Elementi che la compongono*: Land (sostantivo) + -ship (suffisso)
+-   *Traduzione dei singoli elementi*: Land = terra / terreno / territorio / suolo + Ship = appartenenza / nazionalità / adesione
+-   *Strategia scelta*: Composizione
+-   *Possibilità scartate*: terra, pianeta, globo, condivisione, geo-appartenenza

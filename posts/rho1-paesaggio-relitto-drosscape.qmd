@@ -1,0 +1,23 @@
+---
+title: "{ϱ1} Paesaggio relitto (drosscape)"
+author: "ExTemporanea"
+date: 2022-02-15
+categories: ["Rusco linguacciuto"]
+image: "/uploads/2022/02/rl1-1200x395.jpg"
+# source: www.extemporanea.eu/ϱ1-paesaggio-relitto-drosscape (post id 3061)
+---
+
+![](/uploads/2022/02/rl1-1200x395.jpg){.featured-image}
+
+Proposta di traduzione della parola inglese *[drosscape](/posts/rho1-drosscape.html).*
+
+-   *Motivazioni*: Leggendo la definizione del concetto di “”drosscape”” e ragionando di scarti durante Festivaletteratura, mi è arrivata una suggestione da Baudelaire e dai suoi relitti (“”les épaves””), che sono scarti ma non assumono la connotazione negativa di scarto, anzi, sono potenzialmente portatori di un rinnovamento. Ho quindi tradotto la parola composta inglese con due parole, “”paesaggio””, perché mi sembra che nel concetto ci sia più di un semplice spazio, e relitto, con questa accezione non solo baudelairiana. Infatti, cercando nell’italiano e scartando significati ho scoperto un significato interessante di “”relitto””, come “”Piccolo tratto di terreno residuato per lo più dalla suddivisione di una zona in appezzamenti”” (Vocabolario Treccani online) – che tra l’altro è interessante anche per una delle vostre sfide più ambiziose, ovvero “”friche””. Nella mia ricerca ho scartato l’opzione “”scenario””, che visivamente mi poteva dare l’idea di drosscape, ma ho pensato che già l’aggettivo “”relitto”” contenesse la parte visiva del concetto. Ho scartato anche spazio, perché, per quanto volessi una traduzione che non prendesse una connotazione assolutamente negativa o positiva, la parola “”spazio”” mi sembrava troppo neutra, perché penso che in drosscape ci sia un paesaggio, una creazione e un abbandono, ma alla fine della mia riflessione mi ricredo un po’ su questo. Concludendo, credo che la parola “”relitto””, più come aggettivo che come sostantivo, possa dare diversi spunti interessanti anche se è uno di quei termini marginali, poco usati, di cui ci dimentichiamo spesso le accezioni. Anzi, penso che per tradurre dei neologismi, soprattutto da una lingua come l’inglese, così pervasiva, ma anche così inventiva, bisogna andare a scavare e riportare in luce i significati delle parole che abbiamo già in italiano, le accezioni che non sappiamo nemmeno di avere, perché anche l’italiano, come tutte le lingue, è fluido ed è destinato a cambiare.\
+    Infine, per caso ho visto che “”drosscape”” è stato tradotto come “”spazio residuale””, che penso sia un’ottima traduzione, molto efficace anche dal punto di vista tecnico, proprio grazie all’esattezza dell’aggettivo “”residuale”” nel definire quel concetto.
+-   *Concetti chiave*: Il concetto di scarto, che io ho interpretato appunto come relitto (se penso anche visivamente a un drosscape); il concetto di paesaggio, perché quando penso a drosscape penso a uno spazio che è stato modellato, che forma un paesaggio; il concetto di innovazione, creatività, che può derivare da questo paesaggio e che io ho collegato forse in modo troppo poetico alla parola “relitto” e a “épave” in francese (un modo di dire francese è “aller aux épaves” e nasconde che dalla raccolta dei relitti possa nascere qualcosa).
+-   *Formazione della parola*: Composizione
+-   *Elementi che la compongono*: Dal sostantivo “dross” e dal suffisso “scape”, che a sua volta viene da “landscape”
+-   *Traduzione dei singoli elementi*: Dross può essere tradotto come “scarto” e “scape” come “veduta”, “panorama”. Ci starebbe anche “panorama di scarto”, ma suona molto negativo.
+-   *Casi simili e loro traduzione*: “Landship” potrebbe essere un caso simile, ma non ne conosco la traduzione in nessuna lingua.
+-   *Nelle altre lingue*: Vedo che “drosscape” resta perlopiù invariato nelle diverse lingue, ma in francese si trova associato, forse come sinonimo (in rete, non in testi scientifici), a “friche” e a un termine molto interessante che è “terrain vague” che potrebbe essere una “terra desolata”, ma non perché disabitata o non vissuta ma perché rappresenta una sorta di non-luogo.
+-   *Strategia scelta*: Composizione
+-   *Possibilità scartate*: Panorama di scarto, scenario, spazio, residuato, friche.

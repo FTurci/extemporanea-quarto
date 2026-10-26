@@ -1,0 +1,21 @@
+---
+title: "{ϱ3} Data mining"
+author: "ExTemporanea"
+date: 2022-02-02
+categories: ["Rusco linguacciuto"]
+image: "/uploads/2022/02/rl3-1200x317.jpg"
+# source: www.extemporanea.eu/ϱ3-data-mining (post id 2924)
+---
+
+![](/uploads/2022/02/rl3-1200x317.jpg){.featured-image}
+
+Il *data mining* è un processo di estrazione e scoperta di schemi in grandi insiemi di dati, che coinvolge metodi che utilizzano intelligenza artificiale, statistica e sistemi di archiviazione. Il *data mining* è un sottocampo interdisciplinare di informatica e statistica con l’obiettivo generale di estrarre informazioni (con metodi intelligenti) da un sistema di dati, trasformandole in una struttura decodificabile per futuri utilizzi.\
+\[…\] Il termine *data mining* è un termine improprio, perché l’obiettivo è l’estrazione di schemi e generazione di conoscenza partendo da grandi quantità di dati, non l’estrazione dei dati stessi. È anche un termine molto gettonato, spesso applicato a qualsiasi forma di elaborazione di dati o informazioni su larga scala (raccolta, estrazione, immagazzinamento, analisi e statistica) nonché a qualsiasi applicazione di sistemi di supporto decisionale computerizzati, inclusa l’intelligenza artificiale (ad esempio il *machine learning*) e la *business intelligence*.
+
+Fonte: [Wikipedia](https://en.wikipedia.org/wiki/Data_mining)\
+Tradotto liberamente
+
+### Proposte di traduzione
+
+-   [Dato-alchimia](/posts/rho3-dato-alchimia-data-mining.qmd)
+-   [Coltivazione di dati](/posts/rho2-coltivazione-di-dati-data-mining.html)

@@ -1,0 +1,65 @@
+---
+title: "{λ3} Come insegnare a delle scatole a giocare"
+author: "ExTemporanea"
+date: 2022-01-31
+categories: ["Laboratori"]
+image: "/uploads/2022/01/1-2-1200x353.jpg"
+# source: www.extemporanea.eu/λ3-come-insegnare-a-delle-scatole-a-giocare (post id 2871)
+---
+
+![](/uploads/2022/01/1-2-1200x353.jpg){.featured-image}
+
+###### Protocollo di laboratorio
+
+*Da una ventina d’anni la più forte “entità” che gioca a scacchi era un algoritmo a cui venivano insegnate le strategie del gioco e che con una grande potenza di calcolo batteva qualsiasi umano. Da cinque anni a questa parte, un altro algoritmo ha preso il sopravvento. Un algoritmo di apprendimento automatico (Machine Learning), che senza sapere alcuna strategia, ma solo giocando moltissime volte, e imparando dai propri errori, batte qualsiasi algoritmo (e di conseguenza qualsiasi umano). Come può un oggetto imparare qualcosa? E chi stabilisce che abbia imparato bene?*
+
+#### Scopo
+
+L’obiettivo del laboratorio è trovare un algoritmo, ossia una ricetta, per far apprendere ad un computer composto da scatole e pezzi del domino colorati un semplice gioco simile al tris (il NIM). La ricerca dell’algoritmo farà emergere il paradigma al cuore del machine learning, ovvero “muoversi dapprima casualmente in uno spazio di configurazioni, per poi correggere il tiro”. Si potrà poi riflettere su come ottimizzare l’algoritmo per renderlo più efficiente, ma senza esagerare, pena l’apprendimento di “errori”.
+
+#### Partecipanti
+
+Età consigliata 9-90.
+
+#### Materiali e costi
+
+-   Pezzi DOMINO di almeno 4 colori diversi;
+-   Una lavagna o simili;
+-   Materiale di cancelleria.
+-   10 Scatole cubiche con coperchio di circa 10cm di lato
+
+<img src="/uploads/2022/01/2-300x295.jpg" class="alignnone wp-image-2873" width="837" height="823" />
+
+#### Descrizione
+
+Il laboratorio può durare dai 30 minuti alle due ore, a seconda di quanto guidata è la ricerca dell’algoritmo. Si divide in tre macro aree:
+
+1\) **Introduzione al gioco del NIM, familiarizzazione con il materiale**.\
+Si danno le semplici regole del gioco e si familiarizza con qualche strategia vincente: è immediata per la versione più semplice del gioco, mentre lo è molto meno per livelli successivi di complessità (per capire le regole dare un’occhiata al riferimento al fondo). Si svolge qualche breve partita alla lavagna tra due giocator3 uman3. Si introduce la composizione del “computer”: ogni configurazione del gioco è mappata da una scatola, mentre ogni mossa è codificata da un pezzo del domino colorato (per i dettagli fare di nuovo riferimento all’articolo al fondo).
+
+2\) **Ricerca dell’algoritmo**.\
+Una volta individuata la semplicissima strategia per vincere nella configurazione più semplice, occorre trovare un modo per spiegarla alle scatole. Dando spazio alla fantasia serve trovare una ricetta per modificare, in modo non fraintendibile, il contenuto di ciascuna scatola, di modo che dopo abbastanza partite, in ogni scatola siano rimaste solo mosse vincenti. Allora le scatole avranno “imparato a giocare”.
+
+3\) **Ottimizazione dell’algoritmo e discussione**.\
+Qual è l’algoritmo ottimale? Quello che fa imparare le scatole nel minor tempo possibile, ma anche quello che non insegna mosse sbagliate! In casi di machine learning applicato a giochi più complessi, però, la strategia non è cosi semplice (e il più delle volte è sconosciuta), dunque occorre essere cauti nella formulazione dell’algoritmo. Il machine learning è un paradigma semplice ma molto potente, e con applicazioni a giochi più difficili (gli scacchi ad esempio), o ambiti nei quali c’è poco da giocare (il calcolo del rischio bancario, o la traduzione automatica) e cosa accade se si imparano strategie “non imparziali?”
+
+#### Considerazioni
+
+Una volta esposta l’idea e gli obiettivi, a meno di richieste di aiuto dirette consigliamo a chi conduce il laboratorio, se si ha tempo, di interferire il meno possibile nella ricerca dell’algiritmo, mantenendo i suggerimenti per una successiva “ottimizzazione”.
+
+Il NIM si dimostra un gioco davvero “fertile” dal punto di vista del machine learning, quasi ogni tentativo di soluzione apre la strada a discussioni di più ampio respiro, pertanto ogni sforzo di fantasia è ben accetto.
+
+Infine, spesso succede che alcunə partecipanti usino il materiale per giocare e creare manufatti di propria ispirazione. Incoraggiamo queste pratiche perché crediamo che i nostri laboratori possano stimolare e ospitare diversi tipi di intelligenze, anche lontane dallo scopo presunto del laboratorio.
+
+#### Realizzazioni
+
+-   Scienceground 1.5-Festivaletteratura 2019, laboratorio di due ore con perlopiù partecipant3 adult3.
+-   Festival delle Scienze di Suzzara, 2019, labpratirio di 20 minuti con student3 delle scuole medie, laboratorio di due ore con ragazz3 delle elementari e genitor3.
+
+<img src="/uploads/2022/01/3-300x253.jpg" class="alignnone wp-image-2872" width="893" height="753" />
+
+#### Altre letture
+
+Un [articolo](/posts/scatole-che-imparano-a-giocare-al-nim.html) uscito sul nostro sito, per capire come si gioca a NIM e vedere una proposta di soluzione dell’algoritmo.
+
+Un [tweet](https://twitter.com/DoraVargha/status/1373211762108076034?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1373211762108076034%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fd-6741770932970510113.ampproject.net%2F2106120107000%2Fframe.html) dove il machine learning dietro la traduzione automatica di Google evidenzia bias nel il suo traning

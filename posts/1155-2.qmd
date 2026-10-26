@@ -1,0 +1,19 @@
+---
+title: ""
+author: "ExTemporanea"
+date: 2019-05-02
+categories: ["Varie&eventuali"]
+# source: www.extemporanea.eu/1155-2 (post id 1155)
+---
+
+<figure class="wp-block-image size-large">
+<img src="/uploads/2020/05/reteidrica.png" class="wp-image-1156" width="1022" height="815" />
+</figure>
+
+<figure class="wp-block-image size-large">
+<img src="/uploads/2020/05/stradebologna.png" class="wp-image-1158" width="1022" height="815" />
+</figure>
+
+<figure class="wp-block-image size-large">
+<img src="/uploads/2020/05/gloria.png" class="wp-image-1165" width="800" height="565" />
+</figure>

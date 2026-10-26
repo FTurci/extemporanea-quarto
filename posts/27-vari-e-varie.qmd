@@ -1,0 +1,54 @@
+---
+title: "{#27} Vari e varie"
+author: "Tomate"
+date: 2022-06-12
+categories: ["Newslettera"]
+image: "/uploads/2022/06/27_1.jpg"
+# source: www.extemporanea.eu/27-vari-e-varie (post id 3772)
+---
+
+![](/uploads/2022/06/27_1.jpg){.featured-image}
+
+> «Il suo scopo, come è tipico di molti specialisti, sembra quello di circoscrivere accuratamente l’oggetto dei suoi studi, rendendolo per così dire neutrale e alla fine, a furia di spiegazioni, inesplicabile. Forse è la meta cui segretamente tendono.»
+>
+>  
+>
+> Giuseppe Pontiggia, *L’Isola Volante*, Mondadori 1996
+
+<img src="/uploads/2022/06/27_1-300x211.jpg" class="alignnone wp-image-3773" width="662" height="466" />
+
+Care salpanti,
+
+mentre due salpe arrostiscono su di un fuocherello a riva, a mo’ di rinfresco inaugurale, incolliamo insieme cocci di vetro, metalli, plastiche e resine industriali. Ne facciamo una bottiglia che subito tornerà a frantumarsi in nuove combinazioni ibride. La schiantiamo sullo scafo di una scialuppa che negli ultimi mesi abbiamo meticolosamente assemblato, raccattando detriti sull’isola. Presto si parte da un molicciolo approntato in un fiumiciattolo interno, un cantiere al riparo dalle onde del mare aperto (ma infestato di zanzare). In tasca una mappa immaginaria del nuovo mondo — dato che quello vecchio è in gran parte sommerso. In testa l’idea di una via da seguire, come un fiume dentro un mare. L’obiettivo: poter scambiare una parola con chiunque, umano o non umano, fosse anche un fossile.
+
+Intanto, un messaggio orale sussurrato in una bottiglia, prima di lasciarla al largo.
+
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="30" loading="lazy" src="https://archive.org/embed/pontiggia_202206" width="500"></iframe>
+
+## Diario di bordo
+
+-   **Via Fluminis**. Per navigare un fiume bisogna porre attenzione a correnti vortici secche etc. Alle improvvise accelerazioni, ai salti di quota. A cosa si assiepa a riva…da due anni accompagnamo il pubblico di Festivaletteratura in questo viaggio, annotando la storia, l’architettura, la natura delle sponde del nostro fiume, il Mincio. Quest’anno, abbiamo deciso di rendere sempre accessibili a chi si avventura in questi territori i nostri appunti di viaggio, raccontati dalle stesse voci che li hanno raccolti. Li trovate [qui](https://viafluminis.festivaletteratura.it/). Non perdete quest’occasione, altre sorprese potrebbero spuntare tra i fiori di loto e le lenticchie d’acqua.
+-   **Uno scaffale in alto mare**. In mare non possiamo stare alla fonda, vicino a sponde sicure e conosciute (finiremmo in circolo, o peggio in spirale…). Dobbiamo avventurarci in mare aperto, confidando nelle stelle. Con noi una bussola e una carta su cui segnare le rotte: specie quelle di dove siamo già state, dacché non sappiamo dove siamo dirette. La nostra posizione, per fortuna, è tracciata e dalla biblioteca Dario Nobili, che mette a disposizione uno strumento partcipativo di [proposta bibliografica](https://www.zotero.org/groups/2536502/scienceground-cnr/library) e uno strumento per [tracciare rotte](https://extemporanea.gitlab.io/biblio-cnr-scienceground/).
+
+<img src="/uploads/2022/06/27_2-300x211.jpg" class="alignnone wp-image-3774" width="789" height="555" />
+
+## Dal rusco linguacciuto: [*greenwashing*](/posts/rho2-greenwashing.html)
+
+**Ambientalismo di convenienza**: «Sono partita dal significato primario di “whitewash”, “imbiancare”, e sono andata ancora a ritroso, alla traduzione letterale “lavare di bianco”, e allora ho fatto una specie di brainstorming con molti scarti: dare una mano di verde, lavarsene di verde le mani, ambientalismo di facciata, ecologia di facciata, ecolavaggio della coscienza… Purtroppo è difficile mantenere il significato del composto e delle due componenti. Mi è venuto in mente “ecolavaggio” perché “green” viene più comunemente tradotto in italiano non con “verde” ma con “eco” e ho pensato al lavarsi la coscienza. [Continua…](/posts/rho2-ambientalismo-di-convenienza.html)
+
+<img src="/uploads/2022/06/27_3-300x211.jpg" class="alignnone wp-image-3775" width="800" height="563" />
+
+## Consigli di lettura/ascolto/visione/partecipazione
+
+-   «The current system of journals and peer review is not serving science. I have therefore resigned from all editorial roles and will no longer do pre-publication peer review. I explain why in this article and in the thread below. Please consider joining me.»\
+    <https://twitter.com/neuralreckoning/status/1529767585990029312>
+-   Julia Steinberger, *The kids are not OK*, <https://jksteinberger.medium.com/the-kids-are-not-ok-c518fffb475>. Riflessioni su scienza e attivismo climatico.
+-   Michela Massimi, [*Perspectives on scientific progress*](https://www.nature.com/articles/s41567-022-01637-5.epdf?sharing_token=RZjpdGAXl51QxKX3mYO049RgN0jAjWel9jnR3ZoTv0PTotyoWCu4o730CKipgabk8RrzJRM-qEhytP51BFoSsDqCD2Hg3tujWSAsj866e1V_PJvfHrA_jsqe13dRSsAEbu2ZLc12f4810W5MCa0itTXExs1ZepFtjyIjT8uAK-w%3D). «Against the backdrop of various philosophical accounts, this Comment argues for the need of a human rights approach to scientific progress, which requires us to rethink how we view scientific knowledge.»
+-   Viaggiare è affar serio e comporta prendersi il tempo necessario per osservare, comprendere e apprendere, formulare domande (e magari darsi alcune risposte). Con questo spirito la biblioteca Dario Nobili organizza [**Slow Science**](https://www.culturabologna.it/events/slow-science), cinque appuntamenti con specialisti provenienti da ambiti diversi della ricerca scientifica, accomunati dalla ricerca del dialogo interdisciplinare. L’iniziativa partecipa al Patto per la Lettura, Bologna.
+-   Dopo la lunga pausa covid riparte quest’anno il festival di divulgazione scientifica ScienzaPop. <https://www.scienzapop.it/>. Se vi trovate a Roma fra il 16 e il 18 giugno, non esistate a fare un salto all’Esquilino. Quest’anno fra gli ospiti ci sarà anche il nostro amico Stefano Dalla Casa.
+
+Big Dada says: [**watch out for fossils!**](https://ia601409.us.archive.org/18/items/fossil_motherboard/fossil_motherboard.mp4)\
+feat.\
+Fossil CPU motherboard\
+Sakuran Zensen 錯乱前戦　タクシーマンのMVです\
+125.378 living being

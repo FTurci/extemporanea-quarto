@@ -1,0 +1,92 @@
+---
+title: "Un quadrato squadrato"
+author: "Michela Marton"
+date: 2020-08-08
+categories: ["Varie&eventuali"]
+keywords: ["farfarfare"]
+# source: www.extemporanea.eu/15-un-quadrato-squadrato (post id 1538)
+---
+
+*\[FarFarFare è una newsletter che indaga percorsi e narrazioni didattici. Ci hanno invitato a curarne un numero.\]*
+
+A cura di eXtemporanea
+
+<img src="/uploads/2020/08/Farfare.jpg" class="wp-image-1539 aligncenter" width="251" height="59" />
+
+***^Farfarfare^** ^ è\ un\ progetto \ di\ Ilaria\ Rodella\ e\ Pietro\ Corraini\ con\ il\ supporto\ di\ Ludosofici\ e\ Corraini\ Edizioni\ Testi\ di\ Costanza\ Faravelli\ •\ Illustrazioni\ di\ Gaia\ Scarpari\ •\ Marketing\ e\ strategia\ di\ Flavio\ Pintarelli. ^*
+
+<img src="/uploads/2020/08/c1-300x228.jpg" class="wp-image-1540 alignright" width="441" height="335" />
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alle volte, quando ero piccolo, **mi sembrava che un rombo fosse un quadrato girato**. Ma questo non torna: il nome di una figura non dovrebbe dipendere da come è orientata, no? Un quadrato ruotato è sempre un quadrato o diventa un rombo?\
+
+**Ho provato a prendere quattro stuzzicadenti.** **\
+**
+
+**Prendo quattro stuzzicadenti e formo il mio quadrato unendo le punte: posso ottenere un quadrato vero, con gli angoli retti e i lati tutti uguali, ma se deformo la mia figura, spostando gli stuzzicadenti ma lasciando le punte unite, otterrò molti rombi.**\
+
+Ho intuito così che i rombi non sono quadrati girati, ma **deformati**. Anzi, sono una specie di quadrati deformati, sempre coi lati uguali, però con gli **angoli**, appunto, deformati. In effetti, sul libro di testo c’era scritto che la definizione di rombo è **«un quadrilatero con i lati tutti uguali»**. Cioè tutte le figure che posso ottenere con quattro stuzzicadenti! 
+
+Ma cosa succede al mio quadrato se, al posto di afferrarlo per gli angoli, lo prendo per i lati e lo tiro da lì? 
+
+**Ho preso un elastico, l’ho messo tra indice e pollice di entrambe le mani e ho formato un quadrato. Adesso voglio vedere che cosa succede. **
+
+**Prendo allora un elastico e formo il mio quadrato di partenza aiutandomi con i due pollici e i due indici. Invece di deformarlo per gli angoli, li lascio uguali e allungo i lati. Li tiro ancora e poi ancora: ecco tanti nuovi rettangoli.**
+
+<img src="/uploads/2020/08/c2-300x160.jpg" class="wp-image-1541 aligncenter" width="459" height="245" />
+
+Sono tornato sul mio libro e, in effetti, leggo: **«il rettangolo è un quadrilatero con quattro angoli retti»**, cioè tutte le figure che posso ottenere stirando l’elastico e tenendo i suoi quattro angoli uguali.
+
+Il rombo mi sembrava un quadrato girato, il rettangolo un quadrato stirato, ma tutto dipendeva da cosa stavo deformando: per il rombo deformo gli angoli, per il rettangolo deformo i lati; per i rombi lascio i lati invariati, per i rettangoli lascio gli angoli invariati.Ecco perché il quadrato è tanto speciale: **è sia un rettangolo sia un rombo.** È la forma dell’incontro tra queste due classi, il loro orizzonte comune. **Ecco l’intersezione!**
+
+<img src="/uploads/2020/08/c3-267x300.jpg" class="wp-image-1542 aligncenter" width="350" height="393" />
+
+Quando ho deformato gli angoli o i lati, mi sono accorto che la definizione astratta di rombo e quella di rettangolo si accompagnavano a un movimento fisico, reale: la geometria è movimento!
+
+A questo punto, mi viene una curiosità e provo a deformare una volta ancora il mio quadrato.
+
+**Disegno il quadrato su un palloncino. Questa volta, al posto di deformare lati o angoli, deformo la superficie su cui ho disegnato il quadrato.**
+
+**Prendo il palloncino e lo gonfio.**
+
+**Quello che ho davanti agli occhi è sempre un quadrato?**
+
+Mi rendo conto che, forse, è tutta una questione di **definizioni**: non posso rispondere a questa domanda se prima non so dire che cosa è per me un quadrato.
+
+Definire è importante, ma, alle volte, anche rischioso. Spesso, in matematica, le definizioni sono così astratte che perdono di vista quello che concretamente indicano. Per questo, le intersezioni possono essere molto utili!
+
+Per esempio, la **linea** si definisce come un **insieme ordinato di punti**. Ogni volta che una o più linee si incrociano posso vedere un’intersezione tra i punti che le compongono: se a incrociarsi sono due rette, l’intersezione è data da un punto; se sovrappongo una “S” a una “I”, a intersecarsi saranno tre punti
+
+<img src="/uploads/2020/08/c4-148x300.jpg" class="wp-image-1543 aligncenter" width="182" height="369" />
+
+È come se l’intersezione mi mostrasse quella definizione. E mi ci facesse pensare un po’ su. Lo fa anche il quadrato, che è l’intersezione a cui ho pensato oggi.
+
+**L’insieme di tutti i rombi e l’insieme di tutti i rettangoli hanno un’intersezione, che è l’insieme di tutti i quadrati.** Noi però non riusciamo a pensare per rappresentazioni di insiemi. Allora, come abbiamo fatto, prendiamo un rettangolo o un rombo e lo deformiamo per bene fino a “quadrarlo” e dimostrare quello che volevamo dimostrare.
+
+**Ma se, invece, quel quadrato lo disegniamo sul palloncino e lo gonfiamo, la figura è ancora un quadrato?\
+**Se per me il quadrato è “la figura con quattro lati uguali e quattro angoli retti”, allora no, il mio quadrato non è più un quadrato. Ma se considero un quadrato come “la figura con quattro lati uguali e quattro angoli uguali”, allora sì, il mio quadrato sul palloncino è ancora un quadrato.
+
+Insomma, si tratta sempre di mettersi d’accordo sulle definizioni. E sembra proprio che le intersezioni siano ciò che ci rendono le definizioni familiari: il nostro punto di vista privilegiato sulle cose.
+
+** **
+
+**eXtemporanea** è un insieme di studenti, ricercatori universitari sparsi per l’Italia, le cui vite si sono intersecate al Festivaletteratura di Mantova.
+
+*eXtemporanea* è un progetto di conversazione scientifica.
+
+ 
+
+*In particolare, hanno contribuito a questo testo: Elena Alma Rastello, Emanuele Penocchio, Giancarlo Cinini, Mattia Galeotti e Paulo Fernando Lévano.*
